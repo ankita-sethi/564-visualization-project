@@ -1,0 +1,49 @@
+svg {
+  font: 13px Verdana, sans-serif;
+  overflow: visible;
+}
+
+.background path {
+  fill: none;
+  stroke: #ddd;
+  shape-rendering: crispEdges;
+}
+
+.foreground path {
+  fill: none;
+  stroke: steelblue;
+}
+
+.brush .selection {
+  fill-opacity: 0.3;
+  stroke: #fff;
+  shape-rendering: crispEdges;
+}
+
+.axis line,
+.axis path {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.axis text {
+  text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
+  cursor: move;
+}
+.fade {
+  opacity: 0.1; /* Adjust opacity as needed */
+}
+
+.tooltip {
+  background: #ffffff;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 12px;
+  pointer-events: none;
+  z-index: 9999;
+}
+.tooltip.hidden {
+  display: none;
+}

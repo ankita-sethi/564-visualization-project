@@ -1,0 +1,873 @@
+country,year,sustainable_index_score,no_poverty_score,zero_hunger_score,good_health_score,quality_education_score,gender_equality_score,clean_water_sanitation_score,happiness_score,gdp_per_capita,social_support,healthy_life_expectancy,freedom_to_make_life_choices,generosity,perceptions_of_corruption,URL
+Afghanistan,2016,44.7,29.8,44.3,34.4,37.4,24.8,45.4,3.36,0.38227,0.11037,0.17344,0.1643,0.31268,0.07112,https://www.worldometers.info//img/flags/small/tn_af-flag.gif
+Afghanistan,2017,45.6,29.6,43.5,35.1,38.9,27.1,46.6,3.79399991,0.401477218,0.581543326,0.180746779,0.10617952,0.311870933,0.06115783,https://www.worldometers.info//img/flags/small/tn_af-flag.gif
+Afghanistan,2018,46.3,29.1,47.8,36.9,40.2,29.0,47.9,3.632,0.332,0.537,0.255,0.085,0.191,0.036,https://www.worldometers.info//img/flags/small/tn_af-flag.gif
+Afghanistan,2019,46.4,29.4,47.0,36.5,42.0,30.8,49.2,3.203,0.35,0.517,0.361,0.0,0.158,0.025,https://www.worldometers.info//img/flags/small/tn_af-flag.gif
+Afghanistan,2020,47.3,27.9,46.0,37.6,42.0,30.2,50.4,2.566900015,0.30070585,0.356433839,0.266051531,0.0,0.135234714,0.001225785,https://www.worldometers.info//img/flags/small/tn_af-flag.gif
+Afghanistan,2021,46.3,20.0,46.7,37.5,34.4,32.9,50.4,2.523,0.37,0.0,0.126,0.0,0.122,0.01,https://www.worldometers.info//img/flags/small/tn_af-flag.gif
+Afghanistan,2022,49.0,12.4,46.9,37.5,34.4,32.9,50.4,2.404,0.758,0.0,0.289,0.0,0.089,0.005,https://www.worldometers.info//img/flags/small/tn_af-flag.gif
+Afghanistan,2023,49.00560144,12.4105,46.91514286,37.48671429,34.366,32.92625,50.426,1.859,0.645,0.0,0.087,0.0,0.093,0.059,https://www.worldometers.info//img/flags/small/tn_af-flag.gif
+Albania,2016,71.1,96.5,49.5,80.9,96.5,53.7,73.0,4.655,0.9553,0.50163,0.73007,0.31866,0.1684,0.05301,https://www.worldometers.info//img/flags/small/tn_al-flag.gif
+Albania,2017,71.9,96.7,56.9,81.7,93.8,55.5,73.3,4.644000053,0.996192753,0.803685248,0.731159747,0.381498635,0.201312944,0.039864216,https://www.worldometers.info//img/flags/small/tn_al-flag.gif
+Albania,2018,73.5,97.4,57.6,82.5,96.1,56.1,73.5,4.586,0.916,0.817,0.79,0.419,0.149,0.032,https://www.worldometers.info//img/flags/small/tn_al-flag.gif
+Albania,2019,73.7,98.5,58.3,82.6,95.2,57.4,73.6,4.719,0.947,0.848,0.874,0.383,0.178,0.027,https://www.worldometers.info//img/flags/small/tn_al-flag.gif
+Albania,2020,73.7,98.4,59.0,82.7,94.3,57.3,73.7,4.882699966,0.906653047,0.830483913,0.846329629,0.461945891,0.171027765,0.025361285,https://www.worldometers.info//img/flags/small/tn_al-flag.gif
+Albania,2021,73.7,98.5,59.1,82.1,86.8,60.7,73.7,5.117,1.008,0.529,0.646,0.491,0.168,0.024,https://www.worldometers.info//img/flags/small/tn_al-flag.gif
+Albania,2022,73.5,98.6,59.3,81.9,86.8,60.8,73.7,5.199,1.439,0.646,0.719,0.511,0.138,0.028,https://www.worldometers.info//img/flags/small/tn_al-flag.gif
+Albania,2023,73.50609736,98.6285,59.25185714,81.91864286,86.8065,60.8485,73.7458,5.277,1.449,0.951,0.48,0.549,0.133,0.037,https://www.worldometers.info//img/flags/small/tn_al-flag.gif
+Algeria,2016,71.9,97.3,54.3,77.3,84.5,54.9,57.9,6.355,1.05266,0.83309,0.61804,0.21006,0.07044,0.16157,https://www.worldometers.info//img/flags/small/tn_ag-flag.gif
+Algeria,2017,72.0,97.3,54.2,77.0,84.6,52.3,57.9,5.872000217,1.091864467,1.146217465,0.617584646,0.233335808,0.069436647,0.14609611,https://www.worldometers.info//img/flags/small/tn_ag-flag.gif
+Algeria,2018,71.7,97.4,57.1,75.8,88.1,49.4,58.0,5.295,0.979,1.154,0.687,0.077,0.055,0.135,https://www.worldometers.info//img/flags/small/tn_ag-flag.gif
+Algeria,2019,70.8,97.5,58.0,75.8,76.9,49.9,58.0,5.211,1.002,1.16,0.785,0.086,0.073,0.114,https://www.worldometers.info//img/flags/small/tn_ag-flag.gif
+Algeria,2020,71.3,97.1,57.6,77.0,77.0,49.8,58.0,5.005099773,0.943856001,1.143003583,0.745418549,0.083943799,0.118915014,0.129190654,https://www.worldometers.info//img/flags/small/tn_ag-flag.gif
+Algeria,2021,71.0,97.3,57.5,76.8,69.3,40.9,58.0,4.887,0.946,0.765,0.552,0.119,0.144,0.12,https://www.worldometers.info//img/flags/small/tn_ag-flag.gif
+Algeria,2022,70.8,97.7,57.6,77.3,70.1,41.0,58.0,5.122,1.363,0.97,0.643,0.146,0.106,0.15,https://www.worldometers.info//img/flags/small/tn_ag-flag.gif
+Algeria,2023,70.83361592,97.673,57.56114286,77.34692857,70.05425,41.0435,58.0126,5.329,1.353,1.298,0.409,0.252,0.073,0.152,https://www.worldometers.info//img/flags/small/tn_ag-flag.gif
+Argentina,2016,72.1,97.3,68.7,81.3,96.2,76.3,77.9,6.65,1.15137,1.06612,0.69711,0.42284,0.10989,0.07296,https://www.worldometers.info//img/flags/small/tn_ar-flag.gif
+Argentina,2017,72.9,97.5,69.9,80.1,95.5,77.7,77.9,6.598999977,1.185295463,1.440451145,0.695137084,0.494519204,0.109457061,0.059739888,https://www.worldometers.info//img/flags/small/tn_ar-flag.gif
+Argentina,2018,73.0,96.8,68.1,80.8,95.9,78.7,77.9,6.388,1.073,1.468,0.744,0.57,0.062,0.054,https://www.worldometers.info//img/flags/small/tn_ar-flag.gif
+Argentina,2019,73.0,96.1,69.5,81.5,97.2,79.6,77.9,6.086,1.092,1.432,0.881,0.471,0.066,0.05,https://www.worldometers.info//img/flags/small/tn_ar-flag.gif
+Argentina,2020,72.7,95.9,68.9,80.0,97.9,80.0,77.9,5.974699974,1.028465629,1.372543693,0.849773705,0.520840347,0.070100471,0.060415059,https://www.worldometers.info//img/flags/small/tn_ar-flag.gif
+Argentina,2021,73.4,96.5,68.7,80.3,97.9,82.1,77.9,5.929,1.162,0.98,0.646,0.544,0.069,0.067,https://www.worldometers.info//img/flags/small/tn_ar-flag.gif
+Argentina,2022,73.7,96.8,68.7,81.0,97.9,82.6,77.9,5.967,1.592,1.102,0.662,0.555,0.081,0.085,https://www.worldometers.info//img/flags/small/tn_ar-flag.gif
+Argentina,2023,73.68521877,96.826,68.66925,81.01092857,97.85,82.61125,77.9412,6.024,1.59,1.388,0.427,0.587,0.088,0.082,https://www.worldometers.info//img/flags/small/tn_ar-flag.gif
+Armenia,2016,71.0,91.3,55.8,73.7,71.8,55.4,63.9,4.36,0.86086,0.62477,0.64083,0.14037,0.07793,0.03616,https://www.worldometers.info//img/flags/small/tn_am-flag.gif
+Armenia,2017,71.1,91.4,52.7,74.4,73.3,59.2,65.5,4.375999928,0.900596738,1.007483721,0.637524426,0.198303267,0.083488092,0.026674422,https://www.worldometers.info//img/flags/small/tn_am-flag.gif
+Armenia,2018,71.1,91.0,54.1,75.3,74.0,59.2,66.3,4.321,0.816,0.99,0.666,0.26,0.077,0.028,https://www.worldometers.info//img/flags/small/tn_am-flag.gif
+Armenia,2019,72.6,91.1,52.3,76.9,73.2,62.7,65.6,4.559,0.85,1.055,0.815,0.283,0.095,0.064,https://www.worldometers.info//img/flags/small/tn_am-flag.gif
+Armenia,2020,74.1,94.4,53.0,76.8,77.0,63.4,65.6,4.676799774,0.808262408,1.034576893,0.77585727,0.378075808,0.107225738,0.104618184,https://www.worldometers.info//img/flags/small/tn_am-flag.gif
+Armenia,2021,73.7,95.0,53.6,76.8,66.7,68.4,65.6,5.283,0.996,0.758,0.585,0.54,0.079,0.198,https://www.worldometers.info//img/flags/small/tn_am-flag.gif
+Armenia,2022,73.3,96.3,53.6,77.0,66.7,68.4,65.6,5.399,1.434,0.82,0.668,0.558,0.054,0.21,https://www.worldometers.info//img/flags/small/tn_am-flag.gif
+Armenia,2023,73.25805222,96.2985,53.63628571,76.96661538,66.6645,68.44375,65.6224,5.342,1.466,1.134,0.443,0.551,0.053,0.16,https://www.worldometers.info//img/flags/small/tn_am-flag.gif
+Australia,2016,75.0,99.6,57.3,95.3,94.7,79.5,93.9,7.313,1.44443,1.10476,0.8512,0.56837,0.47407,0.32331,https://www.worldometers.info//img/flags/small/tn_as-flag.gif
+Australia,2017,75.3,99.5,60.4,95.6,92.8,79.7,93.9,7.28399992,1.484414935,1.510041952,0.843886793,0.601607382,0.47769925,0.30118373,https://www.worldometers.info//img/flags/small/tn_as-flag.gif
+Australia,2018,75.1,99.3,57.5,95.5,92.6,79.9,93.9,7.272,1.34,1.573,0.91,0.647,0.361,0.302,https://www.worldometers.info//img/flags/small/tn_as-flag.gif
+Australia,2019,75.2,99.3,57.0,95.6,91.0,81.0,93.9,7.228,1.372,1.548,1.036,0.557,0.332,0.29,https://www.worldometers.info//img/flags/small/tn_as-flag.gif
+Australia,2020,75.4,99.3,56.7,95.4,89.6,81.1,93.9,7.222799778,1.310396433,1.477146268,1.022607684,0.621877193,0.324973613,0.335996419,https://www.worldometers.info//img/flags/small/tn_as-flag.gif
+Australia,2021,76.0,99.3,58.4,95.4,89.6,81.7,93.9,7.183,1.453,1.076,0.801,0.647,0.291,0.317,https://www.worldometers.info//img/flags/small/tn_as-flag.gif
+Australia,2022,75.9,99.3,58.4,95.2,89.6,82.0,93.9,7.162,1.9,1.203,0.772,0.676,0.258,0.341,https://www.worldometers.info//img/flags/small/tn_as-flag.gif
+Australia,2023,75.90411851,99.3485,58.37025,95.21628571,89.56833333,82.0105,93.8984,7.095,1.899,1.497,0.532,0.677,0.242,0.31,https://www.worldometers.info//img/flags/small/tn_as-flag.gif
+Austria,2016,81.6,99.2,73.9,91.7,98.2,78.6,92.2,7.119,1.45038,1.08383,0.80565,0.54355,0.32865,0.21348,https://www.worldometers.info//img/flags/small/tn_au-flag.gif
+Austria,2017,82.6,99.5,71.8,93.1,99.0,80.8,92.2,7.006000042,1.487097263,1.459944963,0.815328419,0.56776619,0.316472322,0.221060365,https://www.worldometers.info//img/flags/small/tn_au-flag.gif
+Austria,2018,82.6,99.4,71.5,92.7,98.8,81.0,92.2,7.139,1.341,1.504,0.891,0.617,0.242,0.224,https://www.worldometers.info//img/flags/small/tn_au-flag.gif
+Austria,2019,83.1,99.5,73.0,92.9,98.2,83.8,92.2,7.246,1.376,1.475,1.016,0.532,0.244,0.226,https://www.worldometers.info//img/flags/small/tn_au-flag.gif
+Austria,2020,83.1,99.4,73.1,92.8,97.9,84.0,92.2,7.294199944,1.317285538,1.437444925,1.000933528,0.603368878,0.255509764,0.281256139,https://www.worldometers.info//img/flags/small/tn_au-flag.gif
+Austria,2021,83.1,99.4,73.1,92.6,97.9,84.5,92.2,7.268,1.492,1.062,0.782,0.64,0.215,0.292,https://www.worldometers.info//img/flags/small/tn_au-flag.gif
+Austria,2022,82.3,99.5,73.1,92.5,97.9,84.6,92.2,7.163,1.931,1.165,0.774,0.623,0.193,0.329,https://www.worldometers.info//img/flags/small/tn_au-flag.gif
+Austria,2023,82.28018933,99.451,73.0675,92.468,97.91433333,84.57925,92.1636,7.097,1.927,1.382,0.535,0.63,0.191,0.31,https://www.worldometers.info//img/flags/small/tn_au-flag.gif
+Bangladesh,2016,61.2,59.8,63.2,56.8,65.5,49.3,65.9,4.643,0.54177,0.24749,0.52989,0.39778,0.19132,0.12583,https://www.worldometers.info//img/flags/small/tn_bg-flag.gif
+Bangladesh,2017,61.8,62.5,64.1,60.0,64.9,51.1,66.2,4.607999802,0.586682975,0.735131741,0.533241034,0.478356659,0.172255352,0.123717859,https://www.worldometers.info//img/flags/small/tn_bg-flag.gif
+Bangladesh,2018,63.0,67.0,70.3,59.9,68.5,51.7,66.6,4.5,0.532,0.85,0.579,0.58,0.153,0.144,https://www.worldometers.info//img/flags/small/tn_bg-flag.gif
+Bangladesh,2019,63.6,69.0,69.8,62.5,69.2,53.8,67.0,4.456,0.562,0.928,0.723,0.527,0.166,0.143,https://www.worldometers.info//img/flags/small/tn_bg-flag.gif
+Bangladesh,2020,63.9,69.8,70.1,63.4,69.0,54.1,67.3,4.832799911,0.556156278,0.868800581,0.694940507,0.604130566,0.176745117,0.176735908,https://www.worldometers.info//img/flags/small/tn_bg-flag.gif
+Bangladesh,2021,65.5,73.4,70.5,61.7,89.7,54.3,67.3,5.025,0.635,0.52,0.514,0.603,0.161,0.164,https://www.worldometers.info//img/flags/small/tn_bg-flag.gif
+Bangladesh,2022,65.9,79.1,70.8,60.5,89.7,54.5,67.3,5.155,1.06,0.614,0.581,0.622,0.125,0.187,https://www.worldometers.info//img/flags/small/tn_bg-flag.gif
+Bangladesh,2023,65.91095145,79.1025,70.8125,60.49792857,89.706,54.491,67.331,4.282,1.133,0.513,0.355,0.617,0.139,0.165,https://www.worldometers.info//img/flags/small/tn_bg-flag.gif
+Belgium,2016,77.9,99.4,71.2,92.8,97.1,84.5,71.2,6.929,1.42539,1.05249,0.81959,0.51354,0.2424,0.26248,https://www.worldometers.info//img/flags/small/tn_be-flag.gif
+Belgium,2017,77.9,99.4,71.5,93.0,96.3,84.4,70.6,6.890999794,1.463780761,1.462312698,0.818091869,0.539770722,0.231503338,0.251343131,https://www.worldometers.info//img/flags/small/tn_be-flag.gif
+Belgium,2018,78.2,99.5,71.2,93.2,95.6,85.1,70.6,6.927,1.324,1.483,0.894,0.583,0.188,0.24,https://www.worldometers.info//img/flags/small/tn_be-flag.gif
+Belgium,2019,79.0,99.5,71.2,93.2,94.4,87.5,70.6,6.923,1.356,1.504,0.986,0.473,0.16,0.21,https://www.worldometers.info//img/flags/small/tn_be-flag.gif
+Belgium,2020,79.4,99.4,71.2,93.2,95.3,87.2,70.6,6.863500118,1.295842767,1.398677588,0.964901149,0.499805421,0.146966159,0.208724052,https://www.worldometers.info//img/flags/small/tn_be-flag.gif
+Belgium,2021,79.5,99.4,71.2,93.4,95.3,87.7,70.6,6.834,1.463,0.998,0.747,0.489,0.088,0.187,https://www.worldometers.info//img/flags/small/tn_be-flag.gif
+Belgium,2022,79.5,99.5,71.2,93.4,95.3,87.8,70.6,6.805,1.907,1.106,0.764,0.492,0.049,0.204,https://www.worldometers.info//img/flags/small/tn_be-flag.gif
+Belgium,2023,79.45505844,99.453,71.22025,93.39183333,95.31666667,87.83575,70.5962,6.859,1.907,1.449,0.528,0.59,0.137,0.273,https://www.worldometers.info//img/flags/small/tn_be-flag.gif
+Benin,2016,49.2,26.6,64.1,38.9,55.5,32.0,48.9,3.484,0.39499,0.10419,0.21028,0.39747,0.2018,0.06681,https://www.worldometers.info//img/flags/small/tn_bn-flag.gif
+Benin,2017,50.3,34.3,63.5,41.0,55.6,32.8,49.0,3.657000065,0.431085408,0.435299844,0.209930211,0.425962776,0.207948461,0.060929015,https://www.worldometers.info//img/flags/small/tn_bn-flag.gif
+Benin,2018,53.9,46.0,64.7,43.2,58.3,32.8,49.1,4.141,0.378,0.372,0.24,0.44,0.163,0.067,https://www.worldometers.info//img/flags/small/tn_bn-flag.gif
+Benin,2019,54.0,46.7,64.6,42.8,56.3,33.6,49.3,4.883,0.393,0.437,0.397,0.349,0.175,0.082,https://www.worldometers.info//img/flags/small/tn_bn-flag.gif
+Benin,2020,54.4,47.1,65.1,41.7,52.3,33.6,49.4,5.21600008,0.366244704,0.352428436,0.328062952,0.40583989,0.196670428,0.125931874,https://www.worldometers.info//img/flags/small/tn_bn-flag.gif
+Benin,2021,55.1,52.4,65.2,42.5,57.3,34.1,49.4,5.045,0.507,0.058,0.196,0.457,0.166,0.178,https://www.worldometers.info//img/flags/small/tn_bn-flag.gif
+Benin,2022,55.1,57.2,65.4,42.0,57.3,34.2,49.4,4.623,0.932,0.064,0.335,0.479,0.127,0.23,https://www.worldometers.info//img/flags/small/tn_bn-flag.gif
+Benin,2023,55.1176285,57.2005,65.352625,41.99057143,57.28,34.1985,49.4148,4.374,0.924,0.242,0.124,0.481,0.114,0.253,https://www.worldometers.info//img/flags/small/tn_bn-flag.gif
+Bolivia,2016,67.0,83.9,63.4,69.4,86.6,72.4,66.7,5.822,0.79422,0.83779,0.4697,0.50961,0.21698,0.07746,
+Bolivia,2017,67.7,86.0,62.5,68.8,86.3,72.9,67.3,5.822999954,0.833756566,1.227619052,0.47363025,0.558732927,0.225560725,0.060477726,
+Bolivia,2018,68.8,89.0,64.5,66.6,87.1,73.7,67.9,5.752,0.751,1.223,0.508,0.606,0.141,0.054,
+Bolivia,2019,69.8,93.0,64.2,66.7,89.1,72.1,68.5,5.779,0.776,1.209,0.706,0.511,0.137,0.064,
+Bolivia,2020,68.7,90.0,63.7,66.0,91.2,69.5,69.1,5.747499943,0.730976343,1.142350554,0.662445664,0.5744645,0.138375074,0.072942637,
+Bolivia,2021,69.2,90.9,64.7,66.3,90.6,69.2,69.1,5.716,0.842,0.782,0.486,0.6,0.138,0.064,
+Bolivia,2022,68.9,91.7,64.9,66.8,90.6,69.5,69.1,5.6,1.256,0.88,0.555,0.627,0.112,0.064,
+Bolivia,2023,68.85065457,91.735,64.8735,66.80057143,90.641,69.546,69.0738,5.684,1.24,1.187,0.329,0.648,0.103,0.06,
+Bosnia and Herzegovina,2016,71.0,99.7,64.8,74.1,56.1,40.1,73.2,5.163,0.93383,0.64367,0.70766,0.09511,0.29889,0.0,https://www.worldometers.info//img/flags/small/tn_bk-flag.gif
+Bosnia and Herzegovina,2017,70.9,99.7,60.6,74.8,58.8,41.1,73.2,5.18200016,0.982409418,1.069335938,0.705186307,0.204403177,0.328867495,0.0,https://www.worldometers.info//img/flags/small/tn_bk-flag.gif
+Bosnia and Herzegovina,2018,72.4,99.8,65.9,76.5,64.1,41.2,73.3,5.129,0.915,1.078,0.758,0.28,0.216,0.0,https://www.worldometers.info//img/flags/small/tn_bk-flag.gif
+Bosnia and Herzegovina,2019,73.0,99.8,65.7,77.0,64.1,43.4,73.2,5.386,0.945,1.212,0.845,0.212,0.263,0.006,https://www.worldometers.info//img/flags/small/tn_bk-flag.gif
+Bosnia and Herzegovina,2020,73.4,99.8,67.2,76.1,64.1,46.1,73.2,5.674099922,0.91839546,1.203986526,0.813928187,0.305365741,0.264005244,0.001172487,https://www.worldometers.info//img/flags/small/tn_bk-flag.gif
+Bosnia and Herzegovina,2021,74.1,99.8,63.8,76.5,64.1,47.2,73.2,5.813,1.032,0.919,0.618,0.395,0.261,0.005,https://www.worldometers.info//img/flags/small/tn_bk-flag.gif
+Bosnia and Herzegovina,2022,74.0,99.9,63.8,76.9,64.1,47.1,73.2,5.768,1.468,1.068,0.665,0.448,0.244,0.006,https://www.worldometers.info//img/flags/small/tn_bk-flag.gif
+Bosnia and Herzegovina,2023,74.01986096,99.863,63.80314286,76.87830769,64.14333333,47.127,73.244,5.633,1.467,1.361,0.429,0.485,0.247,0.008,https://www.worldometers.info//img/flags/small/tn_bk-flag.gif
+Botswana,2016,60.3,59.5,42.6,46.6,67.3,67.7,66.3,3.974,1.09426,0.89186,0.34752,0.44089,0.12425,0.10769,https://www.worldometers.info//img/flags/small/tn_bc-flag.gif
+Botswana,2017,60.9,59.3,43.7,48.3,66.8,67.9,66.9,3.766000032,1.122094154,1.221554995,0.341755509,0.505196333,0.099348448,0.098583199,https://www.worldometers.info//img/flags/small/tn_bc-flag.gif
+Botswana,2018,61.0,61.0,44.0,48.6,65.8,68.1,67.5,3.59,1.017,1.174,0.417,0.557,0.042,0.092,https://www.worldometers.info//img/flags/small/tn_bc-flag.gif
+Botswana,2019,61.7,61.6,44.1,50.6,65.8,69.0,68.0,3.488,1.041,1.145,0.538,0.455,0.025,0.1,https://www.worldometers.info//img/flags/small/tn_bc-flag.gif
+Botswana,2020,62.2,62.0,44.9,49.9,65.8,69.0,68.1,3.478899956,0.997548997,1.08569479,0.494101733,0.50908941,0.033407487,0.101786368,https://www.worldometers.info//img/flags/small/tn_bc-flag.gif
+Botswana,2021,62.4,62.7,45.0,51.4,65.8,69.2,68.1,3.467,1.099,0.724,0.34,0.539,0.027,0.088,https://www.worldometers.info//img/flags/small/tn_bc-flag.gif
+Botswana,2022,62.7,64.8,45.1,51.3,65.8,69.4,68.1,3.471,1.503,0.815,0.28,0.571,0.012,0.102,https://www.worldometers.info//img/flags/small/tn_bc-flag.gif
+Botswana,2023,62.73762598,64.81,45.07875,51.27378571,65.81225,69.3605,68.1444,3.435,1.471,1.041,0.087,0.48,0.021,0.071,https://www.worldometers.info//img/flags/small/tn_bc-flag.gif
+Brazil,2016,71.5,85.3,69.7,78.2,85.1,66.9,84.9,6.952,1.08754,1.03938,0.61415,0.40425,0.15776,0.14166,https://www.worldometers.info//img/flags/small/tn_br-flag.gif
+Brazil,2017,72.0,84.6,71.7,79.0,85.2,67.8,85.2,6.635000229,1.10735321,1.431306005,0.616552353,0.437453747,0.162349895,0.111092761,https://www.worldometers.info//img/flags/small/tn_br-flag.gif
+Brazil,2018,72.0,84.3,70.9,79.1,85.5,70.2,85.5,6.419,0.986,1.474,0.675,0.493,0.11,0.088,https://www.worldometers.info//img/flags/small/tn_br-flag.gif
+Brazil,2019,72.4,84.7,70.8,78.2,86.1,70.5,85.8,6.3,1.004,1.439,0.802,0.39,0.099,0.086,https://www.worldometers.info//img/flags/small/tn_br-flag.gif
+Brazil,2020,72.9,92.6,70.1,78.4,85.8,69.2,86.1,6.375599861,0.952679873,1.363464117,0.766119063,0.483292729,0.131674588,0.106518604,https://www.worldometers.info//img/flags/small/tn_br-flag.gif
+Brazil,2021,73.4,93.0,68.7,77.2,85.9,70.0,86.1,6.33,1.028,0.944,0.571,0.514,0.142,0.117,https://www.worldometers.info//img/flags/small/tn_br-flag.gif
+Brazil,2022,73.7,93.3,68.7,77.7,85.9,70.4,86.1,6.293,1.462,1.044,0.615,0.546,0.131,0.134,https://www.worldometers.info//img/flags/small/tn_br-flag.gif
+Brazil,2023,73.68939304,93.3005,68.7175,77.65214286,85.9325,70.368,86.0712,6.125,1.454,1.25,0.387,0.558,0.131,0.137,https://www.worldometers.info//img/flags/small/tn_br-flag.gif
+Bulgaria,2016,73.3,100.0,65.2,77.4,86.5,68.0,65.9,4.217,1.11306,0.92542,0.67806,0.21219,0.12793,0.00615,https://www.worldometers.info//img/flags/small/tn_bu-flag.gif
+Bulgaria,2017,73.9,100.0,67.3,78.2,82.1,70.1,65.9,4.714000225,1.161459088,1.434379458,0.70821768,0.289231718,0.113177694,0.011051531,https://www.worldometers.info//img/flags/small/tn_bu-flag.gif
+Bulgaria,2018,73.8,100.0,67.4,78.5,79.1,70.1,66.3,4.933,1.054,1.515,0.712,0.359,0.064,0.009,https://www.worldometers.info//img/flags/small/tn_bu-flag.gif
+Bulgaria,2019,74.6,100.0,67.7,79.2,79.5,71.4,66.3,5.011,1.092,1.513,0.815,0.311,0.081,0.004,https://www.worldometers.info//img/flags/small/tn_bu-flag.gif
+Bulgaria,2020,74.7,100.0,65.2,79.4,79.4,72.0,66.3,5.101500034,1.046554685,1.460578918,0.777776897,0.417820066,0.103833713,0.0,https://www.worldometers.info//img/flags/small/tn_bu-flag.gif
+Bulgaria,2021,74.9,100.0,68.2,79.3,79.5,70.8,66.3,5.266,1.181,1.055,0.583,0.494,0.125,0.005,https://www.worldometers.info//img/flags/small/tn_bu-flag.gif
+Bulgaria,2022,74.6,100.0,68.2,79.3,79.5,71.6,66.3,5.371,1.625,1.163,0.64,0.563,0.123,0.021,https://www.worldometers.info//img/flags/small/tn_bu-flag.gif
+Bulgaria,2023,74.62004755,99.9835,68.189625,79.283,79.548,71.6325,66.293,5.466,1.635,1.457,0.408,0.557,0.106,0.013,https://www.worldometers.info//img/flags/small/tn_bu-flag.gif
+Burkina Faso,2016,52.0,25.8,61.4,42.8,17.9,36.3,45.3,3.739,0.31995,0.63054,0.21297,0.3337,0.24353,0.12533,https://www.worldometers.info//img/flags/small/tn_uv-flag.gif
+Burkina Faso,2017,53.1,25.4,60.7,44.1,20.6,40.4,45.2,4.032000065,0.350227714,1.043280005,0.215844259,0.324367851,0.250864685,0.120328106,https://www.worldometers.info//img/flags/small/tn_uv-flag.gif
+Burkina Faso,2018,51.1,24.6,61.1,45.3,27.7,41.5,45.1,4.424,0.314,1.097,0.254,0.312,0.175,0.128,https://www.worldometers.info//img/flags/small/tn_uv-flag.gif
+Burkina Faso,2019,51.5,24.6,61.1,46.1,26.5,43.6,45.0,4.587,0.331,1.056,0.38,0.255,0.177,0.113,https://www.worldometers.info//img/flags/small/tn_uv-flag.gif
+Burkina Faso,2020,51.4,24.3,60.3,46.4,25.1,40.4,44.8,4.768700123,0.302467644,0.9293859,0.312833875,0.322398156,0.186390609,0.126408055,https://www.worldometers.info//img/flags/small/tn_uv-flag.gif
+Burkina Faso,2021,51.6,25.8,58.5,46.6,26.7,40.6,44.8,4.834,0.364,0.472,0.179,0.381,0.182,0.122,https://www.worldometers.info//img/flags/small/tn_uv-flag.gif
+Burkina Faso,2022,52.4,26.9,58.6,46.6,26.7,40.7,44.8,4.67,0.779,0.565,0.32,0.382,0.186,0.126,https://www.worldometers.info//img/flags/small/tn_uv-flag.gif
+Burkina Faso,2023,52.44550392,26.894,58.639125,46.63228571,26.67975,40.677,44.838,4.638,0.768,0.814,0.107,0.419,0.188,0.113,https://www.worldometers.info//img/flags/small/tn_uv-flag.gif
+Cameroon,2016,53.5,44.5,59.4,36.7,52.9,54.3,55.1,4.513,0.52497,0.62542,0.12698,0.42736,0.2268,0.06126,https://www.worldometers.info//img/flags/small/tn_cm-flag.gif
+Cameroon,2017,54.0,45.6,59.8,37.6,48.8,54.5,55.4,4.695000172,0.564305365,0.946018219,0.132892117,0.430388749,0.236298457,0.051306631,https://www.worldometers.info//img/flags/small/tn_cm-flag.gif
+Cameroon,2018,54.2,47.1,60.6,38.3,43.4,54.1,55.6,4.975,0.535,0.891,0.182,0.454,0.183,0.043,https://www.worldometers.info//img/flags/small/tn_cm-flag.gif
+Cameroon,2019,54.5,48.1,60.8,39.0,48.1,54.4,55.8,5.044,0.549,0.91,0.331,0.381,0.187,0.037,https://www.worldometers.info//img/flags/small/tn_cm-flag.gif
+Cameroon,2020,54.7,46.9,61.0,40.2,48.2,55.8,56.0,5.084899902,0.503958046,0.89972645,0.270189553,0.439242482,0.198020101,0.054393422,https://www.worldometers.info//img/flags/small/tn_cm-flag.gif
+Cameroon,2021,55.0,48.2,61.2,40.3,49.2,55.9,56.0,5.142,0.543,0.556,0.159,0.425,0.205,0.058,https://www.worldometers.info//img/flags/small/tn_cm-flag.gif
+Cameroon,2022,55.1,50.6,61.3,39.8,49.2,56.0,56.0,5.048,0.968,0.672,0.317,0.397,0.152,0.074,https://www.worldometers.info//img/flags/small/tn_cm-flag.gif
+Cameroon,2023,55.14965887,50.573,61.30457143,39.82707143,49.24775,56.03025,55.969,4.973,0.965,0.871,0.118,0.405,0.144,0.059,https://www.worldometers.info//img/flags/small/tn_cm-flag.gif
+Canada,2016,77.2,99.6,66.0,93.6,98.6,81.3,86.2,7.404,1.44015,1.0961,0.8276,0.5737,0.44834,0.31329,https://www.worldometers.info//img/flags/small/tn_ca-flag.gif
+Canada,2017,77.6,99.6,65.7,94.3,98.6,81.6,86.1,7.315999985,1.479204416,1.481348991,0.834557652,0.611100912,0.435539722,0.287371516,https://www.worldometers.info//img/flags/small/tn_ca-flag.gif
+Canada,2018,77.7,99.6,65.1,94.2,98.5,82.1,86.1,7.328,1.33,1.532,0.896,0.653,0.321,0.291,https://www.worldometers.info//img/flags/small/tn_ca-flag.gif
+Canada,2019,77.8,99.6,65.3,94.2,98.9,83.0,86.1,7.278,1.365,1.505,1.039,0.584,0.285,0.308,https://www.worldometers.info//img/flags/small/tn_ca-flag.gif
+Canada,2020,78.4,99.6,65.4,94.0,99.4,82.7,86.1,7.23210001,1.301647663,1.435391903,1.022501945,0.644028127,0.28152892,0.351701856,https://www.worldometers.info//img/flags/small/tn_ca-flag.gif
+Canada,2021,78.3,99.6,63.5,93.9,99.4,83.6,86.1,7.103,1.447,1.044,0.798,0.648,0.246,0.335,https://www.worldometers.info//img/flags/small/tn_ca-flag.gif
+Canada,2022,78.5,99.6,63.5,93.9,99.4,83.9,86.1,7.025,1.886,1.188,0.783,0.659,0.217,0.368,https://www.worldometers.info//img/flags/small/tn_ca-flag.gif
+Canada,2023,78.49677968,99.6005,63.535,93.87384615,99.39966667,83.909,86.1186,6.961,1.881,1.484,0.541,0.656,0.218,0.364,https://www.worldometers.info//img/flags/small/tn_ca-flag.gif
+Chad,2016,40.2,27.1,36.0,22.0,10.7,22.9,41.7,3.763,0.42214,0.63178,0.03824,0.12807,0.18667,0.04952,https://www.worldometers.info//img/flags/small/tn_cd-flag.gif
+Chad,2017,40.4,26.9,34.0,23.0,7.7,21.6,41.9,3.936000109,0.438012987,0.953855872,0.041134715,0.162342027,0.21611385,0.053581882,https://www.worldometers.info//img/flags/small/tn_cd-flag.gif
+Chad,2018,42.1,26.8,34.1,23.1,11.1,22.7,42.1,4.301,0.358,0.907,0.053,0.189,0.181,0.06,https://www.worldometers.info//img/flags/small/tn_cd-flag.gif
+Chad,2019,42.1,26.3,33.5,24.5,10.8,21.8,42.2,4.35,0.35,0.766,0.192,0.174,0.198,0.078,https://www.worldometers.info//img/flags/small/tn_cd-flag.gif
+Chad,2020,42.7,25.3,37.2,25.6,10.8,22.1,42.4,4.422699928,0.302287489,0.739118278,0.1087441,0.228601769,0.210805088,0.085755408,https://www.worldometers.info//img/flags/small/tn_cd-flag.gif
+Chad,2021,43.7,24.9,36.7,26.9,13.3,30.8,42.4,4.355,0.255,0.353,0.0,0.24,0.215,0.084,https://www.worldometers.info//img/flags/small/tn_cd-flag.gif
+Chad,2022,45.3,25.4,38.5,27.1,13.3,30.8,42.4,4.251,0.662,0.506,0.225,0.18,0.182,0.077,https://www.worldometers.info//img/flags/small/tn_cd-flag.gif
+Chad,2023,45.34232094,25.427,38.53471429,27.06107143,13.30775,30.8355,42.4036,4.397,0.622,0.962,0.043,0.393,0.255,0.088,https://www.worldometers.info//img/flags/small/tn_cd-flag.gif
+Chile,2016,76.4,100.0,71.9,87.7,95.0,66.0,89.2,6.705,1.2167,0.90587,0.81883,0.37789,0.31595,0.11451,https://www.worldometers.info//img/flags/small/tn_ci-flag.gif
+Chile,2017,76.9,100.0,71.7,87.5,94.0,66.5,89.4,6.65199995,1.25278461,1.284024954,0.819479704,0.376895279,0.326662421,0.082287982,https://www.worldometers.info//img/flags/small/tn_ci-flag.gif
+Chile,2018,77.4,100.0,72.4,88.0,93.7,70.5,89.4,6.476,1.131,1.331,0.808,0.431,0.197,0.061,https://www.worldometers.info//img/flags/small/tn_ci-flag.gif
+Chile,2019,77.6,98.6,72.5,87.8,95.7,71.0,89.4,6.444,1.159,1.369,0.92,0.357,0.187,0.056,https://www.worldometers.info//img/flags/small/tn_ci-flag.gif
+Chile,2020,77.4,94.1,71.1,87.9,97.7,70.0,89.4,6.228499889,1.096992493,1.323286891,0.889260828,0.417482227,0.155579001,0.06284935,https://www.worldometers.info//img/flags/small/tn_ci-flag.gif
+Chile,2021,78.4,96.4,71.5,88.4,97.8,76.8,89.4,6.172,1.2,0.946,0.678,0.438,0.159,0.07,https://www.worldometers.info//img/flags/small/tn_ci-flag.gif
+Chile,2022,78.2,96.4,71.5,88.4,97.8,77.7,89.4,6.172,1.651,1.08,0.748,0.46,0.124,0.069,https://www.worldometers.info//img/flags/small/tn_ci-flag.gif
+Chile,2023,78.22377122,96.352,71.542875,88.39514286,97.76625,77.73075,89.3798,6.334,1.645,1.384,0.511,0.546,0.131,0.076,https://www.worldometers.info//img/flags/small/tn_ci-flag.gif
+China,2016,69.4,92.4,82.1,80.3,99.4,76.6,67.0,5.245,1.0278,0.79381,0.73561,0.44012,0.04959,0.02745,https://www.worldometers.info//img/flags/small/tn_ch-flag.gif
+China,2017,69.9,93.5,82.6,80.6,99.4,77.2,67.5,5.272999763,1.081165791,1.160837412,0.741415501,0.472787708,0.028806841,0.022794275,https://www.worldometers.info//img/flags/small/tn_ch-flag.gif
+China,2018,70.8,95.2,82.8,80.9,99.5,77.8,68.0,5.246,0.989,1.142,0.799,0.597,0.029,0.103,https://www.worldometers.info//img/flags/small/tn_ch-flag.gif
+China,2019,71.5,96.8,83.1,81.6,99.5,78.1,68.5,5.191,1.029,1.125,0.893,0.521,0.058,0.1,https://www.worldometers.info//img/flags/small/tn_ch-flag.gif
+China,2020,71.6,96.5,83.3,83.1,99.5,78.0,69.0,5.123899937,0.990533412,1.132080674,0.867248535,0.601605117,0.079021044,0.117255554,https://www.worldometers.info//img/flags/small/tn_ch-flag.gif
+China,2021,72.0,97.6,83.3,83.4,99.5,78.2,69.0,5.339,1.061,0.785,0.665,0.636,0.093,0.117,https://www.worldometers.info//img/flags/small/tn_ch-flag.gif
+China,2022,72.0,98.1,83.4,83.4,99.5,78.2,69.0,5.585,1.508,0.958,0.705,0.656,0.099,0.142,https://www.worldometers.info//img/flags/small/tn_ch-flag.gif
+China,2023,72.00816749,98.052,83.401125,83.39846154,99.531,78.1855,68.9986,5.818,1.51,1.249,0.468,0.666,0.115,0.145,https://www.worldometers.info//img/flags/small/tn_ch-flag.gif
+Colombia,2016,69.0,84.0,67.0,81.4,84.9,71.4,78.3,6.481,1.03032,1.02169,0.59659,0.44735,0.15626,0.05399,https://www.worldometers.info//img/flags/small/tn_co-flag.gif
+Colombia,2017,69.5,85.3,64.8,82.4,85.9,70.8,78.6,6.356999874,1.070622325,1.402182937,0.595027924,0.477487415,0.149014473,0.046668742,https://www.worldometers.info//img/flags/small/tn_co-flag.gif
+Colombia,2018,70.1,84.9,64.8,82.5,90.5,70.3,78.9,6.26,0.96,1.439,0.635,0.531,0.099,0.039,https://www.worldometers.info//img/flags/small/tn_co-flag.gif
+Colombia,2019,70.3,83.3,64.9,84.2,92.1,70.4,79.1,6.125,0.985,1.41,0.841,0.47,0.099,0.034,https://www.worldometers.info//img/flags/small/tn_co-flag.gif
+Colombia,2020,69.4,72.5,65.0,82.6,92.4,69.0,79.4,6.163400173,0.93220371,1.33445096,0.810020149,0.526890039,0.092374094,0.04584837,https://www.worldometers.info//img/flags/small/tn_co-flag.gif
+Colombia,2021,69.9,75.9,65.2,81.7,92.3,69.3,79.4,6.012,1.021,0.866,0.615,0.554,0.1,0.063,https://www.worldometers.info//img/flags/small/tn_co-flag.gif
+Colombia,2022,70.1,77.7,65.2,82.7,92.3,69.4,79.4,5.781,1.452,0.929,0.72,0.545,0.087,0.077,https://www.worldometers.info//img/flags/small/tn_co-flag.gif
+Colombia,2023,70.05009086,77.714,65.248125,82.66221429,92.3275,69.4005,79.384,5.63,1.455,1.213,0.486,0.562,0.08,0.068,https://www.worldometers.info//img/flags/small/tn_co-flag.gif
+Costa Rica,2016,71.5,94.8,55.2,86.5,81.7,75.7,74.3,7.087,1.06879,1.02152,0.76146,0.55225,0.22553,0.10547,https://www.worldometers.info//img/flags/small/tn_cs-flag.gif
+Costa Rica,2017,71.9,95.8,53.4,87.8,81.1,76.9,74.4,7.078999996,1.109706283,1.416403651,0.759509265,0.58013165,0.214613229,0.100106589,https://www.worldometers.info//img/flags/small/tn_cs-flag.gif
+Costa Rica,2018,72.5,94.7,54.1,87.8,89.4,80.4,74.5,7.072,1.01,1.459,0.817,0.632,0.143,0.101,https://www.worldometers.info//img/flags/small/tn_cs-flag.gif
+Costa Rica,2019,73.1,95.7,53.7,88.4,90.1,82.1,74.5,7.167,1.034,1.441,0.963,0.558,0.144,0.093,https://www.worldometers.info//img/flags/small/tn_cs-flag.gif
+Costa Rica,2020,72.3,92.8,53.5,87.6,89.7,81.3,74.5,7.121399879,0.981107712,1.374853611,0.939635336,0.645017743,0.131266311,0.096362092,https://www.worldometers.info//img/flags/small/tn_cs-flag.gif
+Costa Rica,2021,73.5,93.3,54.0,87.1,99.2,81.8,74.5,7.069,1.134,0.966,0.722,0.673,0.105,0.083,https://www.worldometers.info//img/flags/small/tn_cs-flag.gif
+Costa Rica,2022,73.6,93.8,53.9,88.3,99.2,82.0,74.5,6.582,1.584,1.054,0.744,0.661,0.089,0.102,https://www.worldometers.info//img/flags/small/tn_cs-flag.gif
+Costa Rica,2023,73.55689326,93.773,53.907375,88.28771429,99.1685,82.03675,74.5466,6.609,1.587,1.34,0.503,0.683,0.099,0.116,https://www.worldometers.info//img/flags/small/tn_cs-flag.gif
+Croatia,2016,79.8,100.0,75.4,85.1,95.9,58.7,86.3,5.488,1.18649,0.60809,0.70524,0.23907,0.18434,0.04002,https://www.worldometers.info//img/flags/small/tn_hr-flag.gif
+Croatia,2017,79.5,100.0,71.1,84.9,97.5,62.1,86.4,5.293000221,1.222556233,0.967983007,0.701288521,0.255772293,0.248002976,0.04310311,https://www.worldometers.info//img/flags/small/tn_hr-flag.gif
+Croatia,2018,80.2,100.0,74.3,86.0,96.7,63.0,86.4,5.321,1.115,1.161,0.737,0.38,0.12,0.039,https://www.worldometers.info//img/flags/small/tn_hr-flag.gif
+Croatia,2019,80.6,100.0,74.3,86.8,97.1,64.3,86.4,5.432,1.155,1.266,0.914,0.296,0.119,0.022,https://www.worldometers.info//img/flags/small/tn_hr-flag.gif
+Croatia,2020,81.6,100.0,74.2,88.1,95.6,69.5,86.4,5.504700184,1.109024286,1.311264873,0.900575578,0.381456882,0.113998979,0.012325006,https://www.worldometers.info//img/flags/small/tn_hr-flag.gif
+Croatia,2021,81.6,100.0,74.3,87.5,95.7,70.3,86.4,5.882,1.251,1.039,0.703,0.453,0.111,0.0,https://www.worldometers.info//img/flags/small/tn_hr-flag.gif
+Croatia,2022,81.5,100.0,74.3,86.4,95.7,71.1,86.4,6.125,1.705,1.183,0.709,0.535,0.109,0.0,https://www.worldometers.info//img/flags/small/tn_hr-flag.gif
+Croatia,2023,81.49550882,99.9905,74.26,86.35785714,95.655,71.105,86.357,6.125,1.727,1.455,0.475,0.5,0.087,0.003,https://www.worldometers.info//img/flags/small/tn_hr-flag.gif
+Denmark,2016,84.7,99.1,72.1,94.4,98.6,85.7,90.9,7.526,1.44178,1.16374,0.79504,0.57941,0.36171,0.44453,https://www.worldometers.info//img/flags/small/tn_da-flag.gif
+Denmark,2017,84.5,99.4,74.0,95.3,96.4,85.7,90.9,7.521999836,1.482383013,1.551121593,0.792565525,0.626006722,0.355280489,0.400770068,https://www.worldometers.info//img/flags/small/tn_da-flag.gif
+Denmark,2018,84.3,99.3,68.3,95.1,98.3,85.7,89.6,7.555,1.351,1.59,0.868,0.683,0.284,0.408,https://www.worldometers.info//img/flags/small/tn_da-flag.gif
+Denmark,2019,85.0,99.2,72.1,95.6,97.7,86.4,90.7,7.6,1.383,1.573,0.996,0.592,0.252,0.41,https://www.worldometers.info//img/flags/small/tn_da-flag.gif
+Denmark,2020,85.1,99.2,72.1,95.3,99.3,86.8,90.7,7.645599842,1.326948524,1.503449202,0.979332566,0.665039897,0.242793396,0.495260328,https://www.worldometers.info//img/flags/small/tn_da-flag.gif
+Denmark,2021,85.8,99.2,71.0,95.6,99.3,86.7,90.7,7.62,1.502,1.108,0.763,0.686,0.208,0.485,https://www.worldometers.info//img/flags/small/tn_da-flag.gif
+Denmark,2022,85.7,99.2,71.0,95.4,99.3,87.0,90.7,7.636,1.953,1.243,0.777,0.719,0.188,0.532,https://www.worldometers.info//img/flags/small/tn_da-flag.gif
+Denmark,2023,85.68363681,99.2155,71.02525,95.3985,99.33966667,86.998,90.7316,7.586,1.949,1.548,0.537,0.734,0.208,0.525,https://www.worldometers.info//img/flags/small/tn_da-flag.gif
+Dominican Republic,2016,69.8,91.3,75.2,62.3,86.5,71.1,67.1,5.155,1.02787,0.99496,0.57669,0.52259,0.21286,0.12372,
+Dominican Republic,2017,71.5,94.3,74.8,65.3,87.3,71.3,67.3,5.230000019,1.079373837,1.402416706,0.574873745,0.552589834,0.18696785,0.113945253,
+Dominican Republic,2018,71.0,94.9,75.1,65.7,88.4,71.4,67.4,5.302,0.982,1.441,0.614,0.578,0.12,0.106,
+Dominican Republic,2019,72.1,95.9,75.1,67.9,89.8,70.8,67.5,5.425,1.015,1.401,0.779,0.497,0.113,0.101,
+Dominican Republic,2020,72.8,94.6,75.3,65.8,92.2,70.5,67.6,5.689199924,0.983191848,1.328888893,0.741901696,0.5628739,0.112196781,0.115945682,
+Dominican Republic,2021,72.1,95.2,75.6,67.5,74.2,71.5,67.6,5.545,1.106,0.879,0.555,0.581,0.101,0.144,
+Dominican Republic,2022,72.1,95.9,75.7,66.6,74.2,71.8,67.6,5.737,1.538,1.003,0.577,0.606,0.084,0.179,
+Dominican Republic,2023,72.13519314,95.927,75.679375,66.62128571,74.2295,71.8335,67.6394,5.569,1.536,1.227,0.351,0.623,0.083,0.195,
+Ecuador,2016,70.8,87.6,59.7,78.5,98.2,79.1,73.9,5.976,0.97306,0.85974,0.68613,0.4027,0.10074,0.18037,https://www.worldometers.info//img/flags/small/tn_ec-flag.gif
+Ecuador,2017,71.4,88.4,59.2,78.2,97.5,77.5,74.3,6.007999897,1.000820398,1.286168814,0.685636222,0.455198199,0.150112465,0.140134647,https://www.worldometers.info//img/flags/small/tn_ec-flag.gif
+Ecuador,2018,71.4,88.3,59.6,79.3,95.9,78.2,74.6,5.973,0.889,1.33,0.736,0.556,0.114,0.12,https://www.worldometers.info//img/flags/small/tn_ec-flag.gif
+Ecuador,2019,71.1,87.5,58.0,80.0,93.6,78.5,75.0,6.028,0.912,1.312,0.868,0.498,0.126,0.087,https://www.worldometers.info//img/flags/small/tn_ec-flag.gif
+Ecuador,2020,70.2,81.1,56.8,78.1,92.4,78.6,75.3,5.925199986,0.853383601,1.221027613,0.838837743,0.555234551,0.115006477,0.086753383,https://www.worldometers.info//img/flags/small/tn_ec-flag.gif
+Ecuador,2021,70.5,83.3,57.8,77.5,90.5,79.2,75.3,5.764,0.935,0.806,0.64,0.56,0.107,0.062,https://www.worldometers.info//img/flags/small/tn_ec-flag.gif
+Ecuador,2022,70.4,83.9,57.8,78.4,90.5,79.5,75.3,5.533,1.352,0.879,0.708,0.565,0.08,0.083,https://www.worldometers.info//img/flags/small/tn_ec-flag.gif
+Ecuador,2023,70.43423838,83.9455,57.8015,78.3745,90.54675,79.506,75.2924,5.559,1.343,1.173,0.476,0.56,0.079,0.069,https://www.worldometers.info//img/flags/small/tn_ec-flag.gif
+El Salvador,2016,68.3,88.7,54.8,79.1,84.5,68.0,72.3,6.068,0.8737,0.80975,0.596,0.37269,0.08877,0.10613,https://www.worldometers.info//img/flags/small/tn_es-flag.gif
+El Salvador,2017,69.6,90.4,55.8,79.3,83.9,67.8,72.4,6.002999783,0.909784496,1.182125092,0.596018553,0.43245253,0.078257985,0.08998096,https://www.worldometers.info//img/flags/small/tn_es-flag.gif
+El Salvador,2018,69.6,91.5,55.0,78.9,83.8,67.0,72.5,6.167,0.806,1.231,0.639,0.461,0.065,0.082,https://www.worldometers.info//img/flags/small/tn_es-flag.gif
+El Salvador,2019,69.8,93.2,55.9,80.3,81.5,66.9,72.6,6.253,0.794,1.242,0.789,0.43,0.093,0.074,https://www.worldometers.info//img/flags/small/tn_es-flag.gif
+El Salvador,2020,70.0,91.0,56.0,77.5,81.6,67.9,72.6,6.34829998,0.748940408,1.149397612,0.752730012,0.524043918,0.1189363,0.117030352,https://www.worldometers.info//img/flags/small/tn_es-flag.gif
+El Salvador,2021,70.5,93.5,56.1,80.1,81.6,64.9,72.6,6.061,0.845,0.675,0.565,0.615,0.116,0.16,https://www.worldometers.info//img/flags/small/tn_es-flag.gif
+El Salvador,2022,70.7,94.0,56.2,80.3,81.6,65.2,72.6,6.12,1.265,0.768,0.607,0.666,0.089,0.212,https://www.worldometers.info//img/flags/small/tn_es-flag.gif
+El Salvador,2023,70.65896551,93.9875,56.22275,80.27892857,81.5865,65.16725,72.5926,6.122,1.278,1.044,0.383,0.713,0.079,0.222,https://www.worldometers.info//img/flags/small/tn_es-flag.gif
+Estonia,2016,78.3,100.0,62.1,86.4,95.2,74.3,82.6,5.517,1.27964,1.05163,0.68098,0.41511,0.08423,0.18519,https://www.worldometers.info//img/flags/small/tn_en-flag.gif
+Estonia,2017,79.6,100.0,66.1,87.8,96.0,76.0,82.5,5.611000061,1.32087934,1.4766711,0.695168316,0.47913143,0.098890811,0.183248922,https://www.worldometers.info//img/flags/small/tn_en-flag.gif
+Estonia,2018,79.7,100.0,61.5,87.2,96.0,76.0,82.9,5.739,1.2,1.532,0.737,0.553,0.086,0.174,https://www.worldometers.info//img/flags/small/tn_en-flag.gif
+Estonia,2019,80.7,100.0,64.9,88.6,96.0,77.9,84.1,5.893,1.237,1.528,0.874,0.495,0.103,0.161,https://www.worldometers.info//img/flags/small/tn_en-flag.gif
+Estonia,2020,81.1,100.0,64.8,89.9,96.0,77.3,84.1,6.021800041,1.192441225,1.453232527,0.842615008,0.576664805,0.125136748,0.201766819,https://www.worldometers.info//img/flags/small/tn_en-flag.gif
+Estonia,2021,81.0,100.0,63.2,89.9,96.1,76.3,84.1,6.189,1.344,1.079,0.64,0.641,0.119,0.263,https://www.worldometers.info//img/flags/small/tn_en-flag.gif
+Estonia,2022,81.7,100.0,63.2,89.5,96.1,76.8,84.1,6.341,1.793,1.232,0.728,0.689,0.123,0.333,https://www.worldometers.info//img/flags/small/tn_en-flag.gif
+Estonia,2023,81.68334647,99.9835,63.176,89.497,96.052,76.77775,84.074,6.455,1.798,1.526,0.494,0.728,0.153,0.372,https://www.worldometers.info//img/flags/small/tn_en-flag.gif
+Ethiopia,2016,51.4,30.5,52.9,42.4,28.9,55.4,36.7,4.508,0.29283,0.37932,0.34578,0.36703,0.29522,0.1717,https://www.worldometers.info//img/flags/small/tn_et-flag.gif
+Ethiopia,2017,52.3,32.5,53.0,43.3,34.1,55.7,37.2,4.460000038,0.339233845,0.864669204,0.353409708,0.408842742,0.31265074,0.165455714,https://www.worldometers.info//img/flags/small/tn_et-flag.gif
+Ethiopia,2018,52.5,32.6,52.3,43.9,34.1,57.3,37.7,4.35,0.308,0.95,0.391,0.452,0.22,0.146,https://www.worldometers.info//img/flags/small/tn_et-flag.gif
+Ethiopia,2019,53.2,35.2,54.3,46.7,34.1,57.8,38.2,4.286,0.336,1.033,0.532,0.344,0.209,0.1,https://www.worldometers.info//img/flags/small/tn_et-flag.gif
+Ethiopia,2020,53.7,38.6,53.5,48.3,34.1,57.5,38.7,4.186200142,0.315125644,1.001103282,0.483846247,0.41256687,0.227698103,0.117437035,https://www.worldometers.info//img/flags/small/tn_et-flag.gif
+Ethiopia,2021,54.3,44.9,53.5,48.0,31.7,59.6,38.7,4.275,0.37,0.679,0.331,0.451,0.241,0.114,https://www.worldometers.info//img/flags/small/tn_et-flag.gif
+Ethiopia,2022,54.5,48.8,53.7,46.5,31.7,59.7,38.7,4.241,0.788,0.809,0.457,0.472,0.205,0.136,https://www.worldometers.info//img/flags/small/tn_et-flag.gif
+Ethiopia,2023,54.54639699,48.808,53.71614286,46.47614286,31.719,59.6975,38.6896,4.091,0.793,1.114,0.25,0.451,0.283,0.101,https://www.worldometers.info//img/flags/small/tn_et-flag.gif
+Finland,2016,85.4,99.5,63.7,95.2,98.7,88.9,94.3,7.413,1.40598,1.13464,0.81091,0.57104,0.25492,0.41004,https://www.worldometers.info//img/flags/small/tn_fi-flag.gif
+Finland,2017,86.0,99.5,64.2,94.8,98.5,89.1,94.3,7.468999863,1.443571925,1.540246725,0.80915767,0.617950857,0.245482773,0.382611543,https://www.worldometers.info//img/flags/small/tn_fi-flag.gif
+Finland,2018,85.6,99.5,61.4,95.2,97.5,89.3,94.3,7.632,1.305,1.592,0.874,0.681,0.202,0.393,https://www.worldometers.info//img/flags/small/tn_fi-flag.gif
+Finland,2019,86.1,99.6,63.6,95.6,98.1,91.8,94.3,7.769,1.34,1.587,0.986,0.596,0.153,0.393,https://www.worldometers.info//img/flags/small/tn_fi-flag.gif
+Finland,2020,86.4,99.5,62.4,95.5,97.2,91.2,94.3,7.808700085,1.285189509,1.499525905,0.961271405,0.66231674,0.159670442,0.477857262,https://www.worldometers.info//img/flags/small/tn_fi-flag.gif
+Finland,2021,86.6,99.6,60.9,95.4,97.2,91.3,94.3,7.842,1.446,1.106,0.741,0.691,0.124,0.481,https://www.worldometers.info//img/flags/small/tn_fi-flag.gif
+Finland,2022,86.8,99.6,60.9,95.4,97.2,92.1,94.3,7.821,1.892,1.258,0.775,0.736,0.109,0.534,https://www.worldometers.info//img/flags/small/tn_fi-flag.gif
+Finland,2023,86.76059478,99.575,60.88675,95.38638462,97.16933333,92.11125,94.3276,7.804,1.888,1.585,0.535,0.772,0.126,0.535,https://www.worldometers.info//img/flags/small/tn_fi-flag.gif
+France,2016,80.0,98.3,69.1,92.5,99.2,80.0,89.4,6.478,1.39488,1.00508,0.83795,0.46562,0.1216,0.17808,https://www.worldometers.info//img/flags/small/tn_fr-flag.gif
+France,2017,81.0,99.4,72.9,92.8,99.7,86.6,89.3,6.441999912,1.430923462,1.387776852,0.844465852,0.470222116,0.129762307,0.172502428,https://www.worldometers.info//img/flags/small/tn_fr-flag.gif
+France,2018,80.9,99.7,72.1,92.9,99.6,87.2,89.3,6.489,1.293,1.466,0.908,0.52,0.098,0.176,https://www.worldometers.info//img/flags/small/tn_fr-flag.gif
+France,2019,81.5,99.7,72.4,93.4,99.7,87.5,89.3,6.592,1.324,1.472,1.045,0.436,0.111,0.183,https://www.worldometers.info//img/flags/small/tn_fr-flag.gif
+France,2020,81.6,99.7,71.3,93.4,99.6,87.5,89.3,6.663799763,1.268129349,1.458839178,1.029714227,0.514050901,0.112607703,0.227303237,https://www.worldometers.info//img/flags/small/tn_fr-flag.gif
+France,2021,82.0,99.7,72.4,93.4,99.6,87.9,89.3,6.69,1.421,1.081,0.804,0.536,0.092,0.235,https://www.worldometers.info//img/flags/small/tn_fr-flag.gif
+France,2022,82.0,99.7,72.4,93.2,99.6,87.8,89.3,6.687,1.863,1.219,0.808,0.567,0.07,0.266,https://www.worldometers.info//img/flags/small/tn_fr-flag.gif
+France,2023,82.04834271,99.7285,72.390125,93.22457143,99.63,87.82325,89.2696,6.661,1.856,1.433,0.566,0.582,0.083,0.27,https://www.worldometers.info//img/flags/small/tn_fr-flag.gif
+Gabon,2016,60.4,90.4,52.2,47.8,59.6,44.7,60.8,4.121,1.15851,0.72368,0.3494,0.28098,0.06244,0.09314,https://www.worldometers.info//img/flags/small/tn_gb-flag.gif
+Gabon,2017,61.8,90.3,51.2,48.2,59.6,45.9,61.0,4.465000153,1.198210239,1.155620217,0.356578588,0.312328577,0.043785378,0.076046787,https://www.worldometers.info//img/flags/small/tn_gb-flag.gif
+Gabon,2018,61.9,89.8,51.2,48.0,60.4,45.7,61.1,4.758,1.036,1.164,0.404,0.356,0.032,0.052,https://www.worldometers.info//img/flags/small/tn_gb-flag.gif
+Gabon,2019,62.2,89.6,51.5,49.4,60.4,45.9,61.3,4.799,1.057,1.183,0.571,0.295,0.043,0.055,https://www.worldometers.info//img/flags/small/tn_gb-flag.gif
+Gabon,2020,62.0,88.8,51.4,48.7,60.4,44.2,61.4,4.829299927,0.988044381,1.10639751,0.522574842,0.369459897,0.052013602,0.055804539,https://www.worldometers.info//img/flags/small/tn_gb-flag.gif
+Gabon,2021,62.8,88.0,51.5,50.5,60.8,45.1,61.4,4.852,1.037,0.707,0.362,0.424,0.058,0.064,https://www.worldometers.info//img/flags/small/tn_gb-flag.gif
+Gabon,2022,63.1,88.7,51.6,50.5,60.8,45.2,61.4,4.958,1.459,0.738,0.396,0.343,0.032,0.099,https://www.worldometers.info//img/flags/small/tn_gb-flag.gif
+Gabon,2023,63.092157,88.682,51.60071429,50.47828571,60.81766667,45.22625,61.365,5.035,1.438,1.021,0.183,0.346,0.036,0.102,https://www.worldometers.info//img/flags/small/tn_gb-flag.gif
+Georgia,2016,73.5,82.6,53.8,71.8,98.3,59.3,80.2,4.252,0.83792,0.19249,0.64035,0.32461,0.06786,0.3188,https://www.worldometers.info//img/flags/small/tn_gg-flag.gif
+Georgia,2017,73.4,81.3,51.9,73.3,99.2,59.8,80.3,4.285999775,0.950612664,0.570614934,0.649546981,0.309410036,0.054008815,0.251666635,https://www.worldometers.info//img/flags/small/tn_gg-flag.gif
+Georgia,2018,73.8,82.1,54.7,74.7,99.2,60.0,80.3,4.34,0.853,0.592,0.643,0.375,0.038,0.215,https://www.worldometers.info//img/flags/small/tn_gg-flag.gif
+Georgia,2019,74.2,82.9,54.8,75.3,99.4,59.3,80.3,4.519,0.886,0.666,0.752,0.346,0.043,0.164,https://www.worldometers.info//img/flags/small/tn_gg-flag.gif
+Georgia,2020,74.5,80.3,55.2,75.1,99.4,62.3,80.3,4.672599792,0.847198069,0.7311939,0.694657624,0.485494107,0.047609735,0.174088076,https://www.worldometers.info//img/flags/small/tn_gg-flag.gif
+Georgia,2021,75.1,84.6,55.5,74.5,96.9,61.8,80.3,4.891,1.03,0.47,0.498,0.488,0.032,0.181,https://www.worldometers.info//img/flags/small/tn_gg-flag.gif
+Georgia,2022,75.0,88.1,55.5,75.1,96.9,61.8,80.3,4.973,1.467,0.612,0.595,0.508,0.0,0.208,https://www.worldometers.info//img/flags/small/tn_gg-flag.gif
+Georgia,2023,75.01713789,88.0635,55.53785714,75.13621429,96.887,61.82925,80.309,5.109,1.477,0.947,0.366,0.539,0.0,0.201,https://www.worldometers.info//img/flags/small/tn_gg-flag.gif
+Germany,2016,82.0,99.6,72.8,92.6,98.7,82.1,88.4,6.994,1.44787,1.09774,0.81487,0.53466,0.30452,0.28551,https://www.worldometers.info//img/flags/small/tn_gm-flag.gif
+Germany,2017,82.1,99.4,73.2,93.3,98.5,79.4,88.4,6.951000214,1.487923384,1.472520351,0.798950732,0.562511384,0.33626917,0.276731938,https://www.worldometers.info//img/flags/small/tn_gm-flag.gif
+Germany,2018,82.3,99.5,70.9,93.3,98.5,79.5,88.4,6.965,1.34,1.474,0.861,0.586,0.273,0.28,https://www.worldometers.info//img/flags/small/tn_gm-flag.gif
+Germany,2019,82.6,99.5,72.3,93.7,97.3,79.7,88.4,6.985,1.373,1.454,0.987,0.495,0.261,0.265,https://www.worldometers.info//img/flags/small/tn_gm-flag.gif
+Germany,2020,83.0,99.5,72.4,94.2,97.2,80.0,88.4,7.075799942,1.314184546,1.368543744,0.972114801,0.564274132,0.252037704,0.309362292,https://www.worldometers.info//img/flags/small/tn_gm-flag.gif
+Germany,2021,83.3,99.5,72.4,93.4,97.2,81.9,88.4,7.155,1.48,0.993,0.757,0.6,0.195,0.306,https://www.worldometers.info//img/flags/small/tn_gm-flag.gif
+Germany,2022,83.4,99.5,72.4,93.0,97.2,81.9,88.4,7.034,1.924,1.088,0.776,0.585,0.163,0.358,https://www.worldometers.info//img/flags/small/tn_gm-flag.gif
+Germany,2023,83.35844651,99.5105,72.366,93.03935714,97.16266667,81.92025,88.4434,6.892,1.919,1.401,0.539,0.618,0.153,0.365,https://www.worldometers.info//img/flags/small/tn_gm-flag.gif
+Ghana,2016,59.6,49.1,68.6,49.7,76.4,52.0,55.4,4.276,0.63107,0.49353,0.29681,0.40973,0.21203,0.0326,https://www.worldometers.info//img/flags/small/tn_gh-flag.gif
+Ghana,2017,60.7,50.0,67.5,52.9,78.3,52.5,55.9,4.119999886,0.667224824,0.873664737,0.295637727,0.423026294,0.256923944,0.02533637,https://www.worldometers.info//img/flags/small/tn_gh-flag.gif
+Ghana,2018,61.1,50.7,68.3,52.0,84.4,53.2,56.5,4.657,0.592,0.896,0.337,0.499,0.212,0.029,https://www.worldometers.info//img/flags/small/tn_gh-flag.gif
+Ghana,2019,61.6,55.8,69.5,53.3,84.4,54.0,57.1,4.996,0.611,0.868,0.486,0.381,0.245,0.04,https://www.worldometers.info//img/flags/small/tn_gh-flag.gif
+Ghana,2020,62.0,54.4,70.4,53.5,84.5,54.0,57.7,5.147999763,0.575862467,0.96636796,0.432162255,0.477290064,0.261291206,0.056570381,https://www.worldometers.info//img/flags/small/tn_gh-flag.gif
+Ghana,2021,61.8,53.3,70.6,53.1,84.5,54.9,57.7,5.088,0.68,0.595,0.287,0.517,0.268,0.058,https://www.worldometers.info//img/flags/small/tn_gh-flag.gif
+Ghana,2022,61.8,54.4,70.8,52.8,84.5,54.9,57.7,4.872,1.112,0.595,0.409,0.5,0.23,0.056,https://www.worldometers.info//img/flags/small/tn_gh-flag.gif
+Ghana,2023,61.79869089,54.358,70.778625,52.81207143,84.542,54.939,57.6814,4.605,1.101,0.756,0.197,0.526,0.211,0.035,https://www.worldometers.info//img/flags/small/tn_gh-flag.gif
+Greece,2016,75.7,98.6,67.8,88.4,94.4,63.0,87.6,5.033,1.24886,0.75473,0.80029,0.05822,0.0,0.04127,https://www.worldometers.info//img/flags/small/tn_gr-flag.gif
+Greece,2017,76.2,99.1,68.0,88.6,94.4,62.4,87.6,5.227000237,1.289487481,1.239414573,0.810198903,0.095731251,0.0,0.043289777,https://www.worldometers.info//img/flags/small/tn_gr-flag.gif
+Greece,2018,77.0,100.0,65.8,89.2,95.1,62.6,87.6,5.358,1.154,1.202,0.879,0.131,0.0,0.044,https://www.worldometers.info//img/flags/small/tn_gr-flag.gif
+Greece,2019,77.5,99.2,66.2,90.5,96.0,64.0,87.7,5.287,1.181,1.156,0.999,0.067,0.0,0.034,https://www.worldometers.info//img/flags/small/tn_gr-flag.gif
+Greece,2020,77.8,99.0,66.5,90.2,97.1,64.6,87.7,5.514999866,1.128070116,1.168973565,0.979431748,0.173516348,0.0,0.048844352,https://www.worldometers.info//img/flags/small/tn_gr-flag.gif
+Greece,2021,78.1,99.1,66.6,90.7,97.1,65.2,87.7,5.723,1.273,0.811,0.76,0.243,0.0,0.074,https://www.worldometers.info//img/flags/small/tn_gr-flag.gif
+Greece,2022,78.4,99.2,66.6,90.3,97.1,65.4,87.7,5.948,1.703,0.98,0.774,0.249,0.015,0.108,https://www.worldometers.info//img/flags/small/tn_gr-flag.gif
+Greece,2023,78.36883446,99.2315,66.624875,90.32485714,97.13575,65.4365,87.651,5.931,1.708,1.247,0.535,0.248,0.008,0.097,https://www.worldometers.info//img/flags/small/tn_gr-flag.gif
+Guatemala,2016,58.3,72.1,42.6,68.9,69.7,49.1,68.3,6.324,0.83454,0.87119,0.54039,0.50379,0.28808,0.08701,https://www.worldometers.info//img/flags/small/tn_gt-flag.gif
+Guatemala,2017,58.7,72.6,42.2,69.8,69.7,47.4,68.5,6.453999996,0.872001946,1.255585194,0.54023999,0.531310618,0.283488393,0.077223279,https://www.worldometers.info//img/flags/small/tn_gt-flag.gif
+Guatemala,2018,58.8,73.3,42.9,69.0,72.8,46.9,68.7,6.382,0.781,1.268,0.608,0.604,0.179,0.071,https://www.worldometers.info//img/flags/small/tn_gt-flag.gif
+Guatemala,2019,59.2,74.2,42.9,68.8,72.2,49.7,68.8,6.436,0.8,1.269,0.746,0.535,0.175,0.078,https://www.worldometers.info//img/flags/small/tn_gt-flag.gif
+Guatemala,2020,59.4,73.1,43.3,69.1,71.8,49.7,69.0,6.398900032,0.753815711,1.174267054,0.705952585,0.613146722,0.170611665,0.0983603,https://www.worldometers.info//img/flags/small/tn_gt-flag.gif
+Guatemala,2021,59.7,75.5,43.4,68.7,72.4,49.6,69.0,6.435,0.845,0.79,0.519,0.638,0.163,0.105,https://www.worldometers.info//img/flags/small/tn_gt-flag.gif
+Guatemala,2022,59.4,76.5,43.5,68.5,72.4,49.9,69.0,6.262,1.274,0.831,0.522,0.662,0.112,0.115,https://www.worldometers.info//img/flags/small/tn_gt-flag.gif
+Guatemala,2023,59.38309832,76.5485,43.4895,68.54428571,72.35025,49.851,69.018,6.15,1.287,1.188,0.31,0.631,0.106,0.066,https://www.worldometers.info//img/flags/small/tn_gt-flag.gif
+Guinea,2016,51.4,46.6,57.5,27.4,20.1,27.6,50.5,3.607,0.22415,0.3109,0.18829,0.30953,0.29914,0.1192,https://www.worldometers.info//img/flags/small/tn_gv-flag.gif
+Guinea,2017,52.1,46.7,57.2,30.3,20.1,27.0,50.8,3.506999969,0.24454993,0.791244686,0.194129139,0.348587513,0.264815092,0.110937618,https://www.worldometers.info//img/flags/small/tn_gv-flag.gif
+Guinea,2018,53.1,49.1,57.1,30.7,28.4,31.4,51.1,3.964,0.344,0.792,0.211,0.394,0.185,0.094,https://www.worldometers.info//img/flags/small/tn_gv-flag.gif
+Guinea,2019,53.5,55.4,57.4,30.9,26.3,31.3,51.4,4.534,0.38,0.829,0.375,0.332,0.207,0.086,https://www.worldometers.info//img/flags/small/tn_gv-flag.gif
+Guinea,2020,53.5,57.1,57.8,31.6,30.5,28.1,51.7,4.949299812,0.390007734,0.75136596,0.333655238,0.371878058,0.249490842,0.112204559,https://www.worldometers.info//img/flags/small/tn_gv-flag.gif
+Guinea,2021,54.2,56.5,58.0,31.7,33.4,28.0,51.7,4.984,0.42,0.399,0.206,0.384,0.25,0.111,https://www.worldometers.info//img/flags/small/tn_gv-flag.gif
+Guinea,2022,54.9,60.5,58.2,32.3,33.4,28.0,51.7,4.891,0.848,0.566,0.275,0.334,0.214,0.116,https://www.worldometers.info//img/flags/small/tn_gv-flag.gif
+Guinea,2023,54.88727619,60.4645,58.15514286,32.33971429,33.41325,28.019,51.699,5.072,0.844,0.776,0.072,0.369,0.204,0.102,https://www.worldometers.info//img/flags/small/tn_gv-flag.gif
+Honduras,2016,62.9,63.4,53.8,69.2,64.6,66.6,70.9,4.871,0.69429,0.75596,0.58383,0.26755,0.2044,0.06906,https://www.worldometers.info//img/flags/small/tn_ho-flag.gif
+Honduras,2017,62.8,64.4,54.2,68.9,65.1,66.0,71.3,5.181000233,0.730573118,1.143944979,0.58256948,0.34807986,0.236188874,0.073345453,https://www.worldometers.info//img/flags/small/tn_ho-flag.gif
+Honduras,2018,62.5,65.4,54.4,68.8,65.3,65.4,71.7,5.504,0.62,1.205,0.622,0.459,0.197,0.074,https://www.worldometers.info//img/flags/small/tn_ho-flag.gif
+Honduras,2019,62.9,67.3,54.2,71.4,64.6,61.4,72.1,5.86,0.642,1.236,0.828,0.507,0.246,0.078,https://www.worldometers.info//img/flags/small/tn_ho-flag.gif
+Honduras,2020,62.7,64.3,53.7,70.5,64.2,63.8,72.4,5.953199863,0.598763585,1.186664104,0.791989982,0.568148077,0.256528199,0.086807102,https://www.worldometers.info//img/flags/small/tn_ho-flag.gif
+Honduras,2021,63.3,69.0,53.8,70.5,61.0,66.4,72.4,5.919,0.703,0.787,0.593,0.578,0.241,0.083,https://www.worldometers.info//img/flags/small/tn_ho-flag.gif
+Honduras,2022,62.9,70.3,53.9,70.2,61.0,66.7,72.4,6.022,1.111,0.885,0.555,0.582,0.202,0.076,https://www.worldometers.info//img/flags/small/tn_ho-flag.gif
+Honduras,2023,62.94584397,70.3035,53.925875,70.15578571,61.02225,66.744,72.428,6.023,1.115,1.072,0.341,0.613,0.189,0.062,https://www.worldometers.info//img/flags/small/tn_ho-flag.gif
+Hungary,2016,78.7,98.7,73.2,81.5,93.0,63.0,86.6,5.145,1.24142,0.93164,0.67608,0.1977,0.099,0.04472,https://www.worldometers.info//img/flags/small/tn_hu-flag.gif
+Hungary,2017,79.0,98.7,70.5,82.9,91.2,63.0,86.6,5.323999882,1.286011934,1.343133092,0.687763453,0.175863519,0.078401662,0.036636937,https://www.worldometers.info//img/flags/small/tn_hu-flag.gif
+Hungary,2018,78.9,98.8,71.0,82.7,89.8,64.5,86.6,5.62,1.171,1.401,0.732,0.259,0.061,0.022,https://www.worldometers.info//img/flags/small/tn_hu-flag.gif
+Hungary,2019,79.1,98.8,71.1,83.8,92.0,64.4,86.6,5.758,1.201,1.41,0.828,0.199,0.081,0.02,https://www.worldometers.info//img/flags/small/tn_hu-flag.gif
+Hungary,2020,79.6,98.8,71.7,83.8,92.8,64.3,86.6,6.000400066,1.164307117,1.423009396,0.806793869,0.386401802,0.070491239,0.027548173,https://www.worldometers.info//img/flags/small/tn_hu-flag.gif
+Hungary,2021,80.2,98.9,70.3,84.2,92.8,66.7,86.6,5.992,1.301,1.083,0.615,0.454,0.067,0.04,https://www.worldometers.info//img/flags/small/tn_hu-flag.gif
+Hungary,2022,79.4,98.9,70.3,83.6,92.8,66.8,86.6,6.086,1.748,1.233,0.668,0.485,0.078,0.064,https://www.worldometers.info//img/flags/small/tn_hu-flag.gif
+Hungary,2023,79.39344534,98.929,70.321625,83.63961538,92.7565,66.79875,86.5822,6.041,1.754,1.519,0.435,0.501,0.105,0.065,https://www.worldometers.info//img/flags/small/tn_hu-flag.gif
+Iceland,2016,76.7,99.8,53.7,95.3,99.0,93.6,59.8,7.501,1.42666,1.18326,0.86733,0.56624,0.47678,0.14975,https://www.worldometers.info//img/flags/small/tn_ic-flag.gif
+Iceland,2017,77.4,99.8,54.3,95.4,96.6,87.2,59.8,7.504000187,1.48063302,1.610574007,0.833552122,0.627162635,0.475540221,0.153526559,https://www.worldometers.info//img/flags/small/tn_ic-flag.gif
+Iceland,2018,77.5,99.8,52.4,95.4,97.3,87.1,59.8,7.495,1.343,1.644,0.914,0.677,0.353,0.138,https://www.worldometers.info//img/flags/small/tn_ic-flag.gif
+Iceland,2019,77.4,99.8,54.5,96.6,97.3,87.2,59.8,7.494,1.38,1.624,1.026,0.591,0.354,0.118,https://www.worldometers.info//img/flags/small/tn_ic-flag.gif
+Iceland,2020,78.1,99.8,57.1,96.8,98.1,87.0,59.8,7.504499912,1.326501608,1.547567487,1.000843406,0.661980748,0.362330228,0.144540772,https://www.worldometers.info//img/flags/small/tn_ic-flag.gif
+Iceland,2021,78.3,99.8,53.5,96.7,98.1,93.8,59.8,7.554,1.482,1.172,0.772,0.698,0.293,0.17,https://www.worldometers.info//img/flags/small/tn_ic-flag.gif
+Iceland,2022,78.3,99.9,53.5,96.4,98.1,94.0,59.8,7.557,1.936,1.32,0.803,0.718,0.27,0.191,https://www.worldometers.info//img/flags/small/tn_ic-flag.gif
+Iceland,2023,78.26644181,99.8645,53.48428571,96.40807143,98.09333333,94.02166667,59.7898,7.53,1.926,1.62,0.559,0.738,0.25,0.187,https://www.worldometers.info//img/flags/small/tn_ic-flag.gif
+India,2016,58.6,73.0,52.9,61.4,79.3,39.9,54.9,4.404,0.74036,0.29247,0.45091,0.40285,0.25028,0.08722,https://www.worldometers.info//img/flags/small/tn_in-flag.gif
+India,2017,60.1,75.6,53.6,62.0,78.0,40.9,55.7,4.315000057,0.792221248,0.754372597,0.455427617,0.469987005,0.231538489,0.092226885,https://www.worldometers.info//img/flags/small/tn_in-flag.gif
+India,2018,60.9,78.9,54.0,62.3,80.6,42.0,56.5,4.19,0.721,0.747,0.485,0.539,0.172,0.093,https://www.worldometers.info//img/flags/small/tn_in-flag.gif
+India,2019,62.2,81.1,54.1,63.0,80.1,46.1,57.3,4.015,0.755,0.765,0.588,0.498,0.2,0.085,https://www.worldometers.info//img/flags/small/tn_in-flag.gif
+India,2020,62.6,76.9,53.8,64.3,82.9,45.8,58.1,3.573299885,0.730576158,0.644198656,0.54057014,0.581142247,0.237072483,0.105587982,https://www.worldometers.info//img/flags/small/tn_in-flag.gif
+India,2021,62.8,80.6,54.2,64.3,86.0,46.0,58.1,3.819,0.741,0.316,0.383,0.622,0.246,0.106,https://www.worldometers.info//img/flags/small/tn_in-flag.gif
+India,2022,63.4,86.2,54.4,64.8,89.3,46.3,58.1,3.777,1.167,0.376,0.471,0.647,0.198,0.123,https://www.worldometers.info//img/flags/small/tn_in-flag.gif
+India,2023,63.44921401,86.2335,54.39175,64.79164286,89.29225,46.254,58.1254,4.036,1.159,0.674,0.252,0.685,0.175,0.111,https://www.worldometers.info//img/flags/small/tn_in-flag.gif
+Indonesia,2016,65.3,74.3,63.8,63.9,92.8,60.2,66.8,5.314,0.95104,0.87625,0.49374,0.39237,0.56521,0.00322,https://www.worldometers.info//img/flags/small/tn_id-flag.gif
+Indonesia,2017,67.1,77.3,63.5,64.6,92.5,61.9,67.6,5.262000084,0.995538592,1.274444699,0.492345721,0.443323463,0.611704588,0.015317135,https://www.worldometers.info//img/flags/small/tn_id-flag.gif
+Indonesia,2018,68.1,79.7,66.2,65.7,92.2,62.2,68.4,5.093,0.899,1.215,0.522,0.538,0.484,0.018,https://www.worldometers.info//img/flags/small/tn_id-flag.gif
+Indonesia,2019,69.0,81.5,66.1,66.9,92.2,61.5,69.2,5.192,0.931,1.203,0.66,0.491,0.498,0.028,https://www.worldometers.info//img/flags/small/tn_id-flag.gif
+Indonesia,2020,69.2,82.7,66.3,65.2,92.2,63.3,70.1,5.285600185,0.891720712,1.154800892,0.610437036,0.568161428,0.542646527,0.038278613,https://www.worldometers.info//img/flags/small/tn_id-flag.gif
+Indonesia,2021,70.0,83.2,66.5,64.5,92.2,63.7,70.1,5.345,0.954,0.786,0.433,0.598,0.541,0.046,https://www.worldometers.info//img/flags/small/tn_id-flag.gif
+Indonesia,2022,70.2,86.1,66.6,64.8,92.2,63.8,70.1,5.24,1.382,0.883,0.539,0.62,0.468,0.047,https://www.worldometers.info//img/flags/small/tn_id-flag.gif
+Indonesia,2023,70.16289734,86.0555,66.61325,64.84042857,92.18425,63.7675,70.082,5.277,1.384,1.169,0.314,0.663,0.422,0.038,https://www.worldometers.info//img/flags/small/tn_id-flag.gif
+Ireland,2016,78.5,99.9,67.6,93.9,98.7,75.9,84.6,6.907,1.48341,1.16157,0.81455,0.54008,0.44963,0.29754,https://www.worldometers.info//img/flags/small/tn_ei-flag.gif
+Ireland,2017,79.1,99.9,68.0,94.3,99.9,76.1,84.6,6.977000237,1.535706639,1.558231115,0.809782624,0.573110342,0.427858323,0.298388153,https://www.worldometers.info//img/flags/small/tn_ei-flag.gif
+Ireland,2018,78.8,99.9,67.4,94.4,99.1,76.3,82.9,6.977,1.448,1.583,0.876,0.614,0.307,0.306,https://www.worldometers.info//img/flags/small/tn_ei-flag.gif
+Ireland,2019,79.3,99.9,67.7,95.2,99.8,76.4,82.9,7.021,1.499,1.553,0.999,0.516,0.298,0.31,https://www.worldometers.info//img/flags/small/tn_ei-flag.gif
+Ireland,2020,79.3,99.9,67.7,94.8,99.0,76.5,82.9,7.093699932,1.446886778,1.470596433,0.975670695,0.587779939,0.295426995,0.373433262,https://www.worldometers.info//img/flags/small/tn_ei-flag.gif
+Ireland,2021,79.4,99.9,67.7,94.3,99.0,77.2,82.9,7.085,1.644,1.092,0.753,0.606,0.238,0.367,https://www.worldometers.info//img/flags/small/tn_ei-flag.gif
+Ireland,2022,80.1,99.9,67.7,94.4,99.0,77.7,82.9,7.041,2.129,1.166,0.779,0.627,0.19,0.408,https://www.worldometers.info//img/flags/small/tn_ei-flag.gif
+Ireland,2023,80.14793835,99.947,67.66175,94.441,98.985,77.6815,82.9052,6.911,2.152,1.425,0.539,0.656,0.186,0.409,https://www.worldometers.info//img/flags/small/tn_ei-flag.gif
+Israel,2016,72.0,98.5,60.2,94.4,99.6,73.7,68.2,7.267,1.33766,0.99537,0.84917,0.36432,0.32288,0.08728,https://www.worldometers.info//img/flags/small/tn_is-flag.gif
+Israel,2017,73.2,98.4,55.1,95.3,99.4,74.2,68.2,7.212999821,1.375382423,1.376289964,0.838404,0.405988604,0.330082655,0.0852421,https://www.worldometers.info//img/flags/small/tn_is-flag.gif
+Israel,2018,73.1,98.6,53.2,94.8,99.6,74.8,69.1,6.814,1.301,1.559,0.883,0.533,0.354,0.272,https://www.worldometers.info//img/flags/small/tn_is-flag.gif
+Israel,2019,73.7,98.6,55.6,95.7,99.5,72.9,68.2,7.139,1.276,1.455,1.029,0.371,0.261,0.082,https://www.worldometers.info//img/flags/small/tn_is-flag.gif
+Israel,2020,73.9,98.5,56.1,95.6,99.6,75.3,68.2,7.128600121,1.216463685,1.403256774,1.008052945,0.420699477,0.266861796,0.09989845,https://www.worldometers.info//img/flags/small/tn_is-flag.gif
+Israel,2021,74.2,98.6,55.4,96.3,99.6,75.9,68.2,7.157,1.376,1.074,0.788,0.509,0.208,0.119,https://www.worldometers.info//img/flags/small/tn_is-flag.gif
+Israel,2022,74.0,98.6,55.4,96.3,99.6,76.1,68.2,7.364,1.826,1.221,0.818,0.568,0.155,0.143,https://www.worldometers.info//img/flags/small/tn_is-flag.gif
+Israel,2023,73.97033908,98.626,55.39171429,96.33516667,99.58433333,76.098,68.2082,7.473,1.833,1.521,0.577,0.569,0.124,0.158,https://www.worldometers.info//img/flags/small/tn_is-flag.gif
+Italy,2016,77.0,97.1,70.6,92.0,97.0,69.9,80.8,5.977,1.35495,1.04167,0.85102,0.18827,0.16684,0.02556,https://www.worldometers.info//img/flags/small/tn_it-flag.gif
+Italy,2017,77.2,97.6,69.0,93.0,95.9,70.3,80.8,5.964000225,1.395066619,1.444923282,0.853144348,0.256450713,0.172789648,0.028028091,https://www.worldometers.info//img/flags/small/tn_it-flag.gif
+Italy,2018,77.9,97.5,69.4,93.8,95.4,73.1,80.8,6.0,1.264,1.501,0.946,0.281,0.137,0.028,https://www.worldometers.info//img/flags/small/tn_it-flag.gif
+Italy,2019,77.9,97.5,69.4,94.2,94.0,73.5,80.8,6.223,1.294,1.488,1.039,0.231,0.158,0.03,https://www.worldometers.info//img/flags/small/tn_it-flag.gif
+Italy,2020,78.6,97.3,69.9,94.2,94.2,73.5,80.8,6.38740015,1.236396074,1.347296,1.022504926,0.321305573,0.170266211,0.040145598,https://www.worldometers.info//img/flags/small/tn_it-flag.gif
+Italy,2021,78.7,97.4,69.8,94.2,94.2,73.9,80.8,6.483,1.393,0.94,0.798,0.379,0.133,0.047,https://www.worldometers.info//img/flags/small/tn_it-flag.gif
+Italy,2022,78.8,97.5,69.8,93.9,94.2,74.3,80.8,6.467,1.834,1.052,0.801,0.412,0.085,0.059,https://www.worldometers.info//img/flags/small/tn_it-flag.gif
+Italy,2023,78.78683607,97.5035,69.82725,93.86342857,94.19,74.34975,80.8128,6.405,1.832,1.365,0.559,0.438,0.097,0.063,https://www.worldometers.info//img/flags/small/tn_it-flag.gif
+Jamaica,2016,68.6,90.8,58.5,77.7,84.5,71.7,69.8,5.51,0.89333,0.96372,0.59469,0.43597,0.22245,0.04294,https://www.worldometers.info//img/flags/small/tn_jm-flag.gif
+Jamaica,2017,68.9,91.0,58.2,78.7,82.0,71.9,69.9,5.31099987,0.925579309,1.368218064,0.641022384,0.474307239,0.233818337,0.055267781,https://www.worldometers.info//img/flags/small/tn_jm-flag.gif
+Jamaica,2018,69.1,91.1,58.7,78.2,81.3,71.8,70.0,5.89,0.819,1.493,0.693,0.575,0.096,0.031,https://www.worldometers.info//img/flags/small/tn_jm-flag.gif
+Jamaica,2019,69.3,91.3,58.9,79.5,81.8,72.0,70.1,5.89,0.831,1.478,0.831,0.49,0.107,0.028,https://www.worldometers.info//img/flags/small/tn_jm-flag.gif
+Jamaica,2020,69.7,87.9,59.1,77.9,81.8,77.4,70.1,5.889800072,0.779058397,1.408289194,0.788434088,0.553124607,0.116268493,0.030147785,https://www.worldometers.info//img/flags/small/tn_jm-flag.gif
+Jamaica,2021,69.3,88.7,59.1,78.0,81.8,77.9,70.1,6.309,0.891,0.932,0.599,0.618,0.099,0.035,https://www.worldometers.info//img/flags/small/tn_jm-flag.gif
+Jamaica,2022,69.6,90.0,59.1,78.2,81.8,78.3,70.1,5.85,1.296,1.045,0.646,0.567,0.08,0.053,https://www.worldometers.info//img/flags/small/tn_jm-flag.gif
+Jamaica,2023,69.59087411,90.0045,59.067375,78.18257143,81.78266667,78.338,70.0882,5.703,1.305,1.329,0.411,0.587,0.079,0.039,https://www.worldometers.info//img/flags/small/tn_jm-flag.gif
+Japan,2016,78.0,99.3,74.6,93.7,94.5,58.8,84.8,5.921,1.38007,1.06054,0.91491,0.46761,0.10224,0.18985,https://www.worldometers.info//img/flags/small/tn_ja-flag.gif
+Japan,2017,78.1,99.3,74.5,93.9,94.1,59.7,84.9,5.920000076,1.416915178,1.436337829,0.913475871,0.505625546,0.120572768,0.163760737,https://www.worldometers.info//img/flags/small/tn_ja-flag.gif
+Japan,2018,78.5,99.3,74.6,93.8,94.0,60.3,84.9,5.915,1.294,1.462,0.988,0.553,0.079,0.15,https://www.worldometers.info//img/flags/small/tn_ja-flag.gif
+Japan,2019,78.8,99.3,74.8,94.0,94.2,60.9,84.9,5.886,1.327,1.419,1.088,0.445,0.069,0.14,https://www.worldometers.info//img/flags/small/tn_ja-flag.gif
+Japan,2020,79.0,99.3,74.6,94.4,93.9,60.9,84.9,5.870800018,1.26672411,1.332338691,1.072881341,0.495465875,0.03571178,0.181439638,https://www.worldometers.info//img/flags/small/tn_ja-flag.gif
+Japan,2021,79.5,99.3,75.2,94.4,93.9,61.2,84.9,5.94,1.389,0.949,0.838,0.504,0.02,0.192,https://www.worldometers.info//img/flags/small/tn_ja-flag.gif
+Japan,2022,79.4,99.3,75.2,94.6,93.9,61.7,84.9,6.039,1.835,1.089,0.866,0.537,0.007,0.218,https://www.worldometers.info//img/flags/small/tn_ja-flag.gif
+Japan,2023,79.41412774,99.2955,75.177625,94.57407692,93.93433333,61.6995,84.9298,6.129,1.825,1.396,0.622,0.556,0.009,0.207,https://www.worldometers.info//img/flags/small/tn_ja-flag.gif
+Jordan,2016,66.7,98.6,56.8,76.5,31.0,42.3,55.3,5.303,0.99673,0.86216,0.60712,0.36023,0.14262,0.13297,https://www.worldometers.info//img/flags/small/tn_jo-flag.gif
+Jordan,2017,66.9,98.7,56.1,76.0,29.4,42.9,55.3,5.335999966,0.991012394,1.239088893,0.604590058,0.418421149,0.17217046,0.119803272,https://www.worldometers.info//img/flags/small/tn_jo-flag.gif
+Jordan,2018,69.1,98.7,55.7,76.5,55.1,42.1,55.3,5.161,0.822,1.265,0.645,0.468,0.13,0.134,https://www.worldometers.info//img/flags/small/tn_jo-flag.gif
+Jordan,2019,69.7,98.6,56.3,75.8,57.6,41.4,55.2,4.906,0.837,1.225,0.815,0.383,0.11,0.13,https://www.worldometers.info//img/flags/small/tn_jo-flag.gif
+Jordan,2020,69.9,98.6,56.5,73.7,59.2,39.9,55.2,4.633399963,0.785179198,1.140118599,0.777624726,0.424855083,0.091494769,0.151878625,https://www.worldometers.info//img/flags/small/tn_jo-flag.gif
+Jordan,2021,70.1,98.7,56.8,73.5,59.1,39.7,55.2,4.395,0.89,0.685,0.583,0.455,0.079,0.15,https://www.worldometers.info//img/flags/small/tn_jo-flag.gif
+Jordan,2022,69.9,98.7,56.9,74.4,59.1,39.8,55.2,4.152,1.324,0.724,0.675,0.476,0.058,0.2,https://www.worldometers.info//img/flags/small/tn_jo-flag.gif
+Jordan,2023,69.87478579,98.6615,56.88525,74.36523077,59.11075,39.806,55.218,4.12,1.292,0.98,0.438,0.517,0.056,0.173,https://www.worldometers.info//img/flags/small/tn_jo-flag.gif
+Kazakhstan,2016,71.5,98.1,53.3,74.4,96.5,78.8,72.9,5.919,1.22943,0.95544,0.57386,0.4052,0.15011,0.11132,https://www.worldometers.info//img/flags/small/tn_kz-flag.gif
+Kazakhstan,2017,72.1,98.5,53.4,78.8,96.1,78.8,72.7,5.818999767,1.28455627,1.384369016,0.606041551,0.437454283,0.201964423,0.119282886,https://www.worldometers.info//img/flags/small/tn_kz-flag.gif
+Kazakhstan,2018,71.3,98.5,53.6,79.1,96.0,76.4,72.4,5.79,1.143,1.516,0.631,0.454,0.148,0.121,https://www.worldometers.info//img/flags/small/tn_kz-flag.gif
+Kazakhstan,2019,72.2,98.6,53.3,81.0,95.8,76.4,72.4,5.809,1.173,1.508,0.729,0.41,0.146,0.096,https://www.worldometers.info//img/flags/small/tn_kz-flag.gif
+Kazakhstan,2020,71.7,98.5,53.7,79.6,86.2,75.2,72.4,6.057899952,1.122594237,1.453267694,0.698788941,0.497432142,0.153713793,0.110463686,https://www.worldometers.info//img/flags/small/tn_kz-flag.gif
+Kazakhstan,2021,71.8,98.6,53.3,80.5,86.2,75.7,72.4,6.152,1.23,1.103,0.527,0.573,0.143,0.132,https://www.worldometers.info//img/flags/small/tn_kz-flag.gif
+Kazakhstan,2022,71.6,98.7,53.4,80.0,86.2,75.9,72.4,6.234,1.668,1.22,0.611,0.584,0.134,0.157,https://www.worldometers.info//img/flags/small/tn_kz-flag.gif
+Kazakhstan,2023,71.64826315,98.655,53.442,79.99757143,86.19125,75.8965,72.3634,6.144,1.664,1.491,0.389,0.628,0.136,0.149,https://www.worldometers.info//img/flags/small/tn_kz-flag.gif
+Kenya,2016,58.9,43.3,55.1,47.9,69.8,66.5,45.7,4.356,0.52267,0.7624,0.30147,0.40576,0.41328,0.06686,https://www.worldometers.info//img/flags/small/tn_ke-flag.gif
+Kenya,2017,59.9,44.4,55.6,48.2,69.8,68.4,45.9,4.552999973,0.560479462,1.067950726,0.30998835,0.452763766,0.444860309,0.064641319,https://www.worldometers.info//img/flags/small/tn_ke-flag.gif
+Kenya,2018,60.2,45.6,57.0,50.3,70.6,69.4,46.2,4.41,0.493,1.048,0.454,0.504,0.352,0.055,https://www.worldometers.info//img/flags/small/tn_ke-flag.gif
+Kenya,2019,60.5,47.0,56.8,51.0,70.6,69.1,46.4,4.509,0.512,0.983,0.581,0.431,0.372,0.053,https://www.worldometers.info//img/flags/small/tn_ke-flag.gif
+Kenya,2020,60.2,44.3,57.1,50.9,70.6,69.9,46.7,4.583000183,0.476413399,0.905077755,0.536312759,0.519180536,0.393902093,0.067201078,https://www.worldometers.info//img/flags/small/tn_ke-flag.gif
+Kenya,2021,60.7,46.3,56.6,51.2,71.1,70.0,46.7,4.607,0.603,0.508,0.385,0.483,0.375,0.073,https://www.worldometers.info//img/flags/small/tn_ke-flag.gif
+Kenya,2022,60.9,49.4,58.5,51.0,71.1,70.0,46.7,4.543,1.032,0.605,0.401,0.44,0.322,0.082,https://www.worldometers.info//img/flags/small/tn_ke-flag.gif
+Kenya,2023,60.91303634,49.434,58.452125,51.03028571,71.129,70.0455,46.664,4.487,1.051,0.881,0.19,0.418,0.291,0.055,https://www.worldometers.info//img/flags/small/tn_ke-flag.gif
+Latvia,2016,78.7,100.0,66.3,81.9,96.7,71.6,89.0,5.56,1.21788,0.95025,0.63952,0.27996,0.17445,0.0889,https://www.worldometers.info//img/flags/small/tn_lg-flag.gif
+Latvia,2017,79.3,100.0,66.8,83.1,98.0,70.5,89.1,5.849999905,1.260748625,1.404714942,0.638566971,0.325707912,0.153074786,0.073842727,https://www.worldometers.info//img/flags/small/tn_lg-flag.gif
+Latvia,2018,79.7,100.0,62.6,83.0,98.2,78.4,89.1,5.933,1.148,1.454,0.671,0.363,0.092,0.066,https://www.worldometers.info//img/flags/small/tn_lg-flag.gif
+Latvia,2019,80.2,100.0,64.9,84.4,97.5,77.9,89.2,5.94,1.187,1.465,0.812,0.264,0.075,0.064,https://www.worldometers.info//img/flags/small/tn_lg-flag.gif
+Latvia,2020,80.5,100.0,65.6,85.0,97.8,78.0,89.2,5.949999809,1.14139545,1.414398789,0.777902424,0.329198807,0.075407945,0.090391524,https://www.worldometers.info//img/flags/small/tn_lg-flag.gif
+Latvia,2021,80.3,100.0,64.2,84.8,97.8,77.2,89.2,6.032,1.285,1.047,0.587,0.405,0.082,0.089,https://www.worldometers.info//img/flags/small/tn_lg-flag.gif
+Latvia,2022,80.7,100.0,64.2,84.3,97.8,77.5,89.2,6.18,1.732,1.221,0.637,0.502,0.075,0.09,https://www.worldometers.info//img/flags/small/tn_lg-flag.gif
+Latvia,2023,80.68164288,99.9835,64.230125,84.30464286,97.83275,77.47225,89.1842,6.213,1.737,1.505,0.405,0.58,0.107,0.071,https://www.worldometers.info//img/flags/small/tn_lg-flag.gif
+Lebanon,2016,67.0,99.0,55.1,78.3,98.6,42.4,65.0,5.129,1.12268,0.64184,0.76171,0.26228,0.23693,0.03061,https://www.worldometers.info//img/flags/small/tn_le-flag.gif
+Lebanon,2017,67.7,99.0,54.0,78.3,98.6,42.8,65.5,5.224999905,1.074987531,1.129624248,0.735081077,0.288515985,0.264450759,0.03751383,https://www.worldometers.info//img/flags/small/tn_le-flag.gif
+Lebanon,2018,68.5,99.0,54.8,78.7,99.5,44.0,65.9,5.358,0.965,1.179,0.785,0.503,0.214,0.136,https://www.worldometers.info//img/flags/small/tn_le-flag.gif
+Lebanon,2019,67.9,99.0,54.5,77.2,99.6,44.4,66.2,5.197,0.987,1.224,0.815,0.216,0.166,0.027,https://www.worldometers.info//img/flags/small/tn_le-flag.gif
+Lebanon,2020,68.0,98.8,52.4,74.7,99.6,44.5,66.3,4.771500111,0.889232516,1.19249332,0.788671136,0.18551667,0.158524141,0.021518147,https://www.worldometers.info//img/flags/small/tn_le-flag.gif
+Lebanon,2021,67.6,98.7,56.6,74.3,99.6,44.8,66.3,4.584,1.045,0.868,0.595,0.175,0.14,0.026,https://www.worldometers.info//img/flags/small/tn_le-flag.gif
+Lebanon,2022,67.5,98.7,56.6,74.3,99.6,45.2,66.3,2.955,1.392,0.498,0.631,0.103,0.082,0.034,https://www.worldometers.info//img/flags/small/tn_le-flag.gif
+Lebanon,2023,67.52014468,98.731,56.64314286,74.33692857,99.617,45.17175,66.2592,2.392,1.417,0.476,0.398,0.123,0.061,0.027,https://www.worldometers.info//img/flags/small/tn_le-flag.gif
+Liberia,2016,50.0,28.6,46.7,28.2,60.3,38.3,52.1,3.622,0.10706,0.50353,0.23165,0.25748,0.24063,0.04852,https://www.worldometers.info//img/flags/small/tn_li-flag.gif
+Liberia,2017,49.8,28.5,46.2,30.9,42.9,39.0,52.3,3.532999992,0.119041793,0.872117937,0.229918197,0.332881182,0.266549885,0.038948249,https://www.worldometers.info//img/flags/small/tn_li-flag.gif
+Liberia,2018,49.6,28.1,46.3,30.7,42.9,41.5,52.6,3.495,0.076,0.858,0.267,0.419,0.206,0.03,https://www.worldometers.info//img/flags/small/tn_li-flag.gif
+Liberia,2019,49.6,26.3,46.8,33.1,42.9,44.6,52.9,3.975,0.073,0.922,0.443,0.37,0.233,0.033,https://www.worldometers.info//img/flags/small/tn_li-flag.gif
+Liberia,2020,49.6,24.2,47.6,34.9,37.1,44.6,53.0,4.557899952,0.174103007,0.920733929,0.392284274,0.405943096,0.226967871,0.051139876,https://www.worldometers.info//img/flags/small/tn_li-flag.gif
+Liberia,2021,49.9,25.2,47.6,34.8,37.1,44.0,53.0,4.625,0.228,0.58,0.253,0.43,0.221,0.057,https://www.worldometers.info//img/flags/small/tn_li-flag.gif
+Liberia,2022,49.9,26.4,47.8,32.8,37.1,44.1,53.0,5.122,0.636,0.67,0.309,0.405,0.178,0.08,https://www.worldometers.info//img/flags/small/tn_li-flag.gif
+Liberia,2023,49.88381024,26.398,47.77614286,32.81507692,37.13325,44.108,53.002,4.042,0.628,0.644,0.141,0.471,0.219,0.071,https://www.worldometers.info//img/flags/small/tn_li-flag.gif
+Lithuania,2016,74.9,100.0,61.1,82.7,99.6,71.4,78.3,5.813,1.2692,1.06411,0.64674,0.18929,0.02025,0.0182,https://www.worldometers.info//img/flags/small/tn_lh-flag.gif
+Lithuania,2017,75.6,100.0,62.0,84.2,99.2,71.4,78.5,5.90199995,1.314582348,1.473516107,0.62894994,0.234231785,0.010164657,0.011865643,https://www.worldometers.info//img/flags/small/tn_lh-flag.gif
+Lithuania,2018,75.1,100.0,58.1,84.3,98.6,71.3,78.8,5.952,1.197,1.527,0.716,0.35,0.026,0.006,https://www.worldometers.info//img/flags/small/tn_lh-flag.gif
+Lithuania,2019,75.8,100.0,59.4,84.8,98.4,71.7,78.8,6.149,1.238,1.515,0.818,0.291,0.043,0.042,https://www.worldometers.info//img/flags/small/tn_lh-flag.gif
+Lithuania,2020,76.3,100.0,61.1,85.3,98.1,74.4,78.8,6.215499878,1.193559647,1.432865739,0.795421183,0.42046079,0.053691041,0.081350274,https://www.worldometers.info//img/flags/small/tn_lh-flag.gif
+Lithuania,2021,76.3,100.0,59.6,85.9,98.1,75.2,78.8,6.255,1.35,1.065,0.612,0.476,0.056,0.073,https://www.worldometers.info//img/flags/small/tn_lh-flag.gif
+Lithuania,2022,76.8,100.0,59.6,86.1,98.1,75.9,78.8,6.446,1.804,1.204,0.659,0.496,0.053,0.077,https://www.worldometers.info//img/flags/small/tn_lh-flag.gif
+Lithuania,2023,76.80511203,99.9835,59.638,86.08364286,98.1385,75.914,78.8314,6.763,1.808,1.511,0.432,0.487,0.059,0.089,https://www.worldometers.info//img/flags/small/tn_lh-flag.gif
+Luxembourg,2016,76.5,99.8,57.0,95.3,99.0,77.3,81.6,6.871,1.69752,1.03999,0.84542,0.5487,0.27571,0.35329,https://www.worldometers.info//img/flags/small/tn_lu-flag.gif
+Luxembourg,2017,76.7,99.8,58.3,95.9,96.8,79.3,81.6,6.862999916,1.741943598,1.457583666,0.845089495,0.596627891,0.283180982,0.318834424,https://www.worldometers.info//img/flags/small/tn_lu-flag.gif
+Luxembourg,2018,76.6,99.6,59.6,95.5,98.9,73.8,81.6,6.91,1.576,1.52,0.896,0.632,0.196,0.321,https://www.worldometers.info//img/flags/small/tn_lu-flag.gif
+Luxembourg,2019,77.3,100.0,59.6,96.7,99.4,76.6,81.6,7.09,1.609,1.479,1.012,0.526,0.194,0.316,https://www.worldometers.info//img/flags/small/tn_lu-flag.gif
+Luxembourg,2020,78.1,100.0,59.1,96.8,98.3,81.3,81.6,7.237500191,1.536676049,1.387528419,0.986442685,0.610137045,0.19595392,0.367041469,https://www.worldometers.info//img/flags/small/tn_lu-flag.gif
+Luxembourg,2021,78.3,100.0,58.9,96.8,98.3,84.8,81.6,7.324,1.751,1.003,0.76,0.639,0.166,0.353,https://www.worldometers.info//img/flags/small/tn_lu-flag.gif
+Luxembourg,2022,77.6,100.0,58.9,96.5,98.3,85.3,81.6,7.404,2.209,1.155,0.79,0.7,0.12,0.388,https://www.worldometers.info//img/flags/small/tn_lu-flag.gif
+Luxembourg,2023,77.64534955,99.9735,58.858875,96.47442857,98.282,85.25566667,81.5924,7.228,2.2,1.357,0.549,0.71,0.149,0.418,https://www.worldometers.info//img/flags/small/tn_lu-flag.gif
+Madagascar,2016,48.8,3.7,52.3,34.2,53.8,63.0,43.3,3.695,0.27954,0.46115,0.37109,0.13684,0.2204,0.07506,https://www.worldometers.info//img/flags/small/tn_ma-flag.gif
+Madagascar,2017,49.3,3.4,51.9,34.2,54.0,66.2,43.7,3.644000053,0.305808693,0.913020372,0.375223309,0.189196765,0.20873253,0.067231975,https://www.worldometers.info//img/flags/small/tn_ma-flag.gif
+Madagascar,2018,49.9,3.6,53.1,34.0,55.4,68.3,44.1,3.774,0.262,0.908,0.402,0.221,0.155,0.049,https://www.worldometers.info//img/flags/small/tn_ma-flag.gif
+Madagascar,2019,49.9,3.7,52.9,35.2,54.2,67.0,44.5,3.933,0.274,0.916,0.555,0.148,0.169,0.041,https://www.worldometers.info//img/flags/small/tn_ma-flag.gif
+Madagascar,2020,50.0,3.6,53.3,34.6,54.2,67.9,44.9,4.165599823,0.244553208,0.823694348,0.500617027,0.192967549,0.191190064,0.076248638,https://www.worldometers.info//img/flags/small/tn_ma-flag.gif
+Madagascar,2021,50.5,3.6,53.3,33.4,54.5,68.0,44.9,4.208,0.266,0.503,0.341,0.207,0.185,0.087,https://www.worldometers.info//img/flags/small/tn_ma-flag.gif
+Madagascar,2022,50.3,4.2,53.5,32.9,54.5,68.1,44.9,4.339,0.67,0.645,0.378,0.202,0.143,0.154,https://www.worldometers.info//img/flags/small/tn_ma-flag.gif
+Madagascar,2023,50.25456036,4.2355,53.48075,32.94171429,54.5255,68.123,44.8658,4.019,0.632,0.779,0.178,0.187,0.177,0.134,https://www.worldometers.info//img/flags/small/tn_ma-flag.gif
+Malawi,2016,52.8,1.9,57.7,41.3,51.1,63.6,51.2,4.156,0.08709,0.147,0.29364,0.4143,0.30968,0.07564,https://www.worldometers.info//img/flags/small/tn_mi-flag.gif
+Malawi,2017,53.2,1.8,60.9,43.3,51.0,64.4,51.5,3.970000029,0.233442038,0.512568831,0.315089583,0.466914654,0.28717047,0.072711654,https://www.worldometers.info//img/flags/small/tn_mi-flag.gif
+Malawi,2018,53.0,1.4,60.3,46.2,51.8,65.3,51.8,3.587,0.186,0.541,0.306,0.531,0.21,0.08,https://www.worldometers.info//img/flags/small/tn_mi-flag.gif
+Malawi,2019,55.4,0.9,61.5,49.4,50.8,70.5,52.2,3.41,0.191,0.56,0.495,0.443,0.218,0.089,https://www.worldometers.info//img/flags/small/tn_mi-flag.gif
+Malawi,2020,55.4,0.3,60.4,50.1,50.8,69.4,52.5,3.538000107,0.176534727,0.53036809,0.446163297,0.487389833,0.213185057,0.131633952,https://www.worldometers.info//img/flags/small/tn_mi-flag.gif
+Malawi,2021,55.9,0.1,61.5,50.0,52.8,69.9,52.5,3.6,0.113,0.168,0.298,0.484,0.213,0.134,https://www.worldometers.info//img/flags/small/tn_mi-flag.gif
+Malawi,2022,56.3,0.0,61.7,49.7,52.8,70.1,52.5,3.75,0.648,0.279,0.388,0.477,0.14,0.157,https://www.worldometers.info//img/flags/small/tn_mi-flag.gif
+Malawi,2023,56.29572536,0.0,61.67114286,49.6615,52.83133333,70.05675,52.4742,3.495,0.637,0.479,0.189,0.49,0.139,0.129,https://www.worldometers.info//img/flags/small/tn_mi-flag.gif
+Malaysia,2016,67.5,98.6,46.7,79.8,89.6,53.5,76.2,6.005,1.25142,0.88025,0.62366,0.39031,0.41474,0.09081,https://www.worldometers.info//img/flags/small/tn_my-flag.gif
+Malaysia,2017,68.5,98.7,48.0,80.3,90.6,54.1,76.2,6.084000111,1.29121542,1.284646034,0.618784428,0.402264982,0.41660893,0.065600708,https://www.worldometers.info//img/flags/small/tn_my-flag.gif
+Malaysia,2018,68.5,98.8,48.3,79.1,90.1,56.2,76.3,6.322,1.161,1.258,0.669,0.356,0.311,0.059,https://www.worldometers.info//img/flags/small/tn_my-flag.gif
+Malaysia,2019,69.2,98.9,49.2,79.4,89.2,56.8,76.3,5.339,1.221,1.171,0.828,0.508,0.26,0.024,https://www.worldometers.info//img/flags/small/tn_my-flag.gif
+Malaysia,2020,69.4,98.8,49.4,80.2,89.2,57.3,76.3,5.384300232,1.168421626,1.17400229,0.788511872,0.596941531,0.274886161,0.062163133,https://www.worldometers.info//img/flags/small/tn_my-flag.gif
+Malaysia,2021,70.0,98.8,49.5,80.1,88.0,57.7,76.3,5.384,1.259,0.797,0.587,0.624,0.27,0.064,https://www.worldometers.info//img/flags/small/tn_my-flag.gif
+Malaysia,2022,69.8,98.9,49.4,80.1,88.0,58.3,76.3,5.711,1.689,0.938,0.62,0.654,0.213,0.126,https://www.worldometers.info//img/flags/small/tn_my-flag.gif
+Malaysia,2023,69.8497457,98.879,49.419,80.09521429,88.01225,58.29675,76.2612,6.012,1.665,1.155,0.385,0.659,0.222,0.122,https://www.worldometers.info//img/flags/small/tn_my-flag.gif
+Mali,2016,55.8,38.0,61.6,35.0,14.5,51.1,58.1,4.073,0.31292,0.86333,0.16347,0.27544,0.21064,0.13647,https://www.worldometers.info//img/flags/small/tn_ml-flag.gif
+Mali,2017,56.9,40.0,60.8,36.9,18.7,50.3,59.0,4.190000057,0.476180494,1.281473398,0.169365674,0.306613743,0.183354199,0.104970247,https://www.worldometers.info//img/flags/small/tn_ml-flag.gif
+Mali,2018,56.5,41.6,62.4,39.1,12.4,52.3,59.9,4.447,0.37,1.233,0.152,0.367,0.139,0.056,https://www.worldometers.info//img/flags/small/tn_ml-flag.gif
+Mali,2019,56.5,42.5,61.9,41.4,12.4,52.7,60.8,4.39,0.385,1.105,0.308,0.327,0.153,0.052,https://www.worldometers.info//img/flags/small/tn_ml-flag.gif
+Mali,2020,56.7,41.6,62.1,39.5,10.6,58.9,61.7,4.729300022,0.352462649,0.97314173,0.234981522,0.377534449,0.16966705,0.062146276,https://www.worldometers.info//img/flags/small/tn_ml-flag.gif
+Mali,2021,57.0,41.8,60.2,40.5,10.6,59.6,61.7,4.723,0.387,0.59,0.11,0.384,0.164,0.072,https://www.worldometers.info//img/flags/small/tn_ml-flag.gif
+Mali,2022,58.0,44.4,59.3,40.7,10.6,60.1,61.7,4.479,0.792,0.483,0.311,0.35,0.128,0.042,https://www.worldometers.info//img/flags/small/tn_ml-flag.gif
+Mali,2023,57.98284701,44.395,59.288875,40.6655,10.60775,60.14125,61.7106,4.198,0.763,0.637,0.106,0.441,0.121,0.059,https://www.worldometers.info//img/flags/small/tn_ml-flag.gif
+Malta,2016,74.7,99.9,65.5,91.1,98.5,59.7,48.3,6.488,1.30782,1.09879,0.80315,0.54994,0.56237,0.17554,https://www.worldometers.info//img/flags/small/tn_mt-flag.gif
+Malta,2017,74.9,99.9,66.8,91.5,99.3,59.9,46.4,6.52699995,1.343279839,1.488411665,0.821944237,0.588767052,0.574730575,0.153066069,https://www.worldometers.info//img/flags/small/tn_mt-flag.gif
+Malta,2018,75.2,99.9,66.3,92.6,98.9,60.9,47.8,6.627,1.27,1.525,0.884,0.645,0.376,0.142,https://www.worldometers.info//img/flags/small/tn_mt-flag.gif
+Malta,2019,75.1,99.8,66.3,92.4,98.4,63.4,48.7,6.726,1.3,1.52,0.999,0.564,0.375,0.151,https://www.worldometers.info//img/flags/small/tn_mt-flag.gif
+Malta,2020,75.7,99.7,66.3,91.3,99.0,63.7,48.7,6.772799969,1.252513289,1.442956924,0.972042024,0.633239031,0.341180831,0.178864077,https://www.worldometers.info//img/flags/small/tn_mt-flag.gif
+Malta,2021,76.1,99.8,66.3,91.3,99.1,63.9,48.7,6.602,1.411,1.055,0.747,0.664,0.275,0.183,https://www.worldometers.info//img/flags/small/tn_mt-flag.gif
+Malta,2022,75.5,99.8,66.3,91.2,99.1,64.7,48.7,6.447,1.838,1.169,0.789,0.679,0.174,0.166,https://www.worldometers.info//img/flags/small/tn_mt-flag.gif
+Malta,2023,75.52944579,99.762,66.262375,91.15361538,99.11175,64.72425,48.7066,6.3,1.841,1.468,0.547,0.671,0.2,0.143,https://www.worldometers.info//img/flags/small/tn_mt-flag.gif
+Mauritania,2016,53.9,72.8,39.0,50.9,34.6,40.8,56.3,4.201,0.61391,0.84142,0.28639,0.1268,0.22686,0.17955,https://www.worldometers.info//img/flags/small/tn_mr-flag.gif
+Mauritania,2017,54.7,73.0,41.2,52.2,36.5,41.7,57.5,4.291999817,0.648457289,1.27203083,0.28534928,0.096098043,0.201870024,0.136957005,https://www.worldometers.info//img/flags/small/tn_mr-flag.gif
+Mauritania,2018,55.5,73.7,43.2,52.0,40.2,40.1,57.7,4.356,0.557,1.245,0.292,0.129,0.134,0.093,https://www.worldometers.info//img/flags/small/tn_mr-flag.gif
+Mauritania,2019,56.2,74.0,43.2,52.1,39.4,38.5,58.0,4.49,0.57,1.167,0.489,0.066,0.106,0.088,https://www.worldometers.info//img/flags/small/tn_mr-flag.gif
+Mauritania,2020,56.6,74.3,47.1,51.5,39.4,38.5,58.2,4.374599934,0.539684892,1.113323569,0.425184816,0.185714483,0.128899664,0.122257635,https://www.worldometers.info//img/flags/small/tn_mr-flag.gif
+Mauritania,2021,57.2,74.6,45.5,51.0,47.0,38.6,58.2,4.227,0.666,0.749,0.273,0.218,0.119,0.133,https://www.worldometers.info//img/flags/small/tn_mr-flag.gif
+Mauritania,2022,57.2,77.0,42.6,51.8,47.0,38.7,58.2,4.153,1.1,0.865,0.45,0.304,0.088,0.138,https://www.worldometers.info//img/flags/small/tn_mr-flag.gif
+Mauritania,2023,57.23236891,76.975,42.60285714,51.83964286,47.028,38.6505,58.1606,4.724,1.099,0.764,0.244,0.32,0.13,0.195,https://www.worldometers.info//img/flags/small/tn_mr-flag.gif
+Mauritius,2016,66.7,97.7,64.0,76.8,92.5,46.3,70.8,5.648,1.14372,0.75695,0.66189,0.46145,0.36951,0.05203,https://www.worldometers.info//img/flags/small/tn_mp-flag.gif
+Mauritius,2017,67.8,97.9,68.8,77.9,90.1,46.6,70.9,5.629000187,1.189395547,1.20956099,0.638007462,0.491247326,0.360933751,0.042181555,https://www.worldometers.info//img/flags/small/tn_mp-flag.gif
+Mauritius,2018,68.0,98.0,67.9,78.3,90.9,47.2,71.1,5.891,1.09,1.387,0.684,0.584,0.245,0.05,https://www.worldometers.info//img/flags/small/tn_mp-flag.gif
+Mauritius,2019,68.6,98.1,71.4,78.8,91.7,52.1,71.1,5.888,1.12,1.402,0.798,0.498,0.215,0.06,https://www.worldometers.info//img/flags/small/tn_mp-flag.gif
+Mauritius,2020,68.9,97.4,71.5,77.2,95.4,52.0,71.1,6.101299763,1.07366395,1.395666838,0.763389409,0.590838134,0.186894551,0.084088229,https://www.worldometers.info//img/flags/small/tn_mp-flag.gif
+Mauritius,2021,68.8,97.6,71.5,75.6,96.0,52.2,71.1,6.049,1.178,0.996,0.574,0.59,0.153,0.096,https://www.worldometers.info//img/flags/small/tn_mp-flag.gif
+Mauritius,2022,68.0,98.0,71.5,75.2,83.5,52.3,71.1,6.071,1.591,1.116,0.568,0.589,0.131,0.107,https://www.worldometers.info//img/flags/small/tn_mp-flag.gif
+Mauritius,2023,67.9773422,98.0325,71.52333333,75.22978571,83.504,52.29075,71.0915,5.902,1.589,1.382,0.336,0.574,0.121,0.11,https://www.worldometers.info//img/flags/small/tn_mp-flag.gif
+Mexico,2016,67.4,86.5,60.4,81.2,97.7,74.1,72.7,6.778,1.11508,0.7146,0.71143,0.37709,0.11735,0.18355,https://www.worldometers.info//img/flags/small/tn_mx-flag.gif
+Mexico,2017,68.0,87.7,60.6,78.5,98.0,74.1,72.9,6.578000069,1.153183818,1.21086216,0.709978998,0.412730008,0.120990433,0.132774115,https://www.worldometers.info//img/flags/small/tn_mx-flag.gif
+Mexico,2018,69.1,88.6,60.8,79.7,96.4,78.4,70.6,6.488,1.038,1.252,0.761,0.479,0.069,0.095,https://www.worldometers.info//img/flags/small/tn_mx-flag.gif
+Mexico,2019,69.1,87.4,61.5,78.0,96.1,79.2,70.7,6.595,1.07,1.323,0.861,0.433,0.074,0.073,https://www.worldometers.info//img/flags/small/tn_mx-flag.gif
+Mexico,2020,69.1,84.7,61.0,77.2,96.0,79.1,71.0,6.465000153,1.024387479,1.226333499,0.831601024,0.553892553,0.083094485,0.083133668,https://www.worldometers.info//img/flags/small/tn_mx-flag.gif
+Mexico,2021,69.4,85.9,61.1,78.0,96.0,80.2,71.0,6.317,1.126,0.83,0.634,0.585,0.092,0.089,https://www.worldometers.info//img/flags/small/tn_mx-flag.gif
+Mexico,2022,69.7,86.3,61.1,79.7,96.0,80.6,71.0,6.128,1.552,0.886,0.623,0.621,0.092,0.115,https://www.worldometers.info//img/flags/small/tn_mx-flag.gif
+Mexico,2023,69.70547768,86.266,61.12975,79.70114286,95.9905,80.59675,70.961,6.33,1.55,1.169,0.389,0.632,0.086,0.115,https://www.worldometers.info//img/flags/small/tn_mx-flag.gif
+Moldova,2016,76.3,98.4,58.6,74.2,98.7,68.7,69.4,5.897,0.69177,0.83132,0.52309,0.25202,0.19997,0.01903,
+Moldova,2017,76.9,98.5,59.8,75.0,99.1,68.9,69.6,5.837999821,0.72887063,1.251825571,0.589465201,0.240729049,0.208779126,0.010091286,
+Moldova,2018,77.1,98.6,59.6,76.6,99.3,68.5,69.9,5.64,0.657,1.301,0.62,0.232,0.171,0.0,
+Moldova,2019,77.5,98.6,60.1,77.7,98.6,69.6,70.1,5.529,0.685,1.328,0.739,0.245,0.181,0.0,
+Moldova,2020,77.7,98.5,55.4,76.9,99.4,68.5,70.4,5.607500076,0.707916796,1.237312198,0.713299453,0.389571488,0.174049184,0.014378744,
+Moldova,2021,79.1,98.7,63.0,77.1,99.6,75.5,70.4,5.766,0.985,0.888,0.542,0.536,0.137,0.013,
+Moldova,2022,78.6,98.7,63.0,76.6,99.6,76.8,70.4,5.857,1.417,1.008,0.597,0.561,0.102,0.028,
+Moldova,2023,78.63437562,98.6685,63.0395,76.634,99.62675,76.76,70.3924,5.819,1.425,1.302,0.375,0.61,0.093,0.02,
+Mongolia,2016,64.3,93.2,46.2,63.3,95.1,66.7,62.6,4.907,0.98853,1.08983,0.55469,0.35972,0.34539,0.03285,https://www.worldometers.info//img/flags/small/tn_mg-flag.gif
+Mongolia,2017,64.0,93.1,45.8,62.9,96.9,67.0,63.1,4.954999924,1.027235866,1.493011236,0.557783484,0.394143969,0.33846423,0.032902289,https://www.worldometers.info//img/flags/small/tn_mg-flag.gif
+Mongolia,2018,65.0,94.1,47.6,63.2,96.7,64.8,63.7,5.125,0.914,1.517,0.575,0.395,0.253,0.032,https://www.worldometers.info//img/flags/small/tn_mg-flag.gif
+Mongolia,2019,65.5,94.8,48.1,63.6,95.9,65.6,64.3,5.285,0.948,1.531,0.667,0.317,0.235,0.038,https://www.worldometers.info//img/flags/small/tn_mg-flag.gif
+Mongolia,2020,64.9,94.9,48.3,64.3,94.9,65.2,64.9,5.456200123,0.904872775,1.458930612,0.615788162,0.355703115,0.263885736,0.046533126,https://www.worldometers.info//img/flags/small/tn_mg-flag.gif
+Mongolia,2021,64.9,93.8,48.8,63.8,94.6,64.7,64.9,5.677,0.966,1.065,0.442,0.397,0.263,0.053,https://www.worldometers.info//img/flags/small/tn_mg-flag.gif
+Mongolia,2022,64.7,94.6,48.9,64.0,94.6,65.0,64.9,5.761,1.393,1.197,0.467,0.398,0.247,0.059,https://www.worldometers.info//img/flags/small/tn_mg-flag.gif
+Mongolia,2023,64.69436642,94.609,48.91385714,63.99035714,94.58625,65.03675,64.8576,5.84,1.379,1.494,0.244,0.425,0.239,0.058,https://www.worldometers.info//img/flags/small/tn_mg-flag.gif
+Montenegro,2016,68.2,98.7,51.2,74.3,81.4,58.3,63.9,5.161,1.07838,0.74173,0.63533,0.15111,0.17191,0.12721,https://www.worldometers.info//img/flags/small/tn_mj-flag.gif
+Montenegro,2017,69.6,98.8,51.1,76.4,85.9,58.3,64.3,5.236999989,1.121129036,1.238376498,0.667464674,0.194989055,0.197911024,0.088174194,https://www.worldometers.info//img/flags/small/tn_mj-flag.gif
+Montenegro,2018,69.8,98.8,51.7,75.4,87.4,55.1,64.8,5.347,1.017,1.279,0.729,0.259,0.111,0.081,https://www.worldometers.info//img/flags/small/tn_mj-flag.gif
+Montenegro,2019,70.8,98.9,51.4,75.2,87.6,58.4,65.0,5.523,1.051,1.361,0.871,0.197,0.142,0.08,https://www.worldometers.info//img/flags/small/tn_mj-flag.gif
+Montenegro,2020,70.7,98.8,51.6,75.8,90.2,55.3,65.2,5.54610014,1.010150075,1.265657902,0.839028895,0.303223848,0.14901033,0.098435111,https://www.worldometers.info//img/flags/small/tn_mj-flag.gif
+Montenegro,2021,71.2,98.8,51.7,75.8,88.2,56.7,65.2,5.581,1.155,0.891,0.637,0.397,0.166,0.081,https://www.worldometers.info//img/flags/small/tn_mj-flag.gif
+Montenegro,2022,71.4,98.9,51.8,75.7,88.2,56.9,65.2,5.547,1.573,1.023,0.659,0.46,0.135,0.077,https://www.worldometers.info//img/flags/small/tn_mj-flag.gif
+Montenegro,2023,71.40438382,98.945,51.76114286,75.6685,88.159,56.857,65.20933333,5.722,1.537,1.385,0.424,0.563,0.17,0.061,https://www.worldometers.info//img/flags/small/tn_mj-flag.gif
+Morocco,2016,67.3,92.8,59.7,70.5,63.3,42.9,60.9,5.151,0.84058,0.38595,0.59471,0.25646,0.04053,0.08404,https://www.worldometers.info//img/flags/small/tn_mo-flag.gif
+Morocco,2017,68.3,93.3,63.3,71.6,66.4,43.5,61.5,5.235000134,0.878114581,0.774864435,0.597710669,0.408158332,0.032209955,0.087763183,https://www.worldometers.info//img/flags/small/tn_mo-flag.gif
+Morocco,2018,69.4,93.5,64.6,72.5,68.9,43.1,62.2,5.254,0.779,0.797,0.669,0.46,0.026,0.074,https://www.worldometers.info//img/flags/small/tn_mo-flag.gif
+Morocco,2019,70.0,93.7,63.2,73.6,74.5,43.6,62.8,5.208,0.801,0.782,0.782,0.418,0.036,0.076,https://www.worldometers.info//img/flags/small/tn_mo-flag.gif
+Morocco,2020,70.5,92.4,61.6,73.3,78.5,43.6,63.5,5.094799995,0.75862211,0.645208478,0.745096922,0.450054139,0.040032551,0.077385604,https://www.worldometers.info//img/flags/small/tn_mo-flag.gif
+Morocco,2021,70.9,89.7,64.6,74.2,78.6,43.4,63.5,4.918,0.792,0.219,0.558,0.477,0.034,0.088,https://www.worldometers.info//img/flags/small/tn_mo-flag.gif
+Morocco,2022,70.9,90.4,64.7,73.1,78.6,43.8,63.5,5.06,1.208,0.268,0.565,0.492,0.02,0.102,https://www.worldometers.info//img/flags/small/tn_mo-flag.gif
+Morocco,2023,70.86945567,90.3785,64.697375,73.08585714,78.56875,43.7715,63.4674,4.903,1.236,0.535,0.337,0.54,0.013,0.085,https://www.worldometers.info//img/flags/small/tn_mo-flag.gif
+Myanmar,2016,59.2,67.4,66.2,52.6,52.1,57.6,65.3,4.395,0.34112,0.69981,0.3988,0.42692,0.81971,0.20243,https://www.worldometers.info//img/flags/small/tn_bm-flag.gif
+Myanmar,2017,62.1,74.2,65.7,52.0,54.9,56.9,66.1,4.545000076,0.36711055,1.123235941,0.397522569,0.514492035,0.838075161,0.188816205,https://www.worldometers.info//img/flags/small/tn_bm-flag.gif
+Myanmar,2018,62.1,77.2,65.5,54.3,56.3,56.7,66.9,4.308,0.682,1.174,0.429,0.58,0.598,0.178,https://www.worldometers.info//img/flags/small/tn_bm-flag.gif
+Myanmar,2019,62.6,76.9,65.6,54.9,61.1,56.3,67.7,4.36,0.71,1.181,0.555,0.525,0.566,0.172,https://www.worldometers.info//img/flags/small/tn_bm-flag.gif
+Myanmar,2020,63.1,77.8,65.6,55.5,61.1,58.2,68.5,4.308000088,0.67809093,1.098178267,0.495443076,0.597478867,0.569813728,0.187530354,https://www.worldometers.info//img/flags/small/tn_bm-flag.gif
+Myanmar,2021,60.4,53.9,65.7,49.7,61.1,57.5,68.5,4.426,0.666,0.713,0.341,0.601,0.52,0.178,https://www.worldometers.info//img/flags/small/tn_bm-flag.gif
+Myanmar,2022,60.4,58.0,65.9,49.8,61.1,57.5,68.5,4.394,1.038,0.829,0.491,0.513,0.452,0.194,https://www.worldometers.info//img/flags/small/tn_bm-flag.gif
+Myanmar,2023,60.44313051,57.98,65.89975,49.82842857,61.1155,57.457,68.4666,4.372,1.032,1.125,0.269,0.46,0.4,0.194,https://www.worldometers.info//img/flags/small/tn_bm-flag.gif
+Namibia,2016,63.3,66.8,48.5,42.6,76.2,84.6,55.3,4.574,0.93287,0.70362,0.34745,0.48614,0.07795,0.10398,https://www.worldometers.info//img/flags/small/tn_wa-flag.gif
+Namibia,2017,63.6,63.4,48.4,43.1,77.2,85.3,55.5,4.573999882,0.964434326,1.098470807,0.338611811,0.520303547,0.077133745,0.093146972,https://www.worldometers.info//img/flags/small/tn_wa-flag.gif
+Namibia,2018,64.0,62.5,48.7,45.4,80.5,88.4,55.7,4.441,0.874,1.281,0.365,0.519,0.051,0.064,https://www.worldometers.info//img/flags/small/tn_wa-flag.gif
+Namibia,2019,63.5,61.7,49.7,46.5,71.8,86.6,55.9,4.639,0.879,1.313,0.477,0.401,0.07,0.056,https://www.worldometers.info//img/flags/small/tn_wa-flag.gif
+Namibia,2020,63.6,55.4,49.5,49.1,83.2,86.8,56.0,4.571100235,0.84008199,1.245738149,0.40687117,0.444598973,0.076454483,0.054320343,https://www.worldometers.info//img/flags/small/tn_wa-flag.gif
+Namibia,2021,64.3,59.9,49.8,49.2,83.7,87.5,56.0,4.574,0.882,0.801,0.262,0.411,0.091,0.059,https://www.worldometers.info//img/flags/small/tn_wa-flag.gif
+Namibia,2022,64.3,61.1,49.9,49.9,83.7,87.6,56.0,4.459,1.292,0.877,0.354,0.384,0.067,0.071,https://www.worldometers.info//img/flags/small/tn_wa-flag.gif
+Namibia,2023,64.28167339,61.097,49.93525,49.89435714,83.695,87.63425,56.0122,4.631,1.289,1.126,0.145,0.383,0.069,0.071,https://www.worldometers.info//img/flags/small/tn_wa-flag.gif
+Nepal,2016,63.4,70.2,63.2,51.1,84.3,43.3,67.0,4.793,0.44626,0.69699,0.50073,0.37012,0.3816,0.07008,https://www.worldometers.info//img/flags/small/tn_np-flag.gif
+Nepal,2017,64.3,69.9,65.3,53.3,85.1,44.6,67.9,4.961999893,0.479820192,1.179283261,0.504130781,0.440305948,0.394096166,0.072975546,https://www.worldometers.info//img/flags/small/tn_np-flag.gif
+Nepal,2018,65.3,72.4,65.3,54.7,88.6,47.5,68.9,4.88,0.425,1.228,0.539,0.526,0.302,0.078,https://www.worldometers.info//img/flags/small/tn_np-flag.gif
+Nepal,2019,66.2,75.6,63.8,59.1,91.1,50.3,69.8,4.913,0.446,1.226,0.677,0.439,0.285,0.089,https://www.worldometers.info//img/flags/small/tn_np-flag.gif
+Nepal,2020,66.3,76.8,64.1,59.5,91.8,50.3,70.8,5.137199879,0.444050372,1.100789309,0.66887939,0.480608255,0.300971806,0.127502963,https://www.worldometers.info//img/flags/small/tn_np-flag.gif
+Nepal,2021,66.5,78.2,64.5,58.0,86.9,50.6,70.8,5.269,0.519,0.702,0.496,0.488,0.287,0.135,https://www.worldometers.info//img/flags/small/tn_np-flag.gif
+Nepal,2022,66.5,81.4,68.6,59.6,83.9,50.7,70.8,5.377,0.984,0.784,0.499,0.519,0.237,0.13,https://www.worldometers.info//img/flags/small/tn_np-flag.gif
+Nepal,2023,66.46962887,81.3985,68.574,59.62076923,83.90075,50.687,70.8014,5.36,0.979,1.027,0.281,0.567,0.215,0.104,https://www.worldometers.info//img/flags/small/tn_np-flag.gif
+Netherlands,2016,78.7,99.3,67.6,95.4,97.8,82.9,87.6,7.339,1.46468,1.02912,0.81231,0.55211,0.47416,0.29927,
+Netherlands,2017,78.7,99.2,68.0,95.5,99.1,82.6,87.6,7.376999855,1.503944635,1.428939223,0.810696125,0.585384488,0.47048983,0.282661825,
+Netherlands,2018,78.8,99.3,67.7,95.5,99.2,82.8,87.3,7.441,1.361,1.488,0.878,0.638,0.333,0.295,
+Netherlands,2019,78.7,99.2,67.7,95.8,98.3,80.7,87.2,7.488,1.396,1.522,0.999,0.557,0.322,0.298,
+Netherlands,2020,79.3,99.2,67.7,96.0,99.3,82.0,87.2,7.448900223,1.338946342,1.463645935,0.975675344,0.61362648,0.336317569,0.368569762,
+Netherlands,2021,79.4,99.2,67.7,95.5,99.3,85.2,87.2,7.464,1.501,1.079,0.753,0.647,0.302,0.384,
+Netherlands,2022,79.4,99.3,67.7,95.7,99.3,85.1,87.2,7.415,1.945,1.206,0.787,0.651,0.271,0.419,
+Netherlands,2023,79.42118915,99.265,67.65225,95.67085714,99.293,85.1,87.1896,7.403,1.942,1.488,0.545,0.672,0.251,0.394,
+Nicaragua,2016,63.8,70.5,53.5,74.4,78.0,81.6,66.2,5.992,0.69384,0.89521,0.65213,0.46582,0.29773,0.16292,https://www.worldometers.info//img/flags/small/tn_nu-flag.gif
+Nicaragua,2017,64.9,71.1,54.1,75.7,78.0,81.8,66.2,6.071000099,0.737299204,1.28721571,0.653095961,0.447551847,0.301674217,0.130687982,https://www.worldometers.info//img/flags/small/tn_nu-flag.gif
+Nicaragua,2018,63.7,68.5,54.8,74.9,78.0,81.6,66.3,6.141,0.668,1.319,0.7,0.527,0.208,0.128,https://www.worldometers.info//img/flags/small/tn_nu-flag.gif
+Nicaragua,2019,64.4,67.3,54.8,75.9,78.0,80.8,66.3,6.105,0.694,1.325,0.835,0.435,0.2,0.127,https://www.worldometers.info//img/flags/small/tn_nu-flag.gif
+Nicaragua,2020,64.4,66.5,54.4,75.6,78.0,82.0,66.3,6.13710022,0.620033145,1.27081275,0.803093255,0.560117304,0.212871477,0.174084574,https://www.worldometers.info//img/flags/small/tn_nu-flag.gif
+Nicaragua,2021,64.8,69.6,54.8,74.3,78.0,83.7,66.3,5.972,0.693,0.904,0.604,0.553,0.201,0.176,https://www.worldometers.info//img/flags/small/tn_nu-flag.gif
+Nicaragua,2022,64.8,71.7,54.8,74.8,78.0,83.9,66.3,6.165,1.105,1.029,0.617,0.617,0.168,0.212,https://www.worldometers.info//img/flags/small/tn_nu-flag.gif
+Nicaragua,2023,64.79990658,71.735,54.83875,74.8295,77.983,83.88075,66.3406,6.259,1.109,1.292,0.385,0.66,0.148,0.218,https://www.worldometers.info//img/flags/small/tn_nu-flag.gif
+Niger,2016,44.8,9.2,46.7,34.8,5.3,35.5,42.6,3.856,0.1327,0.6053,0.26162,0.38041,0.2097,0.17176,
+Niger,2017,46.9,11.0,46.7,36.7,6.9,39.5,42.8,4.027999878,0.161925331,0.993025005,0.268505007,0.363658696,0.228673846,0.138572946,
+Niger,2018,46.2,11.9,43.2,37.2,3.5,40.3,42.9,4.166,0.131,0.867,0.221,0.39,0.175,0.099,
+Niger,2019,46.9,11.9,46.8,37.9,2.8,41.0,43.1,4.628,0.138,0.774,0.366,0.318,0.188,0.102,
+Niger,2020,46.8,12.2,44.9,37.7,2.8,38.9,43.3,4.909599781,0.108330332,0.703800142,0.298816353,0.435311615,0.208176896,0.137554765,
+Niger,2021,47.1,10.1,44.8,38.4,3.0,43.5,43.3,5.074,0.162,0.402,0.167,0.516,0.2,0.157,
+Niger,2022,48.3,12.8,45.3,37.6,3.0,43.7,43.3,5.003,0.57,0.56,0.326,0.571,0.165,0.145,
+Niger,2023,48.30976092,12.8375,45.26114286,37.60585714,3.028,43.66275,43.3068,4.501,0.561,0.628,0.137,0.54,0.154,0.14,
+Nigeria,2016,52.3,39.7,58.8,31.2,41.3,40.8,56.6,4.875,0.75216,0.64498,0.05108,0.27854,0.23219,0.0305,https://www.worldometers.info//img/flags/small/tn_ni-flag.gif
+Nigeria,2017,52.8,39.6,58.0,33.7,41.3,40.8,57.3,5.073999882,0.783756256,1.215770483,0.05691573,0.394952565,0.230947196,0.026121566,https://www.worldometers.info//img/flags/small/tn_ni-flag.gif
+Nigeria,2018,53.2,42.3,61.3,34.2,38.8,40.1,58.1,5.155,0.689,1.172,0.048,0.462,0.201,0.032,https://www.worldometers.info//img/flags/small/tn_ni-flag.gif
+Nigeria,2019,53.2,40.6,60.8,33.8,38.8,39.1,58.9,5.265,0.696,1.111,0.245,0.426,0.215,0.041,https://www.worldometers.info//img/flags/small/tn_ni-flag.gif
+Nigeria,2020,53.3,38.9,60.9,36.1,38.8,41.0,59.7,4.724100113,0.645901859,0.986717939,0.167835936,0.435079455,0.221328124,0.047589935,https://www.worldometers.info//img/flags/small/tn_ni-flag.gif
+Nigeria,2021,54.1,49.2,61.0,34.9,38.8,39.1,59.7,4.759,0.663,0.625,0.051,0.433,0.212,0.039,https://www.worldometers.info//img/flags/small/tn_ni-flag.gif
+Nigeria,2022,54.3,49.9,61.1,36.2,38.8,39.2,59.7,4.552,1.079,0.732,0.3,0.444,0.175,0.038,https://www.worldometers.info//img/flags/small/tn_ni-flag.gif
+Nigeria,2023,54.27087045,49.9235,61.065875,36.196,38.75066667,39.22425,59.7088,4.981,1.065,1.007,0.092,0.448,0.176,0.013,https://www.worldometers.info//img/flags/small/tn_ni-flag.gif
+North Macedonia,2016,71.1,94.4,64.9,76.0,71.5,50.8,71.2,5.121,1.0193,0.78236,0.64738,0.27668,0.23507,0.07047,
+North Macedonia,2017,71.6,94.7,60.7,76.7,73.6,53.3,71.4,5.175000191,1.064577937,1.207893014,0.644948184,0.325905979,0.253760964,0.060277794,
+North Macedonia,2018,73.0,95.1,64.5,76.4,75.0,56.3,71.6,5.185,0.959,1.239,0.691,0.394,0.173,0.052,
+North Macedonia,2019,73.0,95.6,62.6,76.9,72.8,58.2,71.7,5.274,0.983,1.294,0.838,0.345,0.185,0.034,
+North Macedonia,2020,72.5,95.1,62.8,75.7,66.6,58.0,71.8,5.159800053,0.935371995,1.183173537,0.802994132,0.410224587,0.18586354,0.024595059,
+North Macedonia,2021,73.1,95.6,62.6,77.4,66.6,58.8,71.8,5.101,1.068,0.772,0.535,0.45,0.212,0.022,
+North Macedonia,2022,72.5,96.2,62.6,76.9,66.6,59.0,71.8,5.199,1.505,0.863,0.637,0.488,0.215,0.031,
+North Macedonia,2023,72.46901727,96.165,62.59042857,76.88569231,66.5815,59.03825,71.8312,5.254,1.498,1.171,0.408,0.515,0.207,0.02,
+Norway,2016,81.1,98.8,63.7,96.9,98.8,87.8,83.7,7.498,1.57744,1.1269,0.79579,0.59609,0.37895,0.35776,https://www.worldometers.info//img/flags/small/tn_no-flag.gif
+Norway,2017,81.7,99.1,63.5,97.1,97.4,88.9,83.7,7.537000179,1.616463184,1.53352356,0.796666503,0.635422587,0.362012237,0.315963835,https://www.worldometers.info//img/flags/small/tn_no-flag.gif
+Norway,2018,81.5,99.2,58.0,96.8,97.5,88.8,83.7,7.594,1.456,1.582,0.861,0.686,0.286,0.34,https://www.worldometers.info//img/flags/small/tn_no-flag.gif
+Norway,2019,81.9,99.2,61.8,97.3,97.6,88.6,83.7,7.554,1.488,1.582,1.028,0.603,0.271,0.341,https://www.worldometers.info//img/flags/small/tn_no-flag.gif
+Norway,2020,82.2,99.2,61.7,97.1,98.0,88.9,83.7,7.487999916,1.42420733,1.495172501,1.008071899,0.670200884,0.287985086,0.434100568,https://www.worldometers.info//img/flags/small/tn_no-flag.gif
+Norway,2021,82.1,99.2,60.8,97.3,98.0,90.9,83.7,7.392,1.543,1.108,0.782,0.703,0.249,0.427,https://www.worldometers.info//img/flags/small/tn_no-flag.gif
+Norway,2022,82.0,99.2,60.8,97.1,98.0,92.9,83.7,7.365,1.997,1.239,0.786,0.728,0.217,0.474,https://www.worldometers.info//img/flags/small/tn_no-flag.gif
+Norway,2023,82.00448915,99.2225,60.794875,97.11514286,97.98733333,92.87925,83.6618,7.315,1.994,1.521,0.544,0.752,0.212,0.463,https://www.worldometers.info//img/flags/small/tn_no-flag.gif
+Pakistan,2016,56.2,73.9,39.5,42.6,58.6,28.3,47.6,5.132,0.68816,0.26135,0.40306,0.14622,0.31185,0.1388,https://www.worldometers.info//img/flags/small/tn_pk-flag.gif
+Pakistan,2017,57.2,73.8,40.5,43.3,59.7,29.8,48.1,5.269000053,0.726883531,0.67269069,0.402047783,0.235215262,0.315446019,0.124348067,https://www.worldometers.info//img/flags/small/tn_pk-flag.gif
+Pakistan,2018,58.1,73.9,42.6,44.7,58.8,32.4,48.5,5.472,0.652,0.81,0.424,0.334,0.216,0.113,https://www.worldometers.info//img/flags/small/tn_pk-flag.gif
+Pakistan,2019,58.4,75.8,42.9,44.3,59.7,37.0,49.0,5.653,0.677,0.886,0.535,0.313,0.22,0.098,https://www.worldometers.info//img/flags/small/tn_pk-flag.gif
+Pakistan,2020,58.6,73.2,42.6,44.1,59.7,36.9,49.4,5.69329977,0.616799474,0.872979581,0.469933242,0.405421734,0.228705063,0.122592121,https://www.worldometers.info//img/flags/small/tn_pk-flag.gif
+Pakistan,2021,59.1,77.1,43.4,44.5,59.7,37.2,49.4,4.934,0.637,0.423,0.322,0.418,0.252,0.097,https://www.worldometers.info//img/flags/small/tn_pk-flag.gif
+Pakistan,2022,59.0,79.1,43.6,45.2,59.7,37.2,49.4,4.516,1.049,0.413,0.374,0.448,0.181,0.112,https://www.worldometers.info//img/flags/small/tn_pk-flag.gif
+Pakistan,2023,58.96764175,79.143,43.61571429,45.17753846,59.71366667,37.244,49.4294,4.555,1.081,0.657,0.158,0.511,0.141,0.102,https://www.worldometers.info//img/flags/small/tn_pk-flag.gif
+Panama,2016,65.5,92.7,47.8,78.6,75.2,62.0,69.8,6.701,1.18306,0.98912,0.70835,0.48927,0.2418,0.08423,https://www.worldometers.info//img/flags/small/tn_pm-flag.gif
+Panama,2017,65.9,92.9,48.2,79.6,75.3,62.3,70.2,6.452000141,1.233748436,1.373192549,0.706156135,0.550026834,0.210556939,0.070983924,https://www.worldometers.info//img/flags/small/tn_pm-flag.gif
+Panama,2018,66.3,93.9,49.1,80.1,76.0,62.7,70.5,6.43,1.112,1.438,0.759,0.597,0.125,0.063,https://www.worldometers.info//img/flags/small/tn_pm-flag.gif
+Panama,2019,66.9,95.1,49.6,80.8,76.9,65.0,70.9,6.321,1.149,1.442,0.91,0.516,0.109,0.054,https://www.worldometers.info//img/flags/small/tn_pm-flag.gif
+Panama,2020,66.9,93.2,49.8,79.2,75.2,65.6,71.2,6.304800034,1.097667813,1.376149297,0.878546536,0.57984978,0.097207308,0.054230526,https://www.worldometers.info//img/flags/small/tn_pm-flag.gif
+Panama,2021,67.3,93.8,50.2,80.0,80.7,65.9,71.2,6.18,1.298,0.976,0.667,0.596,0.079,0.053,https://www.worldometers.info//img/flags/small/tn_pm-flag.gif
+Panama,2022,67.3,94.7,50.3,78.9,80.7,66.4,71.2,6.309,1.715,1.107,0.709,0.592,0.049,0.051,https://www.worldometers.info//img/flags/small/tn_pm-flag.gif
+Panama,2023,67.32492941,94.6965,50.27325,78.94830769,80.69925,66.391,71.2212,6.265,1.714,1.402,0.475,0.63,0.065,0.036,https://www.worldometers.info//img/flags/small/tn_pm-flag.gif
+Paraguay,2016,66.5,90.8,74.6,72.4,72.9,65.4,75.1,5.538,0.89373,1.11111,0.58295,0.46235,0.25296,0.07396,https://www.worldometers.info//img/flags/small/tn_pa-flag.gif
+Paraguay,2017,67.0,93.0,74.7,73.7,72.9,64.8,75.8,5.493000031,0.932537317,1.50728488,0.579250693,0.473507792,0.224150658,0.091065913,https://www.worldometers.info//img/flags/small/tn_pa-flag.gif
+Paraguay,2018,67.5,93.0,74.4,73.1,72.8,66.3,76.1,5.681,0.835,1.522,0.615,0.541,0.162,0.074,https://www.worldometers.info//img/flags/small/tn_pa-flag.gif
+Paraguay,2019,68.0,93.6,75.1,73.4,72.8,66.5,76.3,5.743,0.855,1.475,0.777,0.514,0.184,0.08,https://www.worldometers.info//img/flags/small/tn_pa-flag.gif
+Paraguay,2020,68.7,94.3,75.3,72.3,76.0,66.3,76.5,5.692100048,0.897990823,1.36819756,0.735869646,0.586510062,0.204299241,0.065077379,https://www.worldometers.info//img/flags/small/tn_pa-flag.gif
+Paraguay,2021,68.9,94.8,73.7,71.2,75.3,67.1,76.5,5.653,0.983,0.97,0.549,0.602,0.206,0.037,https://www.worldometers.info//img/flags/small/tn_pa-flag.gif
+Paraguay,2022,68.8,95.1,73.8,72.0,75.3,67.2,76.5,5.578,1.409,1.13,0.624,0.629,0.171,0.059,https://www.worldometers.info//img/flags/small/tn_pa-flag.gif
+Paraguay,2023,68.84061334,95.0725,73.7825,71.99121429,75.29575,67.16725,76.5172,5.738,1.428,1.427,0.392,0.678,0.148,0.062,https://www.worldometers.info//img/flags/small/tn_pa-flag.gif
+Peru,2016,69.9,83.8,69.4,80.6,96.2,67.8,76.6,5.743,0.99602,0.81255,0.62994,0.37502,0.14527,0.05292,https://www.worldometers.info//img/flags/small/tn_pe-flag.gif
+Peru,2017,70.4,84.2,68.8,80.8,96.8,68.1,77.0,5.715000153,1.035225272,1.218770385,0.630166113,0.450002879,0.126819715,0.047049087,https://www.worldometers.info//img/flags/small/tn_pe-flag.gif
+Peru,2018,71.2,84.9,70.7,81.0,97.9,68.2,77.3,5.663,0.934,1.249,0.674,0.53,0.092,0.034,https://www.worldometers.info//img/flags/small/tn_pe-flag.gif
+Peru,2019,71.8,85.5,70.5,81.7,98.4,69.8,77.6,5.697,0.96,1.274,0.854,0.455,0.083,0.027,https://www.worldometers.info//img/flags/small/tn_pe-flag.gif
+Peru,2020,70.4,82.1,70.9,78.7,98.7,65.3,78.0,5.796800137,0.91854918,1.208405972,0.824444175,0.513210058,0.091611817,0.02703266,https://www.worldometers.info//img/flags/small/tn_pe-flag.gif
+Peru,2021,71.9,85.1,71.3,80.5,98.8,74.1,78.0,5.84,0.986,0.833,0.623,0.536,0.087,0.031,https://www.worldometers.info//img/flags/small/tn_pe-flag.gif
+Peru,2022,71.7,86.0,71.4,80.8,98.8,74.9,78.0,5.559,1.397,0.865,0.735,0.545,0.09,0.037,https://www.worldometers.info//img/flags/small/tn_pe-flag.gif
+Peru,2023,71.65907643,86.018,71.42375,80.8245,98.7865,74.927,77.9804,5.526,1.39,1.153,0.499,0.549,0.073,0.027,https://www.worldometers.info//img/flags/small/tn_pe-flag.gif
+Philippines,2016,64.1,74.3,66.0,57.2,85.3,63.4,68.5,5.279,0.81217,0.87877,0.47036,0.54854,0.21674,0.11757,
+Philippines,2017,64.8,76.1,67.0,59.4,84.6,63.8,68.6,5.429999828,0.857699215,1.253917575,0.468009055,0.585214674,0.193513423,0.099331893,
+Philippines,2018,66.7,77.8,67.9,59.8,85.7,64.2,69.0,5.524,0.775,1.312,0.513,0.643,0.12,0.105,
+Philippines,2019,67.2,79.7,68.2,60.3,87.2,64.0,69.9,5.631,0.807,1.293,0.657,0.558,0.117,0.107,
+Philippines,2020,66.4,75.5,68.5,58.7,79.6,63.8,70.4,6.006000042,0.775120676,1.245381713,0.602189481,0.621915162,0.129260212,0.130385727,
+Philippines,2021,67.1,76.7,68.8,58.2,78.5,63.9,70.4,5.88,0.853,0.828,0.426,0.651,0.125,0.126,
+Philippines,2022,67.1,80.5,68.8,58.2,78.5,64.3,70.4,5.904,1.268,0.912,0.514,0.678,0.107,0.142,
+Philippines,2023,67.14368186,80.5085,68.838625,58.24071429,78.49475,64.25425,70.373,5.523,1.238,1.108,0.286,0.714,0.104,0.141,
+Poland,2016,79.5,98.9,67.3,85.0,96.6,70.9,83.0,5.835,1.24585,1.04685,0.69058,0.4519,0.14443,0.055,https://www.worldometers.info//img/flags/small/tn_pl-flag.gif
+Poland,2017,80.6,98.9,67.8,85.3,97.5,71.4,83.4,5.97300005,1.291787863,1.44571197,0.699475348,0.520342112,0.158465967,0.059307806,https://www.worldometers.info//img/flags/small/tn_pl-flag.gif
+Poland,2018,80.2,98.8,65.3,85.3,97.0,71.7,83.8,6.123,1.176,1.448,0.781,0.546,0.108,0.064,https://www.worldometers.info//img/flags/small/tn_pl-flag.gif
+Poland,2019,80.9,99.0,65.8,85.9,98.8,72.0,84.4,6.182,1.206,1.438,0.884,0.483,0.117,0.05,https://www.worldometers.info//img/flags/small/tn_pl-flag.gif
+Poland,2020,80.6,98.9,67.7,84.1,97.4,72.0,84.4,6.186299801,1.16922915,1.310399771,0.868038476,0.557903528,0.063374244,0.160541251,https://www.worldometers.info//img/flags/small/tn_pl-flag.gif
+Poland,2021,81.0,99.0,67.5,83.9,97.5,72.6,84.4,6.166,1.309,0.982,0.668,0.558,0.08,0.13,https://www.worldometers.info//img/flags/small/tn_pl-flag.gif
+Poland,2022,81.8,99.0,67.5,85.2,97.5,73.1,84.4,6.123,1.758,1.174,0.712,0.523,0.124,0.14,https://www.worldometers.info//img/flags/small/tn_pl-flag.gif
+Poland,2023,81.80017556,99.0405,67.4935,85.16946154,97.4505,73.14575,84.3816,6.26,1.767,1.474,0.477,0.511,0.12,0.139,https://www.worldometers.info//img/flags/small/tn_pl-flag.gif
+Portugal,2016,77.3,99.7,62.0,90.6,98.3,80.1,79.2,5.123,1.27607,0.94367,0.79363,0.44727,0.11691,0.01521,https://www.worldometers.info//img/flags/small/tn_po-flag.gif
+Portugal,2017,78.5,99.9,63.3,91.3,98.7,80.2,80.3,5.195000172,1.315175295,1.367043018,0.795843542,0.4984653,0.095102713,0.015869452,https://www.worldometers.info//img/flags/small/tn_po-flag.gif
+Portugal,2018,78.5,99.8,63.2,91.5,95.8,80.5,80.3,5.41,1.188,1.429,0.884,0.562,0.055,0.017,https://www.worldometers.info//img/flags/small/tn_po-flag.gif
+Portugal,2019,79.1,99.9,63.9,92.4,95.0,82.8,80.3,5.693,1.221,1.431,0.999,0.508,0.047,0.025,https://www.worldometers.info//img/flags/small/tn_po-flag.gif
+Portugal,2020,79.7,99.9,63.3,91.8,98.6,83.5,80.3,5.910900116,1.168800831,1.339530349,0.979315281,0.589895189,0.053036947,0.027733466,https://www.worldometers.info//img/flags/small/tn_po-flag.gif
+Portugal,2021,80.1,99.9,64.3,92.4,98.6,84.0,80.3,5.929,1.323,0.939,0.76,0.621,0.029,0.033,https://www.worldometers.info//img/flags/small/tn_po-flag.gif
+Portugal,2022,80.0,99.9,64.3,92.1,98.6,84.2,80.3,6.016,1.76,1.078,0.777,0.655,0.016,0.039,https://www.worldometers.info//img/flags/small/tn_po-flag.gif
+Portugal,2023,80.01748718,99.9375,64.283,92.07335714,98.59225,84.22075,80.2702,5.968,1.758,1.356,0.537,0.693,0.031,0.037,https://www.worldometers.info//img/flags/small/tn_po-flag.gif
+Romania,2016,75.5,97.3,66.9,79.1,84.6,52.9,75.5,5.528,1.1697,0.72803,0.67602,0.36712,0.12889,0.00679,https://www.worldometers.info//img/flags/small/tn_ro-flag.gif
+Romania,2017,75.9,97.8,71.9,78.6,80.8,57.1,75.7,5.824999809,1.217683911,1.15009129,0.685158312,0.457003742,0.133519918,0.004387901,https://www.worldometers.info//img/flags/small/tn_ro-flag.gif
+Romania,2018,76.3,98.1,74.3,79.5,82.5,57.0,75.9,5.945,1.116,1.219,0.726,0.528,0.088,0.001,https://www.worldometers.info//img/flags/small/tn_ro-flag.gif
+Romania,2019,76.7,98.2,73.3,80.0,83.4,57.5,76.1,6.07,1.162,1.232,0.825,0.462,0.083,0.005,https://www.worldometers.info//img/flags/small/tn_ro-flag.gif
+Romania,2020,77.1,98.1,69.6,81.4,84.5,57.4,76.3,6.123700142,1.120401621,1.1944381,0.79229486,0.534852326,0.068181619,0.000829569,https://www.worldometers.info//img/flags/small/tn_ro-flag.gif
+Romania,2021,77.3,98.4,72.9,80.7,84.6,54.8,76.3,6.14,1.275,0.832,0.595,0.564,0.045,0.001,https://www.worldometers.info//img/flags/small/tn_ro-flag.gif
+Romania,2022,77.5,98.6,72.9,80.6,84.6,55.1,76.3,6.477,1.719,1.006,0.655,0.605,0.039,0.006,https://www.worldometers.info//img/flags/small/tn_ro-flag.gif
+Romania,2023,77.46052633,98.581,72.9345,80.58042857,84.5695,55.135,76.2582,6.589,1.726,1.28,0.423,0.631,0.044,0.0,https://www.worldometers.info//img/flags/small/tn_ro-flag.gif
+Saudi Arabia,2016,61.9,100.0,57.3,76.8,77.4,41.1,59.0,6.379,1.48953,0.84829,0.59267,0.37904,0.15457,0.30008,https://www.worldometers.info//img/flags/small/tn_sa-flag.gif
+Saudi Arabia,2017,63.4,100.0,57.4,76.3,78.2,40.5,59.0,6.343999863,1.530623555,1.286677599,0.59014833,0.449750572,0.147616014,0.273432255,https://www.worldometers.info//img/flags/small/tn_sa-flag.gif
+Saudi Arabia,2018,63.7,100.0,58.1,76.0,77.8,41.5,59.1,6.371,1.379,1.331,0.633,0.509,0.098,0.127,https://www.worldometers.info//img/flags/small/tn_sa-flag.gif
+Saudi Arabia,2019,64.9,100.0,56.9,76.7,79.5,42.5,59.1,6.375,1.403,1.357,0.795,0.439,0.08,0.132,https://www.worldometers.info//img/flags/small/tn_sa-flag.gif
+Saudi Arabia,2020,65.2,100.0,56.5,76.8,78.9,44.6,59.1,6.406499863,1.334328532,1.309950113,0.759818137,0.548477471,0.087440684,0.163322315,https://www.worldometers.info//img/flags/small/tn_sa-flag.gif
+Saudi Arabia,2021,67.5,100.0,56.8,80.7,78.5,44.2,59.1,6.494,1.435,0.964,0.571,0.603,0.09,0.163,https://www.worldometers.info//img/flags/small/tn_sa-flag.gif
+Saudi Arabia,2022,67.7,100.0,56.9,80.7,78.5,44.6,59.1,6.523,1.87,1.092,0.577,0.651,0.078,0.18,https://www.worldometers.info//img/flags/small/tn_sa-flag.gif
+Saudi Arabia,2023,67.69215149,100.0,56.854625,80.68546154,78.47325,44.5985,59.0856,6.463,1.861,1.37,0.351,0.682,0.093,0.17,https://www.worldometers.info//img/flags/small/tn_sa-flag.gif
+Senegal,2016,57.5,47.5,60.7,54.1,26.0,45.1,62.3,4.219,0.44314,0.77416,0.40457,0.31056,0.19103,0.11681,https://www.worldometers.info//img/flags/small/tn_sg-flag.gif
+Senegal,2017,58.6,53.4,59.6,55.8,29.6,44.9,62.9,4.534999847,0.479309022,1.179691911,0.409362853,0.377922267,0.183468893,0.115460448,https://www.worldometers.info//img/flags/small/tn_sg-flag.gif
+Senegal,2018,59.6,59.5,61.2,56.2,29.6,43.9,63.6,4.631,0.429,1.117,0.433,0.406,0.138,0.082,https://www.worldometers.info//img/flags/small/tn_sg-flag.gif
+Senegal,2019,60.4,60.4,61.1,58.9,28.1,43.3,64.2,4.681,0.45,1.134,0.571,0.292,0.153,0.072,https://www.worldometers.info//img/flags/small/tn_sg-flag.gif
+Senegal,2020,60.7,60.1,61.6,57.8,28.6,43.9,64.8,4.980800152,0.504061818,0.95459342,0.518391907,0.352400899,0.164397135,0.081865937,https://www.worldometers.info//img/flags/small/tn_sg-flag.gif
+Senegal,2021,61.7,62.8,61.7,57.8,31.7,44.1,64.8,5.132,0.518,0.558,0.357,0.381,0.158,0.088,https://www.worldometers.info//img/flags/small/tn_sg-flag.gif
+Senegal,2022,61.8,67.9,61.8,57.8,31.7,44.3,64.8,5.046,0.933,0.53,0.447,0.494,0.143,0.081,https://www.worldometers.info//img/flags/small/tn_sg-flag.gif
+Senegal,2023,61.8294028,67.873,61.802,57.78757143,31.6605,44.3055,64.811,4.855,0.943,0.727,0.231,0.519,0.142,0.06,https://www.worldometers.info//img/flags/small/tn_sg-flag.gif
+Serbia,2016,74.8,100.0,72.9,81.0,95.4,61.3,74.5,5.177,1.03437,0.81329,0.6458,0.15718,0.20737,0.04339,https://www.worldometers.info//img/flags/small/tn_ri-flag.gif
+Serbia,2017,75.7,100.0,66.0,79.9,96.6,61.8,74.6,5.394999981,1.069317579,1.258189797,0.650784671,0.208715528,0.220125884,0.040903781,https://www.worldometers.info//img/flags/small/tn_ri-flag.gif
+Serbia,2018,76.7,100.0,75.1,82.6,96.1,62.0,74.8,5.398,0.975,1.369,0.685,0.288,0.134,0.043,https://www.worldometers.info//img/flags/small/tn_ri-flag.gif
+Serbia,2019,77.5,100.0,76.2,83.0,94.5,64.0,74.9,5.603,1.004,1.383,0.854,0.282,0.137,0.039,https://www.worldometers.info//img/flags/small/tn_ri-flag.gif
+Serbia,2020,77.5,100.0,77.2,81.6,94.2,64.5,75.0,5.77820015,0.988181829,1.327448964,0.828403294,0.395428419,0.15028289,0.059447147,https://www.worldometers.info//img/flags/small/tn_ri-flag.gif
+Serbia,2021,78.4,100.0,75.8,82.0,93.6,64.8,75.0,6.078,1.101,0.924,0.634,0.482,0.189,0.066,https://www.worldometers.info//img/flags/small/tn_ri-flag.gif
+Serbia,2022,77.3,100.0,75.8,82.5,93.6,64.9,75.0,6.178,1.55,1.086,0.658,0.546,0.219,0.088,https://www.worldometers.info//img/flags/small/tn_ri-flag.gif
+Serbia,2023,77.33697175,99.9835,75.80475,82.45528571,93.61375,64.9175,75.0428,6.144,1.552,1.343,0.424,0.617,0.246,0.081,https://www.worldometers.info//img/flags/small/tn_ri-flag.gif
+Sierra Leone,2016,53.4,34.4,55.3,30.7,41.9,44.8,47.2,4.635,0.36485,0.628,0.0,0.30685,0.23897,0.08196,https://www.worldometers.info//img/flags/small/tn_sl-flag.gif
+Sierra Leone,2017,53.7,34.2,53.6,33.3,40.9,43.5,47.7,4.709000111,0.368420929,0.984136045,0.005564754,0.318697691,0.293040901,0.071095176,https://www.worldometers.info//img/flags/small/tn_sl-flag.gif
+Sierra Leone,2018,54.0,31.7,53.3,35.4,46.5,43.4,48.2,4.571,0.256,0.813,0.0,0.355,0.238,0.053,https://www.worldometers.info//img/flags/small/tn_sl-flag.gif
+Sierra Leone,2019,54.5,32.4,55.8,36.7,53.1,46.6,48.6,4.374,0.268,0.841,0.242,0.309,0.252,0.045,https://www.worldometers.info//img/flags/small/tn_sl-flag.gif
+Sierra Leone,2020,54.9,33.1,56.3,36.3,54.7,46.6,49.1,3.926399946,0.240560383,0.747984946,0.203953966,0.382027686,0.257647008,0.047940936,https://www.worldometers.info//img/flags/small/tn_sl-flag.gif
+Sierra Leone,2021,55.6,47.5,56.5,37.3,50.3,46.6,49.1,3.849,0.279,0.377,0.1,0.408,0.243,0.047,https://www.worldometers.info//img/flags/small/tn_sl-flag.gif
+Sierra Leone,2022,55.7,49.1,56.7,36.6,50.3,46.6,49.1,3.574,0.686,0.416,0.273,0.387,0.202,0.055,https://www.worldometers.info//img/flags/small/tn_sl-flag.gif
+Sierra Leone,2023,55.66940203,49.1385,56.665375,36.60785714,50.31725,46.6365,49.09,3.138,0.67,0.54,0.092,0.371,0.193,0.051,https://www.worldometers.info//img/flags/small/tn_sl-flag.gif
+Slovenia,2016,79.4,99.3,66.3,90.6,97.0,81.0,87.8,5.768,1.29947,1.05613,0.79151,0.53164,0.25738,0.03635,https://www.worldometers.info//img/flags/small/tn_si-flag.gif
+Slovenia,2017,79.7,99.3,64.0,91.7,96.9,81.3,87.8,5.757999897,1.341205955,1.452518821,0.790828228,0.572575808,0.242649093,0.045128979,https://www.worldometers.info//img/flags/small/tn_si-flag.gif
+Slovenia,2018,79.3,99.3,65.2,92.0,96.2,74.9,87.8,5.948,1.219,1.506,0.856,0.633,0.16,0.051,https://www.worldometers.info//img/flags/small/tn_si-flag.gif
+Slovenia,2019,80.5,99.4,65.9,93.3,95.4,76.8,87.8,6.118,1.258,1.523,0.953,0.564,0.144,0.057,https://www.worldometers.info//img/flags/small/tn_si-flag.gif
+Slovenia,2020,81.0,99.3,66.9,93.0,95.6,77.2,87.8,6.363399982,1.208652496,1.464677691,0.932548046,0.646700144,0.145701498,0.076516323,https://www.worldometers.info//img/flags/small/tn_si-flag.gif
+Slovenia,2021,80.8,99.4,66.6,92.5,95.6,77.0,87.8,6.461,1.36,1.093,0.722,0.69,0.122,0.085,https://www.worldometers.info//img/flags/small/tn_si-flag.gif
+Slovenia,2022,81.0,99.4,66.6,92.4,95.6,77.0,87.8,6.63,1.81,1.249,0.769,0.685,0.118,0.115,https://www.worldometers.info//img/flags/small/tn_si-flag.gif
+Slovenia,2023,81.00665366,99.401,66.608875,92.35528571,95.61125,77.04125,87.8138,6.65,1.815,1.539,0.532,0.707,0.144,0.113,https://www.worldometers.info//img/flags/small/tn_si-flag.gif
+South Africa,2016,62.2,51.3,54.3,48.2,80.6,81.4,61.7,4.459,1.02416,0.96053,0.18611,0.42483,0.13656,0.08415,https://www.worldometers.info//img/flags/small/tn_sf-flag.gif
+South Africa,2017,63.0,51.5,58.2,49.9,77.2,82.0,61.8,4.828999996,1.054698706,1.384788632,0.18708007,0.479246736,0.13936238,0.072509497,https://www.worldometers.info//img/flags/small/tn_sf-flag.gif
+South Africa,2018,62.5,52.1,56.4,52.1,75.2,78.2,61.8,4.724,0.94,1.41,0.33,0.516,0.103,0.056,https://www.worldometers.info//img/flags/small/tn_sf-flag.gif
+South Africa,2019,63.2,52.2,55.2,54.2,76.7,76.7,62.1,4.722,0.96,1.351,0.469,0.389,0.13,0.055,https://www.worldometers.info//img/flags/small/tn_sf-flag.gif
+South Africa,2020,63.8,49.2,56.8,54.6,76.6,76.8,62.4,4.814099789,0.902140439,1.259086251,0.407034069,0.43478182,0.126406848,0.05950214,https://www.worldometers.info//img/flags/small/tn_sf-flag.gif
+South Africa,2021,63.9,51.0,56.8,57.0,76.6,76.7,62.4,4.956,0.967,0.895,0.265,0.447,0.144,0.051,https://www.worldometers.info//img/flags/small/tn_sf-flag.gif
+South Africa,2022,64.0,51.7,56.8,57.0,76.6,76.8,62.4,5.194,1.425,1.088,0.361,0.442,0.089,0.046,https://www.worldometers.info//img/flags/small/tn_sf-flag.gif
+South Africa,2023,64.0031979,51.704,56.7845,56.95485714,76.629,76.7865,62.4386,5.275,1.417,1.428,0.149,0.464,0.09,0.019,https://www.worldometers.info//img/flags/small/tn_sf-flag.gif
+Spain,2016,78.2,98.3,64.5,94.1,94.1,83.4,86.8,6.361,1.34253,1.12945,0.87896,0.37545,0.17665,0.06137,https://www.worldometers.info//img/flags/small/tn_sp-flag.gif
+Spain,2017,78.1,99.0,60.8,93.8,94.4,83.4,87.2,6.402999878,1.384397864,1.532090902,0.8889606,0.40878123,0.190133572,0.070914097,https://www.worldometers.info//img/flags/small/tn_sp-flag.gif
+Spain,2018,78.9,98.8,65.4,94.6,95.6,83.4,87.4,6.31,1.251,1.538,0.965,0.449,0.142,0.074,https://www.worldometers.info//img/flags/small/tn_sp-flag.gif
+Spain,2019,79.5,98.7,64.0,94.9,95.7,86.3,87.4,6.354,1.286,1.484,1.062,0.362,0.153,0.079,https://www.worldometers.info//img/flags/small/tn_sp-flag.gif
+Spain,2020,80.0,98.6,65.9,94.8,97.4,86.5,87.4,6.400899887,1.230535269,1.421099186,1.051343083,0.425983816,0.16530548,0.109579779,https://www.worldometers.info//img/flags/small/tn_sp-flag.gif
+Spain,2021,80.5,98.7,65.4,94.6,97.4,86.7,87.4,6.491,1.375,1.057,0.826,0.462,0.135,0.124,https://www.worldometers.info//img/flags/small/tn_sp-flag.gif
+Spain,2022,80.4,98.7,65.4,94.2,97.4,86.9,87.4,6.476,1.808,1.211,0.808,0.505,0.101,0.149,https://www.worldometers.info//img/flags/small/tn_sp-flag.gif
+Spain,2023,80.42509149,98.739,65.396625,94.23785714,97.4235,86.8665,87.3514,6.436,1.798,1.491,0.567,0.533,0.101,0.157,https://www.worldometers.info//img/flags/small/tn_sp-flag.gif
+Sri Lanka,2016,68.9,88.6,66.7,79.4,96.4,52.8,49.3,4.415,0.97318,0.84783,0.62007,0.50817,0.46978,0.07964,https://www.worldometers.info//img/flags/small/tn_ce-flag.gif
+Sri Lanka,2017,68.5,88.2,63.0,79.2,97.3,53.1,49.7,4.440000057,1.009850144,1.259976387,0.625130832,0.561213255,0.490863562,0.073653966,https://www.worldometers.info//img/flags/small/tn_ce-flag.gif
+Sri Lanka,2018,69.7,89.4,67.2,79.2,97.4,52.3,50.2,4.471,0.918,1.314,0.672,0.585,0.307,0.05,https://www.worldometers.info//img/flags/small/tn_ce-flag.gif
+Sri Lanka,2019,69.6,90.3,69.1,79.1,98.2,52.0,50.2,4.366,0.949,1.265,0.831,0.47,0.244,0.047,https://www.worldometers.info//img/flags/small/tn_ce-flag.gif
+Sri Lanka,2020,70.1,88.5,69.2,79.8,98.9,52.5,50.2,4.327000141,0.897986948,1.19494009,0.792036712,0.528632462,0.252666146,0.049444564,https://www.worldometers.info//img/flags/small/tn_ce-flag.gif
+Sri Lanka,2021,70.2,90.0,68.9,78.7,98.9,52.6,50.2,4.325,0.99,0.82,0.593,0.559,0.239,0.049,https://www.worldometers.info//img/flags/small/tn_ce-flag.gif
+Sri Lanka,2022,69.4,86.2,69.0,78.5,98.9,52.4,50.2,4.362,1.415,0.934,0.66,0.529,0.15,0.079,https://www.worldometers.info//img/flags/small/tn_ce-flag.gif
+Sri Lanka,2023,69.40149899,86.239,68.964625,78.4965,98.91633333,52.4145,50.195,4.442,1.422,1.224,0.426,0.539,0.12,0.086,https://www.worldometers.info//img/flags/small/tn_ce-flag.gif
+Sweden,2016,85.5,98.8,66.3,96.4,99.2,90.0,95.0,7.291,1.45181,1.08764,0.83121,0.58218,0.38254,0.40867,https://www.worldometers.info//img/flags/small/tn_sw-flag.gif
+Sweden,2017,85.5,99.0,67.8,96.2,99.7,89.5,95.1,7.28399992,1.494387269,1.478162169,0.830875158,0.612924099,0.385399252,0.384398729,https://www.worldometers.info//img/flags/small/tn_sw-flag.gif
+Sweden,2018,85.3,98.6,60.3,96.4,99.8,91.0,95.1,7.314,1.355,1.501,0.913,0.659,0.285,0.383,https://www.worldometers.info//img/flags/small/tn_sw-flag.gif
+Sweden,2019,86.0,98.9,65.3,96.9,99.9,91.5,95.1,7.343,1.387,1.487,1.009,0.574,0.267,0.373,https://www.worldometers.info//img/flags/small/tn_sw-flag.gif
+Sweden,2020,86.3,98.8,64.8,96.7,99.8,91.1,95.1,7.353499889,1.322235227,1.433347702,0.986470461,0.650297701,0.272827893,0.442066371,https://www.worldometers.info//img/flags/small/tn_sw-flag.gif
+Sweden,2021,86.1,98.9,63.1,96.9,99.8,91.2,95.1,7.363,1.478,1.062,0.763,0.685,0.244,0.448,https://www.worldometers.info//img/flags/small/tn_sw-flag.gif
+Sweden,2022,86.0,98.9,63.1,96.9,99.8,91.4,95.1,7.384,1.92,1.204,0.803,0.724,0.218,0.512,https://www.worldometers.info//img/flags/small/tn_sw-flag.gif
+Sweden,2023,85.98139698,98.8885,63.074125,96.904,99.76166667,91.44025,95.0576,7.395,1.921,1.51,0.562,0.754,0.225,0.52,https://www.worldometers.info//img/flags/small/tn_sw-flag.gif
+Switzerland,2016,79.8,99.5,66.4,96.3,99.2,79.4,90.5,7.509,1.52733,1.14524,0.86303,0.58557,0.28083,0.41203,https://www.worldometers.info//img/flags/small/tn_sz-flag.gif
+Switzerland,2017,80.3,99.5,70.5,96.7,98.1,79.7,90.5,7.493999958,1.564979553,1.516911745,0.858131289,0.620070577,0.290549278,0.367007285,https://www.worldometers.info//img/flags/small/tn_sz-flag.gif
+Switzerland,2018,80.3,99.5,69.4,96.8,97.9,80.1,90.5,7.487,1.42,1.549,0.927,0.66,0.256,0.357,https://www.worldometers.info//img/flags/small/tn_sz-flag.gif
+Switzerland,2019,80.7,99.5,69.9,97.2,98.0,85.2,90.5,7.48,1.452,1.526,1.052,0.572,0.263,0.343,https://www.worldometers.info//img/flags/small/tn_sz-flag.gif
+Switzerland,2020,80.9,99.4,70.6,97.1,98.5,85.1,90.5,7.559899807,1.39077425,1.472403407,1.040533185,0.62895447,0.269055754,0.407945901,https://www.worldometers.info//img/flags/small/tn_sz-flag.gif
+Switzerland,2021,81.5,99.4,67.9,96.7,98.5,85.8,90.5,7.571,1.566,1.079,0.816,0.653,0.204,0.413,https://www.worldometers.info//img/flags/small/tn_sz-flag.gif
+Switzerland,2022,80.5,99.5,67.9,96.0,98.5,85.9,90.5,7.512,2.026,1.226,0.822,0.677,0.147,0.461,https://www.worldometers.info//img/flags/small/tn_sz-flag.gif
+Switzerland,2023,80.53738907,99.463,67.914125,96.02864286,98.525,85.917,90.5232,7.24,2.022,1.463,0.582,0.678,0.151,0.475,https://www.worldometers.info//img/flags/small/tn_sz-flag.gif
+Tajikistan,2016,67.0,64.4,65.1,64.3,73.8,52.9,60.7,4.996,0.48835,0.75602,0.53119,0.43408,0.25998,0.13509,https://www.worldometers.info//img/flags/small/tn_ti-flag.gif
+Tajikistan,2017,68.5,67.8,65.1,65.8,73.5,53.2,62.3,5.040999889,0.524713635,1.271463275,0.529235125,0.471566707,0.248997644,0.146377146,https://www.worldometers.info//img/flags/small/tn_ti-flag.gif
+Tajikistan,2018,68.7,71.4,63.6,66.2,73.5,53.5,60.2,5.199,0.474,1.166,0.598,0.292,0.187,0.034,https://www.worldometers.info//img/flags/small/tn_ti-flag.gif
+Tajikistan,2019,68.9,74.7,64.6,67.5,73.5,53.8,59.5,5.467,0.493,1.098,0.718,0.389,0.23,0.144,https://www.worldometers.info//img/flags/small/tn_ti-flag.gif
+Tajikistan,2020,69.3,76.2,64.5,67.5,73.5,56.3,59.5,5.555699825,0.474874616,1.218377709,0.680594802,0.521141171,0.182417125,0.221779913,https://www.worldometers.info//img/flags/small/tn_ti-flag.gif
+Tajikistan,2021,69.3,80.0,65.1,67.4,73.5,56.5,59.5,5.466,0.508,0.895,0.498,0.548,0.152,0.247,https://www.worldometers.info//img/flags/small/tn_ti-flag.gif
+Tajikistan,2022,69.2,83.0,65.3,67.2,73.5,56.5,59.5,5.377,0.966,1.005,0.518,0.572,0.118,0.304,https://www.worldometers.info//img/flags/small/tn_ti-flag.gif
+Tajikistan,2023,69.18514074,82.961,65.32833333,67.24628571,73.4945,56.50125,59.5098,5.33,0.972,1.248,0.291,0.599,0.104,0.292,https://www.worldometers.info//img/flags/small/tn_ti-flag.gif
+Tanzania,2016,56.0,23.6,58.9,41.8,43.1,69.5,48.7,3.666,0.47155,0.77623,0.357,0.3176,0.31472,0.05099,
+Tanzania,2017,56.8,23.4,59.1,43.7,45.4,70.3,49.6,3.348999977,0.511135876,1.041989803,0.364509284,0.390017778,0.354256362,0.066035107,
+Tanzania,2018,56.5,24.7,60.4,44.4,45.3,70.7,50.6,3.303,0.455,0.991,0.381,0.481,0.27,0.097,
+Tanzania,2019,56.9,24.7,61.8,46.2,49.2,71.0,51.5,3.231,0.476,0.885,0.499,0.417,0.276,0.147,
+Tanzania,2020,56.9,24.1,61.9,47.0,47.6,70.2,51.7,3.476200104,0.457163125,0.872674644,0.442677855,0.509343088,0.27154091,0.203880861,
+Tanzania,2021,57.1,24.4,62.0,46.4,48.7,70.6,51.7,3.623,0.433,0.54,0.3,0.549,0.307,0.231,
+Tanzania,2022,56.8,25.6,61.0,46.2,48.7,70.8,51.7,3.702,0.848,0.597,0.425,0.578,0.248,0.27,
+Tanzania,2023,56.83294186,25.558,60.984375,46.222,48.695,70.79,51.6648,3.694,0.836,0.787,0.214,0.607,0.234,0.269,
+Thailand,2016,72.3,98.3,60.3,77.9,91.9,65.2,75.5,6.474,1.0893,1.04477,0.64915,0.49553,0.58696,0.02833,https://www.worldometers.info//img/flags/small/tn_th-flag.gif
+Thailand,2017,72.7,98.3,60.4,78.3,96.2,64.5,75.7,6.423999786,1.127868772,1.425792456,0.647239029,0.580200732,0.57212311,0.031612735,https://www.worldometers.info//img/flags/small/tn_th-flag.gif
+Thailand,2018,73.2,98.3,60.7,78.9,96.4,64.7,75.8,6.072,1.016,1.417,0.707,0.637,0.364,0.029,https://www.worldometers.info//img/flags/small/tn_th-flag.gif
+Thailand,2019,73.8,98.5,58.6,79.4,97.0,70.8,75.9,6.008,1.05,1.409,0.828,0.557,0.359,0.028,https://www.worldometers.info//img/flags/small/tn_th-flag.gif
+Thailand,2020,73.8,98.5,58.4,79.4,97.5,70.7,76.0,5.998799801,1.007029295,1.347519517,0.793855846,0.609449804,0.376709014,0.031837862,https://www.worldometers.info//img/flags/small/tn_th-flag.gif
+Thailand,2021,74.3,98.5,58.6,79.0,96.5,70.8,76.0,5.985,1.107,0.957,0.596,0.611,0.375,0.028,https://www.worldometers.info//img/flags/small/tn_th-flag.gif
+Thailand,2022,74.7,98.6,58.6,79.7,98.0,70.7,76.0,5.891,1.535,1.096,0.697,0.617,0.321,0.026,https://www.worldometers.info//img/flags/small/tn_th-flag.gif
+Thailand,2023,74.73862913,98.602,58.642,79.68464286,97.97825,70.688,76.0088,5.843,1.515,1.344,0.461,0.624,0.291,0.013,https://www.worldometers.info//img/flags/small/tn_th-flag.gif
+Togo,2016,53.3,21.0,58.2,39.7,69.6,38.9,49.2,3.303,0.28123,0.0,0.24811,0.34678,0.17517,0.11587,https://www.worldometers.info//img/flags/small/tn_to-flag.gif
+Togo,2017,55.0,25.2,59.8,44.3,71.2,40.2,49.7,3.494999886,0.305444717,0.43188253,0.247105569,0.380426139,0.196896151,0.095665015,https://www.worldometers.info//img/flags/small/tn_to-flag.gif
+Togo,2018,54.7,29.0,59.8,43.4,72.8,40.8,50.3,3.999,0.259,0.474,0.253,0.434,0.158,0.101,https://www.worldometers.info//img/flags/small/tn_to-flag.gif
+Togo,2019,55.2,29.1,60.1,45.6,75.7,41.0,50.8,4.085,0.275,0.572,0.41,0.293,0.177,0.085,https://www.worldometers.info//img/flags/small/tn_to-flag.gif
+Togo,2020,55.8,28.3,60.7,45.3,78.9,42.1,50.9,4.187200069,0.268116266,0.547622859,0.342731178,0.303539038,0.200774252,0.114826456,https://www.worldometers.info//img/flags/small/tn_to-flag.gif
+Togo,2021,56.1,29.3,60.8,45.4,80.1,42.3,50.9,4.107,0.254,0.239,0.203,0.289,0.209,0.107,https://www.worldometers.info//img/flags/small/tn_to-flag.gif
+Togo,2022,56.3,31.4,61.0,45.7,80.1,42.4,50.9,4.112,0.771,0.322,0.36,0.292,0.174,0.132,https://www.worldometers.info//img/flags/small/tn_to-flag.gif
+Togo,2023,56.26487556,31.4185,60.989125,45.7295,80.10675,42.36625,50.8932,4.137,0.77,0.642,0.161,0.367,0.149,0.136,https://www.worldometers.info//img/flags/small/tn_to-flag.gif
+Tunisia,2016,71.5,97.8,59.2,74.6,84.9,54.7,62.6,5.045,0.97724,0.43165,0.59577,0.23553,0.03936,0.0817,https://www.worldometers.info//img/flags/small/tn_ts-flag.gif
+Tunisia,2017,71.7,97.8,59.9,74.9,86.1,55.3,64.2,4.804999828,1.007265806,0.86835146,0.613212049,0.28968069,0.049693357,0.086723149,https://www.worldometers.info//img/flags/small/tn_ts-flag.gif
+Tunisia,2018,71.9,97.9,61.3,78.7,87.8,52.7,63.1,4.592,0.9,0.906,0.69,0.271,0.04,0.063,https://www.worldometers.info//img/flags/small/tn_ts-flag.gif
+Tunisia,2019,71.9,98.0,62.6,79.2,87.8,48.9,63.5,4.461,0.921,1.0,0.815,0.167,0.059,0.055,https://www.worldometers.info//img/flags/small/tn_ts-flag.gif
+Tunisia,2020,72.0,97.7,61.3,79.8,87.9,50.0,63.9,4.392199993,0.874742687,0.872167706,0.781156719,0.235860556,0.055881143,0.043899573,https://www.worldometers.info//img/flags/small/tn_ts-flag.gif
+Tunisia,2021,72.9,97.8,61.5,79.3,93.1,50.8,63.9,4.596,0.919,0.515,0.59,0.334,0.057,0.044,https://www.worldometers.info//img/flags/small/tn_ts-flag.gif
+Tunisia,2022,72.5,97.9,61.5,78.9,93.1,51.0,63.9,4.516,1.35,0.596,0.656,0.316,0.029,0.029,https://www.worldometers.info//img/flags/small/tn_ts-flag.gif
+Tunisia,2023,72.50349745,97.9125,61.53875,78.91871429,93.11866667,50.97175,63.9376,4.497,1.333,0.981,0.422,0.259,0.022,0.016,https://www.worldometers.info//img/flags/small/tn_ts-flag.gif
+Uganda,2016,51.8,23.0,64.5,44.6,38.9,61.5,45.1,3.739,0.34719,0.90981,0.19625,0.43653,0.27102,0.06442,https://www.worldometers.info//img/flags/small/tn_ug-flag.gif
+Uganda,2017,52.9,21.7,65.3,46.0,37.6,62.7,45.7,4.080999851,0.381430715,1.129827738,0.217632607,0.443185955,0.325766057,0.057069719,https://www.worldometers.info//img/flags/small/tn_ug-flag.gif
+Uganda,2018,53.3,23.1,66.3,46.9,40.2,63.9,46.3,4.161,0.322,1.09,0.237,0.45,0.259,0.061,https://www.worldometers.info//img/flags/small/tn_ug-flag.gif
+Uganda,2019,53.6,23.8,66.9,49.2,40.2,64.9,46.8,4.189,0.332,1.069,0.443,0.356,0.252,0.06,https://www.worldometers.info//img/flags/small/tn_ug-flag.gif
+Uganda,2020,53.5,23.4,66.6,49.3,40.2,65.5,47.4,4.43200016,0.312337428,1.052327394,0.378311664,0.401682556,0.264807373,0.063818842,https://www.worldometers.info//img/flags/small/tn_ug-flag.gif
+Uganda,2021,54.6,24.3,66.5,49.0,40.8,67.8,47.4,4.636,0.364,0.718,0.24,0.398,0.267,0.054,https://www.worldometers.info//img/flags/small/tn_ug-flag.gif
+Uganda,2022,55.0,25.4,66.7,49.3,40.8,67.8,47.4,4.603,0.777,0.875,0.418,0.402,0.222,0.066,https://www.worldometers.info//img/flags/small/tn_ug-flag.gif
+Uganda,2023,55.02406478,25.413,66.65685714,49.32642857,40.84775,67.838,47.393,4.432,0.785,1.144,0.201,0.425,0.197,0.051,https://www.worldometers.info//img/flags/small/tn_ug-flag.gif
+United Kingdom,2016,80.5,99.9,68.6,92.4,99.1,80.1,94.4,6.725,1.40283,1.08672,0.80991,0.50036,0.50156,0.27399,https://www.worldometers.info//img/flags/small/tn_uk-flag.gif
+United Kingdom,2017,80.9,99.0,68.8,93.3,99.7,81.8,94.4,6.714000225,1.44163394,1.49646008,0.805335939,0.508190036,0.492774159,0.265428066,https://www.worldometers.info//img/flags/small/tn_ug-flag.gif
+United Kingdom,2018,80.9,99.0,68.1,93.7,99.5,82.0,94.4,7.19,1.244,1.433,0.888,0.464,0.262,0.082,https://www.worldometers.info//img/flags/small/tn_ug-flag.gif
+United Kingdom,2019,81.0,99.0,68.5,94.0,99.2,82.2,94.4,7.054,1.333,1.538,0.996,0.45,0.348,0.278,https://www.worldometers.info//img/flags/small/tn_ug-flag.gif
+United Kingdom,2020,81.3,98.9,67.1,93.2,98.2,83.6,94.4,7.164500237,1.273061037,1.457844973,0.97570008,0.525168657,0.373433441,0.322601646,https://www.worldometers.info//img/flags/small/tn_ug-flag.gif
+United Kingdom,2021,81.7,98.9,68.4,93.5,98.2,84.1,94.4,7.064,1.423,1.062,0.757,0.58,0.34,0.306,https://www.worldometers.info//img/flags/small/tn_ug-flag.gif
+United Kingdom,2022,81.7,99.0,68.4,93.1,98.2,84.1,94.4,6.943,1.867,1.143,0.75,0.597,0.289,0.329,https://www.worldometers.info//img/flags/small/tn_ug-flag.gif
+United Kingdom,2023,81.65314272,98.9565,68.3895,93.07633333,98.193,84.10475,94.3934,6.796,1.857,1.366,0.511,0.626,0.272,0.34,https://www.worldometers.info//img/flags/small/tn_ug-flag.gif
+United States,2016,74.4,98.7,68.7,88.3,95.2,71.5,83.5,7.104,1.50796,1.04782,0.779,0.48163,0.41077,0.14868,https://www.worldometers.info//img/flags/small/tn_us-flag.gif
+United States,2017,74.7,98.5,68.5,88.8,94.8,72.2,83.6,6.993000031,1.546259284,1.419920564,0.774286628,0.505740523,0.392578781,0.135638788,https://www.worldometers.info//img/flags/small/tn_us-flag.gif
+United States,2018,74.4,98.7,68.7,88.9,94.4,74.3,83.6,6.886,1.398,1.471,0.819,0.547,0.291,0.133,https://www.worldometers.info//img/flags/small/tn_us-flag.gif
+United States,2019,74.9,98.8,68.7,88.8,94.1,74.4,83.6,6.892,1.433,1.457,0.874,0.454,0.28,0.128,https://www.worldometers.info//img/flags/small/tn_us-flag.gif
+United States,2020,75.6,98.8,68.7,89.2,93.9,76.5,83.6,6.939599991,1.37398684,1.404786706,0.831618011,0.534608245,0.298143059,0.152284741,https://www.worldometers.info//img/flags/small/tn_us-flag.gif
+United States,2021,76.0,98.8,68.6,89.2,93.9,76.6,83.6,6.951,1.533,1.03,0.621,0.554,0.252,0.154,https://www.worldometers.info//img/flags/small/tn_us-flag.gif
+United States,2022,75.9,98.9,68.6,88.7,93.9,76.8,83.6,6.977,1.982,1.182,0.628,0.574,0.22,0.177,https://www.worldometers.info//img/flags/small/tn_us-flag.gif
+United States,2023,75.91439705,98.8635,68.605375,88.67678571,93.91233333,76.791,83.6262,6.894,1.98,1.46,0.39,0.557,0.21,0.172,https://www.worldometers.info//img/flags/small/tn_us-flag.gif
+Uruguay,2016,76.3,98.4,68.3,83.3,91.8,70.9,75.5,6.545,1.18157,1.03143,0.72183,0.54388,0.18056,0.21394,https://www.worldometers.info//img/flags/small/tn_uy-flag.gif
+Uruguay,2017,76.6,98.5,66.8,84.1,90.8,73.2,75.6,6.453999996,1.217559695,1.412227869,0.719216824,0.579392254,0.175096929,0.178061873,https://www.worldometers.info//img/flags/small/tn_uy-flag.gif
+Uruguay,2018,76.2,98.6,64.5,83.7,91.4,73.4,75.7,6.379,1.093,1.459,0.771,0.625,0.13,0.155,https://www.worldometers.info//img/flags/small/tn_uy-flag.gif
+Uruguay,2019,77.3,98.5,67.1,85.1,95.9,73.1,75.7,6.293,1.124,1.465,0.891,0.523,0.127,0.15,https://www.worldometers.info//img/flags/small/tn_uy-flag.gif
+Uruguay,2020,77.2,98.2,66.5,84.4,90.7,74.5,75.8,6.440100193,1.071000457,1.425081134,0.856928885,0.59426707,0.132143691,0.193425074,https://www.worldometers.info//img/flags/small/tn_uy-flag.gif
+Uruguay,2021,77.9,98.3,67.5,84.4,90.7,76.2,75.8,6.431,1.164,1.042,0.649,0.625,0.128,0.223,https://www.worldometers.info//img/flags/small/tn_uy-flag.gif
+Uruguay,2022,77.7,98.5,67.6,84.7,90.7,76.4,75.8,6.474,1.615,1.18,0.672,0.665,0.103,0.265,https://www.worldometers.info//img/flags/small/tn_uy-flag.gif
+Uruguay,2023,77.73837361,98.4625,67.56225,84.73392857,90.70775,76.3755,75.793,6.494,1.617,1.445,0.435,0.683,0.102,0.254,https://www.worldometers.info//img/flags/small/tn_uy-flag.gif
+Uzbekistan,2016,67.4,47.6,66.5,74.9,71.8,75.8,58.8,5.987,0.73591,1.1681,0.50163,0.60848,0.34326,0.28333,https://www.worldometers.info//img/flags/small/tn_uz-flag.gif
+Uzbekistan,2017,67.7,51.7,67.3,76.5,72.6,76.0,58.8,5.971000195,0.786441088,1.54896915,0.498272628,0.658248663,0.415983647,0.246528223,https://www.worldometers.info//img/flags/small/tn_uz-flag.gif
+Uzbekistan,2018,68.3,55.0,66.1,76.4,74.0,76.2,58.8,6.096,0.719,1.584,0.605,0.724,0.328,0.259,https://www.worldometers.info//img/flags/small/tn_uz-flag.gif
+Uzbekistan,2019,69.4,56.4,67.2,77.0,77.2,76.4,58.8,6.174,0.745,1.529,0.756,0.631,0.322,0.24,https://www.worldometers.info//img/flags/small/tn_uz-flag.gif
+Uzbekistan,2020,70.5,55.9,67.2,76.4,83.7,84.6,58.8,6.257599831,0.696652949,1.434020042,0.716703713,0.693270326,0.363311023,0.280260265,https://www.worldometers.info//img/flags/small/tn_uz-flag.gif
+Uzbekistan,2021,71.3,59.1,67.3,77.5,85.1,85.0,58.8,6.179,0.769,1.027,0.528,0.716,0.391,0.271,https://www.worldometers.info//img/flags/small/tn_uz-flag.gif
+Uzbekistan,2022,71.1,61.6,67.5,77.2,85.1,85.1,58.8,6.063,1.219,1.092,0.6,0.716,0.283,0.24,https://www.worldometers.info//img/flags/small/tn_uz-flag.gif
+Uzbekistan,2023,71.14824663,61.5585,67.45957143,77.21428571,85.146,85.07925,58.8052,6.014,1.227,1.347,0.375,0.74,0.26,0.208,https://www.worldometers.info//img/flags/small/tn_uz-flag.gif
+Vietnam,2016,70.5,93.2,69.7,68.8,98.0,71.1,71.9,5.061,0.74037,0.79117,0.66157,0.55954,0.25075,0.11556,https://www.worldometers.info//img/flags/small/tn_vi-flag.gif
+Vietnam,2017,70.9,93.9,70.5,68.9,98.2,71.2,72.5,5.073999882,0.788547575,1.277491331,0.652168989,0.571055591,0.234968051,0.087633237,https://www.worldometers.info//img/flags/small/tn_vi-flag.gif
+Vietnam,2018,71.3,94.5,71.7,66.6,97.5,71.1,73.1,5.103,0.715,1.365,0.702,0.618,0.177,0.079,https://www.worldometers.info//img/flags/small/tn_vi-flag.gif
+Vietnam,2019,71.4,95.5,72.2,68.5,97.9,71.3,73.7,5.175,0.741,1.346,0.851,0.543,0.147,0.073,https://www.worldometers.info//img/flags/small/tn_vi-flag.gif
+Vietnam,2020,71.8,95.4,73.1,69.6,97.8,71.7,74.3,5.353499889,0.718092382,1.253074765,0.819133997,0.650835574,0.136488721,0.089848459,https://www.worldometers.info//img/flags/small/tn_vi-flag.gif
+Vietnam,2021,72.3,95.6,73.5,68.5,97.4,74.1,74.3,5.411,0.817,0.873,0.616,0.679,0.124,0.091,https://www.worldometers.info//img/flags/small/tn_vi-flag.gif
+Vietnam,2022,73.3,97.0,73.6,69.9,97.4,74.4,74.3,5.485,1.252,0.932,0.611,0.707,0.143,0.105,https://www.worldometers.info//img/flags/small/tn_vi-flag.gif
+Vietnam,2023,73.32232265,97.0075,73.62975,69.86335714,97.3805,74.3825,74.2558,5.763,1.349,1.212,0.381,0.741,0.134,0.122,https://www.worldometers.info//img/flags/small/tn_vi-flag.gif
+Zambia,2016,52.2,10.5,56.3,39.6,66.3,64.0,51.5,4.795,0.61202,0.6376,0.23573,0.42662,0.17866,0.11479,https://www.worldometers.info//img/flags/small/tn_za-flag.gif
+Zambia,2017,52.5,10.6,57.0,39.8,64.0,64.6,51.8,4.513999939,0.636406779,1.003187299,0.257835895,0.461603492,0.249580145,0.07821355,https://www.worldometers.info//img/flags/small/tn_za-flag.gif
+Zambia,2018,53.4,10.7,57.9,41.8,66.1,66.3,52.2,4.377,0.562,1.047,0.295,0.503,0.221,0.082,https://www.worldometers.info//img/flags/small/tn_za-flag.gif
+Zambia,2019,53.4,10.4,58.7,42.8,66.1,65.9,52.6,4.107,0.578,1.058,0.426,0.431,0.247,0.087,https://www.worldometers.info//img/flags/small/tn_za-flag.gif
+Zambia,2020,53.6,9.4,59.1,45.9,66.7,66.2,52.9,3.759399891,0.536833763,0.896037281,0.36359334,0.49131754,0.250620902,0.086705238,https://www.worldometers.info//img/flags/small/tn_za-flag.gif
+Zambia,2021,53.2,9.7,59.4,44.9,66.7,65.1,52.9,4.073,0.528,0.552,0.231,0.487,0.227,0.074,https://www.worldometers.info//img/flags/small/tn_za-flag.gif
+Zambia,2022,54.3,9.9,59.5,45.6,66.7,65.1,52.9,3.76,0.93,0.577,0.306,0.525,0.203,0.083,https://www.worldometers.info//img/flags/small/tn_za-flag.gif
+Zambia,2023,54.28413607,9.883,59.47242857,45.57735714,66.72966667,65.12025,52.9272,3.982,0.914,0.89,0.095,0.545,0.189,0.08,https://www.worldometers.info//img/flags/small/tn_za-flag.gif
+Zimbabwe,2016,56.1,29.1,43.7,36.9,60.8,75.8,53.0,4.193,0.35041,0.71478,0.1595,0.25429,0.18503,0.08582,https://www.worldometers.info//img/flags/small/tn_zi-flag.gif
+Zimbabwe,2017,56.4,27.6,46.4,38.5,59.6,77.2,52.8,3.875,0.375846535,1.083095908,0.196763754,0.336384207,0.189143494,0.095375381,https://www.worldometers.info//img/flags/small/tn_zi-flag.gif
+Zimbabwe,2018,55.9,26.4,46.6,39.8,57.9,76.7,51.6,3.692,0.357,1.094,0.248,0.406,0.132,0.099,https://www.worldometers.info//img/flags/small/tn_zi-flag.gif
+Zimbabwe,2019,53.7,21.4,46.0,40.6,60.6,77.0,51.3,3.663,0.366,1.114,0.433,0.361,0.151,0.089,https://www.worldometers.info//img/flags/small/tn_zi-flag.gif
+Zimbabwe,2020,54.3,20.1,47.2,41.5,62.0,77.0,51.1,3.299200058,0.425564021,1.047835231,0.375037611,0.37740472,0.151349187,0.080928579,https://www.worldometers.info//img/flags/small/tn_zi-flag.gif
+Zimbabwe,2021,54.8,20.8,48.4,41.9,62.5,77.1,51.1,3.145,0.457,0.649,0.243,0.359,0.157,0.075,https://www.worldometers.info//img/flags/small/tn_zi-flag.gif
+Zimbabwe,2022,55.6,21.5,48.5,41.9,62.5,77.2,51.1,2.995,0.947,0.69,0.27,0.329,0.106,0.105,https://www.worldometers.info//img/flags/small/tn_zi-flag.gif
+Zimbabwe,2023,55.60229222,21.453,48.491,41.90771429,62.497,77.1775,51.0746,3.204,0.758,0.881,0.069,0.363,0.112,0.117,https://www.worldometers.info//img/flags/small/tn_zi-flag.gif

@@ -1,0 +1,110 @@
+country,year,sustainable_index_score,no_poverty_score,zero_hunger_score,good_health_score,quality_education_score,gender_equality_score,clean_water_sanitation_score,happiness_score,gdp_per_capita,social_support,healthy_life_expectancy,freedom_to_make_life_choices,generosity,perceptions_of_corruption,URL
+Afghanistan,2019,46.4,29.4,47.0,36.5,42.0,30.8,49.2,3.203,0.35,0.517,0.361,0.0,0.158,0.025,https://www.worldometers.info//img/flags/small/tn_af-flag.gif
+Albania,2019,73.7,98.5,58.3,82.6,95.2,57.4,73.6,4.719,0.947,0.848,0.874,0.383,0.178,0.027,https://www.worldometers.info//img/flags/small/tn_al-flag.gif
+Algeria,2019,70.8,97.5,58.0,75.8,76.9,49.9,58.0,5.211,1.002,1.16,0.785,0.086,0.073,0.114,https://www.worldometers.info//img/flags/small/tn_ag-flag.gif
+Argentina,2019,73.0,96.1,69.5,81.5,97.2,79.6,77.9,6.086,1.092,1.432,0.881,0.471,0.066,0.05,https://www.worldometers.info//img/flags/small/tn_ar-flag.gif
+Armenia,2019,72.6,91.1,52.3,76.9,73.2,62.7,65.6,4.559,0.85,1.055,0.815,0.283,0.095,0.064,https://www.worldometers.info//img/flags/small/tn_am-flag.gif
+Australia,2019,75.2,99.3,57.0,95.6,91.0,81.0,93.9,7.228,1.372,1.548,1.036,0.557,0.332,0.29,https://www.worldometers.info//img/flags/small/tn_as-flag.gif
+Austria,2019,83.1,99.5,73.0,92.9,98.2,83.8,92.2,7.246,1.376,1.475,1.016,0.532,0.244,0.226,https://www.worldometers.info//img/flags/small/tn_au-flag.gif
+Bangladesh,2019,63.6,69.0,69.8,62.5,69.2,53.8,67.0,4.456,0.562,0.928,0.723,0.527,0.166,0.143,https://www.worldometers.info//img/flags/small/tn_bg-flag.gif
+Belgium,2019,79.0,99.5,71.2,93.2,94.4,87.5,70.6,6.923,1.356,1.504,0.986,0.473,0.16,0.21,https://www.worldometers.info//img/flags/small/tn_be-flag.gif
+Benin,2019,54.0,46.7,64.6,42.8,56.3,33.6,49.3,4.883,0.393,0.437,0.397,0.349,0.175,0.082,https://www.worldometers.info//img/flags/small/tn_bn-flag.gif
+Bolivia,2019,69.8,93.0,64.2,66.7,89.1,72.1,68.5,5.779,0.776,1.209,0.706,0.511,0.137,0.064,
+Bosnia and Herzegovina,2019,73.0,99.8,65.7,77.0,64.1,43.4,73.2,5.386,0.945,1.212,0.845,0.212,0.263,0.006,https://www.worldometers.info//img/flags/small/tn_bk-flag.gif
+Botswana,2019,61.7,61.6,44.1,50.6,65.8,69.0,68.0,3.488,1.041,1.145,0.538,0.455,0.025,0.1,https://www.worldometers.info//img/flags/small/tn_bc-flag.gif
+Brazil,2019,72.4,84.7,70.8,78.2,86.1,70.5,85.8,6.3,1.004,1.439,0.802,0.39,0.099,0.086,https://www.worldometers.info//img/flags/small/tn_br-flag.gif
+Bulgaria,2019,74.6,100.0,67.7,79.2,79.5,71.4,66.3,5.011,1.092,1.513,0.815,0.311,0.081,0.004,https://www.worldometers.info//img/flags/small/tn_bu-flag.gif
+Burkina Faso,2019,51.5,24.6,61.1,46.1,26.5,43.6,45.0,4.587,0.331,1.056,0.38,0.255,0.177,0.113,https://www.worldometers.info//img/flags/small/tn_uv-flag.gif
+Cameroon,2019,54.5,48.1,60.8,39.0,48.1,54.4,55.8,5.044,0.549,0.91,0.331,0.381,0.187,0.037,https://www.worldometers.info//img/flags/small/tn_cm-flag.gif
+Canada,2019,77.8,99.6,65.3,94.2,98.9,83.0,86.1,7.278,1.365,1.505,1.039,0.584,0.285,0.308,https://www.worldometers.info//img/flags/small/tn_ca-flag.gif
+Chad,2019,42.1,26.3,33.5,24.5,10.8,21.8,42.2,4.35,0.35,0.766,0.192,0.174,0.198,0.078,https://www.worldometers.info//img/flags/small/tn_cd-flag.gif
+Chile,2019,77.6,98.6,72.5,87.8,95.7,71.0,89.4,6.444,1.159,1.369,0.92,0.357,0.187,0.056,https://www.worldometers.info//img/flags/small/tn_ci-flag.gif
+China,2019,71.5,96.8,83.1,81.6,99.5,78.1,68.5,5.191,1.029,1.125,0.893,0.521,0.058,0.1,https://www.worldometers.info//img/flags/small/tn_ch-flag.gif
+Colombia,2019,70.3,83.3,64.9,84.2,92.1,70.4,79.1,6.125,0.985,1.41,0.841,0.47,0.099,0.034,https://www.worldometers.info//img/flags/small/tn_co-flag.gif
+Costa Rica,2019,73.1,95.7,53.7,88.4,90.1,82.1,74.5,7.167,1.034,1.441,0.963,0.558,0.144,0.093,https://www.worldometers.info//img/flags/small/tn_cs-flag.gif
+Croatia,2019,80.6,100.0,74.3,86.8,97.1,64.3,86.4,5.432,1.155,1.266,0.914,0.296,0.119,0.022,https://www.worldometers.info//img/flags/small/tn_hr-flag.gif
+Denmark,2019,85.0,99.2,72.1,95.6,97.7,86.4,90.7,7.6,1.383,1.573,0.996,0.592,0.252,0.41,https://www.worldometers.info//img/flags/small/tn_da-flag.gif
+Dominican Republic,2019,72.1,95.9,75.1,67.9,89.8,70.8,67.5,5.425,1.015,1.401,0.779,0.497,0.113,0.101,
+Ecuador,2019,71.1,87.5,58.0,80.0,93.6,78.5,75.0,6.028,0.912,1.312,0.868,0.498,0.126,0.087,https://www.worldometers.info//img/flags/small/tn_ec-flag.gif
+El Salvador,2019,69.8,93.2,55.9,80.3,81.5,66.9,72.6,6.253,0.794,1.242,0.789,0.43,0.093,0.074,https://www.worldometers.info//img/flags/small/tn_es-flag.gif
+Estonia,2019,80.7,100.0,64.9,88.6,96.0,77.9,84.1,5.893,1.237,1.528,0.874,0.495,0.103,0.161,https://www.worldometers.info//img/flags/small/tn_en-flag.gif
+Ethiopia,2019,53.2,35.2,54.3,46.7,34.1,57.8,38.2,4.286,0.336,1.033,0.532,0.344,0.209,0.1,https://www.worldometers.info//img/flags/small/tn_et-flag.gif
+Finland,2019,86.1,99.6,63.6,95.6,98.1,91.8,94.3,7.769,1.34,1.587,0.986,0.596,0.153,0.393,https://www.worldometers.info//img/flags/small/tn_fi-flag.gif
+France,2019,81.5,99.7,72.4,93.4,99.7,87.5,89.3,6.592,1.324,1.472,1.045,0.436,0.111,0.183,https://www.worldometers.info//img/flags/small/tn_fr-flag.gif
+Gabon,2019,62.2,89.6,51.5,49.4,60.4,45.9,61.3,4.799,1.057,1.183,0.571,0.295,0.043,0.055,https://www.worldometers.info//img/flags/small/tn_gb-flag.gif
+Georgia,2019,74.2,82.9,54.8,75.3,99.4,59.3,80.3,4.519,0.886,0.666,0.752,0.346,0.043,0.164,https://www.worldometers.info//img/flags/small/tn_gg-flag.gif
+Germany,2019,82.6,99.5,72.3,93.7,97.3,79.7,88.4,6.985,1.373,1.454,0.987,0.495,0.261,0.265,https://www.worldometers.info//img/flags/small/tn_gm-flag.gif
+Ghana,2019,61.6,55.8,69.5,53.3,84.4,54.0,57.1,4.996,0.611,0.868,0.486,0.381,0.245,0.04,https://www.worldometers.info//img/flags/small/tn_gh-flag.gif
+Greece,2019,77.5,99.2,66.2,90.5,96.0,64.0,87.7,5.287,1.181,1.156,0.999,0.067,0.0,0.034,https://www.worldometers.info//img/flags/small/tn_gr-flag.gif
+Guatemala,2019,59.2,74.2,42.9,68.8,72.2,49.7,68.8,6.436,0.8,1.269,0.746,0.535,0.175,0.078,https://www.worldometers.info//img/flags/small/tn_gt-flag.gif
+Guinea,2019,53.5,55.4,57.4,30.9,26.3,31.3,51.4,4.534,0.38,0.829,0.375,0.332,0.207,0.086,https://www.worldometers.info//img/flags/small/tn_gv-flag.gif
+Honduras,2019,62.9,67.3,54.2,71.4,64.6,61.4,72.1,5.86,0.642,1.236,0.828,0.507,0.246,0.078,https://www.worldometers.info//img/flags/small/tn_ho-flag.gif
+Hungary,2019,79.1,98.8,71.1,83.8,92.0,64.4,86.6,5.758,1.201,1.41,0.828,0.199,0.081,0.02,https://www.worldometers.info//img/flags/small/tn_hu-flag.gif
+Iceland,2019,77.4,99.8,54.5,96.6,97.3,87.2,59.8,7.494,1.38,1.624,1.026,0.591,0.354,0.118,https://www.worldometers.info//img/flags/small/tn_ic-flag.gif
+India,2019,62.2,81.1,54.1,63.0,80.1,46.1,57.3,4.015,0.755,0.765,0.588,0.498,0.2,0.085,https://www.worldometers.info//img/flags/small/tn_in-flag.gif
+Indonesia,2019,69.0,81.5,66.1,66.9,92.2,61.5,69.2,5.192,0.931,1.203,0.66,0.491,0.498,0.028,https://www.worldometers.info//img/flags/small/tn_id-flag.gif
+Ireland,2019,79.3,99.9,67.7,95.2,99.8,76.4,82.9,7.021,1.499,1.553,0.999,0.516,0.298,0.31,https://www.worldometers.info//img/flags/small/tn_ei-flag.gif
+Israel,2019,73.7,98.6,55.6,95.7,99.5,72.9,68.2,7.139,1.276,1.455,1.029,0.371,0.261,0.082,https://www.worldometers.info//img/flags/small/tn_is-flag.gif
+Italy,2019,77.9,97.5,69.4,94.2,94.0,73.5,80.8,6.223,1.294,1.488,1.039,0.231,0.158,0.03,https://www.worldometers.info//img/flags/small/tn_it-flag.gif
+Jamaica,2019,69.3,91.3,58.9,79.5,81.8,72.0,70.1,5.89,0.831,1.478,0.831,0.49,0.107,0.028,https://www.worldometers.info//img/flags/small/tn_jm-flag.gif
+Japan,2019,78.8,99.3,74.8,94.0,94.2,60.9,84.9,5.886,1.327,1.419,1.088,0.445,0.069,0.14,https://www.worldometers.info//img/flags/small/tn_ja-flag.gif
+Jordan,2019,69.7,98.6,56.3,75.8,57.6,41.4,55.2,4.906,0.837,1.225,0.815,0.383,0.11,0.13,https://www.worldometers.info//img/flags/small/tn_jo-flag.gif
+Kazakhstan,2019,72.2,98.6,53.3,81.0,95.8,76.4,72.4,5.809,1.173,1.508,0.729,0.41,0.146,0.096,https://www.worldometers.info//img/flags/small/tn_kz-flag.gif
+Kenya,2019,60.5,47.0,56.8,51.0,70.6,69.1,46.4,4.509,0.512,0.983,0.581,0.431,0.372,0.053,https://www.worldometers.info//img/flags/small/tn_ke-flag.gif
+Latvia,2019,80.2,100.0,64.9,84.4,97.5,77.9,89.2,5.94,1.187,1.465,0.812,0.264,0.075,0.064,https://www.worldometers.info//img/flags/small/tn_lg-flag.gif
+Lebanon,2019,67.9,99.0,54.5,77.2,99.6,44.4,66.2,5.197,0.987,1.224,0.815,0.216,0.166,0.027,https://www.worldometers.info//img/flags/small/tn_le-flag.gif
+Liberia,2019,49.6,26.3,46.8,33.1,42.9,44.6,52.9,3.975,0.073,0.922,0.443,0.37,0.233,0.033,https://www.worldometers.info//img/flags/small/tn_li-flag.gif
+Lithuania,2019,75.8,100.0,59.4,84.8,98.4,71.7,78.8,6.149,1.238,1.515,0.818,0.291,0.043,0.042,https://www.worldometers.info//img/flags/small/tn_lh-flag.gif
+Luxembourg,2019,77.3,100.0,59.6,96.7,99.4,76.6,81.6,7.09,1.609,1.479,1.012,0.526,0.194,0.316,https://www.worldometers.info//img/flags/small/tn_lu-flag.gif
+Madagascar,2019,49.9,3.7,52.9,35.2,54.2,67.0,44.5,3.933,0.274,0.916,0.555,0.148,0.169,0.041,https://www.worldometers.info//img/flags/small/tn_ma-flag.gif
+Malawi,2019,55.4,0.9,61.5,49.4,50.8,70.5,52.2,3.41,0.191,0.56,0.495,0.443,0.218,0.089,https://www.worldometers.info//img/flags/small/tn_mi-flag.gif
+Malaysia,2019,69.2,98.9,49.2,79.4,89.2,56.8,76.3,5.339,1.221,1.171,0.828,0.508,0.26,0.024,https://www.worldometers.info//img/flags/small/tn_my-flag.gif
+Mali,2019,56.5,42.5,61.9,41.4,12.4,52.7,60.8,4.39,0.385,1.105,0.308,0.327,0.153,0.052,https://www.worldometers.info//img/flags/small/tn_ml-flag.gif
+Malta,2019,75.1,99.8,66.3,92.4,98.4,63.4,48.7,6.726,1.3,1.52,0.999,0.564,0.375,0.151,https://www.worldometers.info//img/flags/small/tn_mt-flag.gif
+Mauritania,2019,56.2,74.0,43.2,52.1,39.4,38.5,58.0,4.49,0.57,1.167,0.489,0.066,0.106,0.088,https://www.worldometers.info//img/flags/small/tn_mr-flag.gif
+Mauritius,2019,68.6,98.1,71.4,78.8,91.7,52.1,71.1,5.888,1.12,1.402,0.798,0.498,0.215,0.06,https://www.worldometers.info//img/flags/small/tn_mp-flag.gif
+Mexico,2019,69.1,87.4,61.5,78.0,96.1,79.2,70.7,6.595,1.07,1.323,0.861,0.433,0.074,0.073,https://www.worldometers.info//img/flags/small/tn_mx-flag.gif
+Moldova,2019,77.5,98.6,60.1,77.7,98.6,69.6,70.1,5.529,0.685,1.328,0.739,0.245,0.181,0.0,
+Mongolia,2019,65.5,94.8,48.1,63.6,95.9,65.6,64.3,5.285,0.948,1.531,0.667,0.317,0.235,0.038,https://www.worldometers.info//img/flags/small/tn_mg-flag.gif
+Montenegro,2019,70.8,98.9,51.4,75.2,87.6,58.4,65.0,5.523,1.051,1.361,0.871,0.197,0.142,0.08,https://www.worldometers.info//img/flags/small/tn_mj-flag.gif
+Morocco,2019,70.0,93.7,63.2,73.6,74.5,43.6,62.8,5.208,0.801,0.782,0.782,0.418,0.036,0.076,https://www.worldometers.info//img/flags/small/tn_mo-flag.gif
+Myanmar,2019,62.6,76.9,65.6,54.9,61.1,56.3,67.7,4.36,0.71,1.181,0.555,0.525,0.566,0.172,https://www.worldometers.info//img/flags/small/tn_bm-flag.gif
+Namibia,2019,63.5,61.7,49.7,46.5,71.8,86.6,55.9,4.639,0.879,1.313,0.477,0.401,0.07,0.056,https://www.worldometers.info//img/flags/small/tn_wa-flag.gif
+Nepal,2019,66.2,75.6,63.8,59.1,91.1,50.3,69.8,4.913,0.446,1.226,0.677,0.439,0.285,0.089,https://www.worldometers.info//img/flags/small/tn_np-flag.gif
+Netherlands,2019,78.7,99.2,67.7,95.8,98.3,80.7,87.2,7.488,1.396,1.522,0.999,0.557,0.322,0.298,
+Nicaragua,2019,64.4,67.3,54.8,75.9,78.0,80.8,66.3,6.105,0.694,1.325,0.835,0.435,0.2,0.127,https://www.worldometers.info//img/flags/small/tn_nu-flag.gif
+Niger,2019,46.9,11.9,46.8,37.9,2.8,41.0,43.1,4.628,0.138,0.774,0.366,0.318,0.188,0.102,
+Nigeria,2019,53.2,40.6,60.8,33.8,38.8,39.1,58.9,5.265,0.696,1.111,0.245,0.426,0.215,0.041,https://www.worldometers.info//img/flags/small/tn_ni-flag.gif
+North Macedonia,2019,73.0,95.6,62.6,76.9,72.8,58.2,71.7,5.274,0.983,1.294,0.838,0.345,0.185,0.034,
+Norway,2019,81.9,99.2,61.8,97.3,97.6,88.6,83.7,7.554,1.488,1.582,1.028,0.603,0.271,0.341,https://www.worldometers.info//img/flags/small/tn_no-flag.gif
+Pakistan,2019,58.4,75.8,42.9,44.3,59.7,37.0,49.0,5.653,0.677,0.886,0.535,0.313,0.22,0.098,https://www.worldometers.info//img/flags/small/tn_pk-flag.gif
+Panama,2019,66.9,95.1,49.6,80.8,76.9,65.0,70.9,6.321,1.149,1.442,0.91,0.516,0.109,0.054,https://www.worldometers.info//img/flags/small/tn_pm-flag.gif
+Paraguay,2019,68.0,93.6,75.1,73.4,72.8,66.5,76.3,5.743,0.855,1.475,0.777,0.514,0.184,0.08,https://www.worldometers.info//img/flags/small/tn_pa-flag.gif
+Peru,2019,71.8,85.5,70.5,81.7,98.4,69.8,77.6,5.697,0.96,1.274,0.854,0.455,0.083,0.027,https://www.worldometers.info//img/flags/small/tn_pe-flag.gif
+Philippines,2019,67.2,79.7,68.2,60.3,87.2,64.0,69.9,5.631,0.807,1.293,0.657,0.558,0.117,0.107,
+Poland,2019,80.9,99.0,65.8,85.9,98.8,72.0,84.4,6.182,1.206,1.438,0.884,0.483,0.117,0.05,https://www.worldometers.info//img/flags/small/tn_pl-flag.gif
+Portugal,2019,79.1,99.9,63.9,92.4,95.0,82.8,80.3,5.693,1.221,1.431,0.999,0.508,0.047,0.025,https://www.worldometers.info//img/flags/small/tn_po-flag.gif
+Romania,2019,76.7,98.2,73.3,80.0,83.4,57.5,76.1,6.07,1.162,1.232,0.825,0.462,0.083,0.005,https://www.worldometers.info//img/flags/small/tn_ro-flag.gif
+Saudi Arabia,2019,64.9,100.0,56.9,76.7,79.5,42.5,59.1,6.375,1.403,1.357,0.795,0.439,0.08,0.132,https://www.worldometers.info//img/flags/small/tn_sa-flag.gif
+Senegal,2019,60.4,60.4,61.1,58.9,28.1,43.3,64.2,4.681,0.45,1.134,0.571,0.292,0.153,0.072,https://www.worldometers.info//img/flags/small/tn_sg-flag.gif
+Serbia,2019,77.5,100.0,76.2,83.0,94.5,64.0,74.9,5.603,1.004,1.383,0.854,0.282,0.137,0.039,https://www.worldometers.info//img/flags/small/tn_ri-flag.gif
+Sierra Leone,2019,54.5,32.4,55.8,36.7,53.1,46.6,48.6,4.374,0.268,0.841,0.242,0.309,0.252,0.045,https://www.worldometers.info//img/flags/small/tn_sl-flag.gif
+Slovenia,2019,80.5,99.4,65.9,93.3,95.4,76.8,87.8,6.118,1.258,1.523,0.953,0.564,0.144,0.057,https://www.worldometers.info//img/flags/small/tn_si-flag.gif
+South Africa,2019,63.2,52.2,55.2,54.2,76.7,76.7,62.1,4.722,0.96,1.351,0.469,0.389,0.13,0.055,https://www.worldometers.info//img/flags/small/tn_sf-flag.gif
+Spain,2019,79.5,98.7,64.0,94.9,95.7,86.3,87.4,6.354,1.286,1.484,1.062,0.362,0.153,0.079,https://www.worldometers.info//img/flags/small/tn_sp-flag.gif
+Sri Lanka,2019,69.6,90.3,69.1,79.1,98.2,52.0,50.2,4.366,0.949,1.265,0.831,0.47,0.244,0.047,https://www.worldometers.info//img/flags/small/tn_ce-flag.gif
+Sweden,2019,86.0,98.9,65.3,96.9,99.9,91.5,95.1,7.343,1.387,1.487,1.009,0.574,0.267,0.373,https://www.worldometers.info//img/flags/small/tn_sw-flag.gif
+Switzerland,2019,80.7,99.5,69.9,97.2,98.0,85.2,90.5,7.48,1.452,1.526,1.052,0.572,0.263,0.343,https://www.worldometers.info//img/flags/small/tn_sz-flag.gif
+Tajikistan,2019,68.9,74.7,64.6,67.5,73.5,53.8,59.5,5.467,0.493,1.098,0.718,0.389,0.23,0.144,https://www.worldometers.info//img/flags/small/tn_ti-flag.gif
+Tanzania,2019,56.9,24.7,61.8,46.2,49.2,71.0,51.5,3.231,0.476,0.885,0.499,0.417,0.276,0.147,
+Thailand,2019,73.8,98.5,58.6,79.4,97.0,70.8,75.9,6.008,1.05,1.409,0.828,0.557,0.359,0.028,https://www.worldometers.info//img/flags/small/tn_th-flag.gif
+Togo,2019,55.2,29.1,60.1,45.6,75.7,41.0,50.8,4.085,0.275,0.572,0.41,0.293,0.177,0.085,https://www.worldometers.info//img/flags/small/tn_to-flag.gif
+Tunisia,2019,71.9,98.0,62.6,79.2,87.8,48.9,63.5,4.461,0.921,1.0,0.815,0.167,0.059,0.055,https://www.worldometers.info//img/flags/small/tn_ts-flag.gif
+Uganda,2019,53.6,23.8,66.9,49.2,40.2,64.9,46.8,4.189,0.332,1.069,0.443,0.356,0.252,0.06,https://www.worldometers.info//img/flags/small/tn_ug-flag.gif
+United Kingdom,2019,81.0,99.0,68.5,94.0,99.2,82.2,94.4,7.054,1.333,1.538,0.996,0.45,0.348,0.278,https://www.worldometers.info//img/flags/small/tn_uk-flag.gif
+United States,2019,74.9,98.8,68.7,88.8,94.1,74.4,83.6,6.892,1.433,1.457,0.874,0.454,0.28,0.128,https://www.worldometers.info//img/flags/small/tn_us-flag.gif
+Uruguay,2019,77.3,98.5,67.1,85.1,95.9,73.1,75.7,6.293,1.124,1.465,0.891,0.523,0.127,0.15,https://www.worldometers.info//img/flags/small/tn_uy-flag.gif
+Uzbekistan,2019,69.4,56.4,67.2,77.0,77.2,76.4,58.8,6.174,0.745,1.529,0.756,0.631,0.322,0.24,https://www.worldometers.info//img/flags/small/tn_uz-flag.gif
+Vietnam,2019,71.4,95.5,72.2,68.5,97.9,71.3,73.7,5.175,0.741,1.346,0.851,0.543,0.147,0.073,https://www.worldometers.info//img/flags/small/tn_vi-flag.gif
+Zambia,2019,53.4,10.4,58.7,42.8,66.1,65.9,52.6,4.107,0.578,1.058,0.426,0.431,0.247,0.087,https://www.worldometers.info//img/flags/small/tn_za-flag.gif
+Zimbabwe,2019,53.7,21.4,46.0,40.6,60.6,77.0,51.3,3.663,0.366,1.114,0.433,0.361,0.151,0.089,https://www.worldometers.info//img/flags/small/tn_zi-flag.gif
